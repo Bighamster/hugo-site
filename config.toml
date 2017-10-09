@@ -1,0 +1,26 @@
+baseURL = "http://bighamster.ru/"
+languageCode = "ru"
+title = "Bighamster's notes"
+# theme = "bighamster"
+
+paginate = 5
+
+disqusShortname = "bighamster"
+
+# [blackfriday]
+#   angledQuotes = true
+#   hrefTargetBlank = true
+
+[related]
+  threshold = 0
+  includeNewer = false
+  toLower = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  dateFormat = "January 2, 2006"
+  github = "https://github.com/bighamster"
+  copyright = "Copyright (C) 2017-2018, Bighamster. All rights reserved."

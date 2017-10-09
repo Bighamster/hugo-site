@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+  {{ .Content }}
+
+  {{ $paginator := .Paginate (where .Pages "Section" (or .Section "it")) }}
+  
+  <div class="row">
+    <div class="col-10 pl-0 pr-0">
+      <div class="list-group">
+        {{ range $paginator.Pages }}
+          {{ partial "summary.html" . }}
+        {{ end }}
+      </div>
+
+      {{ partial "pagination.html" . }}
+    </div>
+
+    <div class="col-2">
+      {{ partial "panel-categories.html" . }}
+    </div>
+
+  </div>
+
+{{end}}

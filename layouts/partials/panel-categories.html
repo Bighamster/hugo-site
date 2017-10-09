@@ -1,0 +1,17 @@
+<div class="panel-categories mt-3">
+
+  {{ range where .Pages "Section" (or .Section "it") }}
+    {{ if isset .Params "categories" }}
+      {{ $.Scratch.Add "arr" .Params.categories }}
+    {{ end }}
+  {{ end }}
+
+  {{ range uniq ($.Scratch.Get "arr") }}
+    {{ $cat := index $.Site.Taxonomies.categories . }}
+    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="d-flex justify-content-between align-items-center">
+      {{ humanize . }}
+      <span class="badge badge-primary badge-pill">{{ $cat.Count }}</span>
+    </a>
+  {{ end }}
+
+</div>

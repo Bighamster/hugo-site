@@ -1,0 +1,25 @@
+
+{{ define "main" }}
+  <main class="pt-3 pl-0 pr-0">
+      <article>
+        <header>
+          <div class="d-flex w-100 justify-content-between">
+            <h3>{{ .Title }}</h2>
+            <small class="text-muted">{{ .Date.Format $.Site.Params.DateFormat }}</small>
+          </div>
+
+          {{ partial "summary-author.html" . }}
+        </header>
+
+        <hr>
+
+        {{ partial "table-of-contents.html" . }}
+
+        {{ .Content }}
+
+      </article>
+  </main>
+
+  {{ partial "disqus.html" . }}
+
+{{ end }}
