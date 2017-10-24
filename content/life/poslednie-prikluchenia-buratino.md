@@ -4,7 +4,7 @@ date: 2017-10-22T11:17:59+03:00
 draft: true
 source_url: http://eu-shestakov.livejournal.com/585669.html
 source_name: Евгений Шестаков
-categories: ["tiles"]
+categories: ["tile"]
 toc: false
 ---
 # Глава 1

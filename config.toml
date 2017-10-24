@@ -1,3 +1,4 @@
+DefaultContentLanguage = "ru"
 baseURL = "http://bighamster.ru/"
 languageCode = "ru"
 title = "Bighamster's notes"

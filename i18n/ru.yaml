@@ -1,0 +1,20 @@
+- id: other
+  translation: Другое
+- id: helper
+  translation: Хелперы
+- id: development
+  translation: Разработка
+- id: ruby
+  translation: Ruby
+- id: tile
+  translation: Рассказы
+- id: french-defense
+  translation: Французская защита
+- id: yar-sanich
+  translation: Яр Саныч
+- id: skandinavskaya
+  translation: Скандинавская партия
+- id: inalianskaya
+  translation: Итальянская партия
+- id: ring-gambit
+  translation: Королевский гамбит

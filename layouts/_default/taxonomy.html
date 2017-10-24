@@ -1,14 +1,24 @@
 {{ define "main" }}
 
+  <p class="mt-4">
+    <h3>:{{ i18n .Data.Term }}</h3>
+  </p>
+
   {{ .Content }}
 
   {{ $paginator := .Paginate .Pages }}
 
   <div class="row">
-    <div class="list-group">
-      {{ range $paginator.Pages }}
-        {{ partial "summary.html" . }}
-      {{ end }}
+    <div class="col-12 pl-0 pr-0">
+      <div class="list-group">
+        {{ range $paginator.Pages }}
+          <div class="list-group-item flex-column align-items-start border-0">
+            {{ partial "summary.html" . }}
+          </div>
+        {{ end }}
+      </div>
+
+      {{ partial "pagination.html" . }}
     </div>
   </div>
 

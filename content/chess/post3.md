@@ -2,7 +2,7 @@
 title: "Итальянская партия (чёрными)"
 date: 2017-10-24T16:14:40+03:00
 draft: true
-categories: ["beginning","yar-sanich","for-black"]
+categories: ["inalianskaya","yar-sanich"]
 source_url: "https://www.youtube.com/watch?v=DASTuco4u58&t=1214s"
 source_name: "Яр Саныч"
 toc: false
