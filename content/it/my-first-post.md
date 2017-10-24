@@ -7,6 +7,42 @@ categories: ["development","ruby"]
 
 Моя первая страница! )))
 
+~~~ ruby
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+~~~
+
+~~~markdown
+  ( \
+   \ \
+   / /                |\\
+  / /     .-`````-.   / ^`-.
+  \ \    /         \_/  {|} `o
+   \ \  /   .---.   \\ _  ,--'
+    \ \/   /     \,  \( `^^^
+     \   \/\      (\  )
+      \   ) \     ) \ \
+      ) /__ \__  ) (\ \___
+      (___)))__))(__))(__)))
+~~~
+
+Прежде всего полезные сайты для начинающих:
+
+1.  [Практическое руководство по Jekyll](https://habrahabr.ru/post/207650/)
+1.  [Это веб-приложение «prose.io» позволяет писать/корректировать посты](http://prose.io)
+1.  [Online converter Markdown -> HTML](http://markdown-here.com/livedemo.html)
+1.  [Шпаргалка по Markdown    ](http://cheat.jekyll.tips/)
+1.  [Шпаргалка по Markdown раз](http://romeogolf.site/pelican-i-ispolzovanie-markdown.html)
+1.  [Шпаргалка по Markdown два](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1.  [Шпаргалка по Markdown три](http://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+1.  [Официальная документация](https://jekyllrb.com/docs/home/)
+1.  [Официальная документация (на русском)](http://prgssr.ru/documentation/)
+1.  [Еще одно руководство по Markdown](http://vstarkov.ru/markdown-basics/)
+1.  [Про микроразметку https://schema.org/BlogPosting](http://wp-fairytale.com/optimization/mikrorazmetka-schema-org.html)
+
 {{< vimeo 146022717 >}}
 
 {{< tweet 877500564405444608 >}}
