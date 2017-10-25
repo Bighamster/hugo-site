@@ -10,6 +10,8 @@
   translation: Рассказы
 - id: french-defense
   translation: Французская защита
+- id: french-gambit
+  translation: Французский гамбит
 - id: yar-sanich
   translation: Яр Саныч
 - id: skandinavskaya
@@ -18,3 +20,11 @@
   translation: Итальянская партия
 - id: ring-gambit
   translation: Королевский гамбит
+- id: karokan
+  translation: Защита Каро-Кан
+- id: two-hourses-defense
+  translation: Защита двух коней
+- id: catalan-beginning
+  translation: Каталонское начало
+- id: chess-other
+  translation: Другие партии

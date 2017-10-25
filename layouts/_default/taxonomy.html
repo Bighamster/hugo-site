@@ -1,7 +1,7 @@
 {{ define "main" }}
 
   <p class="mt-4">
-    <h3>:{{ i18n .Data.Term }}</h3>
+    <h3>> {{ i18n .Data.Term }}</h3>
   </p>
 
   {{ .Content }}
@@ -17,8 +17,6 @@
           </div>
         {{ end }}
       </div>
-
-      {{ partial "pagination.html" . }}
     </div>
   </div>
 
