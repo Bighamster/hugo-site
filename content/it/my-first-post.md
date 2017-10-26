@@ -3,17 +3,10 @@ title: "My First Post"
 date: 2017-10-07T18:01:52+03:00
 draft: true
 categories: ["development","ruby"]
+disqus: false
 ---
 
 Моя первая страница! )))
-
-~~~ ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-~~~
 
 ~~~markdown
   ( \
@@ -29,8 +22,11 @@ print_hi('Tom')
       (___)))__))(__))(__)))
 ~~~
 
+<!--more-->
+
 Прежде всего полезные сайты для начинающих:
 
+1.  [Конвертор текстов в Markdown](http://markitdown.medusis.com/)
 1.  [Практическое руководство по Jekyll](https://habrahabr.ru/post/207650/)
 1.  [Это веб-приложение «prose.io» позволяет писать/корректировать посты](http://prose.io)
 1.  [Online converter Markdown -> HTML](http://markdown-here.com/livedemo.html)

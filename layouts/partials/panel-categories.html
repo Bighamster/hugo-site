@@ -9,7 +9,8 @@
   {{ range uniq ($.Scratch.Get "arr") }}
     {{ $cat := index $.Site.Taxonomies.categories . }}
     <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="d-flex justify-content-between align-items-center">
-      {{ i18n . }}
+      {{ $name := i18n . }}
+      {{ if $name }} {{ $name }} {{ else }} {{ humanize . }} {{ end }}
       <span class="badge badge-primary badge-pill">{{ $cat.Count }}</span>
     </a>
   {{ end }}

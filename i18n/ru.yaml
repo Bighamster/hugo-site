@@ -1,3 +1,7 @@
+- id: receipt
+  translation: Рецепт
+- id: poem
+  translation: Стихи
 - id: other
   translation: Другое
 - id: helper
@@ -6,7 +10,7 @@
   translation: Разработка
 - id: ruby
   translation: Ruby
-- id: tile
+- id: tale
   translation: Рассказы
 - id: french-defense
   translation: Французская защита

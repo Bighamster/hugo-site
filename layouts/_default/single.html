@@ -20,6 +20,10 @@
       </article>
   </main>
 
-  {{ partial "disqus.html" . }}
+  {{ $hide_disqus := and (isset .Params "disqus") (eq .Params.disqus false) }}
+
+  {{ if not $hide_disqus }}
+    {{ partial "disqus.html" . }}
+  {{ end }}
 
 {{ end }}

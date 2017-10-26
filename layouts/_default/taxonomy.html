@@ -1,7 +1,10 @@
 {{ define "main" }}
 
   <p class="mt-4">
-    <h3>> {{ i18n .Data.Term }}</h3>
+    <h3>>
+      {{ $name := i18n .Data.Term }}
+      {{ if $name }} {{ $name }} {{ else }} {{ humanize .Data.Term }} {{ end }}
+    </h3>
   </p>
 
   {{ .Content }}
