@@ -9,8 +9,10 @@ toc: false
 disqus: false
 ---
 
-<div class="col-6">
-  {{< youtube 2XXd_KPShjE >}}
+<div class="row">
+  <div class="col-6">
+    {{< youtube 2XXd_KPShjE >}}
+  </div>
 </div>
 
 <!--more-->

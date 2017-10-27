@@ -1,9 +1,12 @@
+
+- id: lyrics
+  translation: Песни
 - id: receipt
   translation: Рецепт
 - id: poem
   translation: Стихи
 - id: other
-  translation: Другое
+  translation: Разное
 - id: helper
   translation: Хелперы
 - id: development
