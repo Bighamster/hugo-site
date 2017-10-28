@@ -5,7 +5,7 @@ draft: true
 categories: ["poem"]
 source_url: "https://www.stihi.ru/2012/03/11/7408"
 source_name: "Астра Аделина"
-toc: false
+
 disqus: false
 ---
 <!--more-->

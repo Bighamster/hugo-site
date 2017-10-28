@@ -5,7 +5,7 @@ draft: true
 categories: ["two-hourses-defense","yar-sanich"]
 source_url: "https://www.youtube.com/user/Yarsanych983/videos?sort=dd&view=0&flow=grid"
 source_name: "Яр Саныч"
-toc: false
+
 ---
  (для 3-1 разряда)
 <!--more-->

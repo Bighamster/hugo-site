@@ -5,7 +5,7 @@ draft: true
 categories: ["ring-gambit","yar-sanich","other"]
 source_url: "https://www.youtube.com/user/Yarsanych983/videos?sort=dd&view=0&flow=grid"
 source_name: "Яр Саныч"
-toc: false
+
 ---
 (от 1 разряда и выше)
 

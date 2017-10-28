@@ -5,7 +5,7 @@ draft: true
 categories: ["lyrics"]
 source_url: "http://www.youtube.com/watch?v=IR1Psd1wz5w"
 source_name: "Cat Pierce"
-toc: false
+
 disqus: false
 ---
 

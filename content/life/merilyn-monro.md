@@ -3,7 +3,7 @@ title: "Merilyn Monro (последния фотосессия)"
 date: 2017-10-27T08:35:53+03:00
 draft: true
 categories: ["other"]
-toc: false
+
 disqus: false
 ---
 <!--more-->

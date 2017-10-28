@@ -1,0 +1,91 @@
+{{ define "main" }}
+
+  <div class="row mt-3">
+    <div class="col-8">
+      <div class="row">
+        <div class="col">
+          <ul class="">
+            <li>PostgreSQL</li>
+            <li>MongoDB</li>
+            <li>ORACLE</li>
+            <li>MS-SQL (OLAP)</li>
+            <li>Sybase</li>
+          </ul>
+        </div>
+        <div class="col">
+          <ul class="">
+            <li>Ruby</li>
+            <li>Javascript</li>
+            <li>Go</li>
+            <li>Java</li>
+            <li>PowerBuilder</li>
+            <li>C/C++</li>
+          </ul>
+        </div>
+        <div class="col">
+          <ul class="">
+            <li>Ruby on Rails</li>
+            <li>Vue.js</li>
+            <li>Angular.js</li>
+            <li>NodeJS</li>
+            <li>jQuery</li>
+            <li>Bootstrap</li>
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <ul class="">
+            <li>Redis</li>
+            <li>RabbitMQ</li>
+            <li>Nginx / Apache</li>
+            <li>Sphinx / Elastic</li>
+            <li>Git</li>
+          </ul>
+        </div>
+        <div class="col">
+          <ul class="">
+            <li>Бокс</li>
+            <li>Шахматы</li>
+            <li>Велики</li>
+            <li>Вокал</li>
+            <li>Скрипка</li>
+          </ul>
+        </div>
+        <div class="col">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <ul class="list-group">
+            <li class="list-group-item border-0">
+              <strong>Вячеслав Подгорный, {{ sub now.Year 1971 }} лет, МИЭМ + МБА (финансы)</strong>
+            </li>
+            <li class="list-group-item border-0">
+              Много лет руковожу разработками in-house систем для компаний из сегмента on-line retail.
+              В настоящее время пишу на RoR + Postgres + Redis + RabbitMQ,
+              управленческую отчетность предпочитаю делать в кубах (MS Analysis).
+            </li>
+            <li class="list-group-item border-0">
+              <a href="mailto:vpodgornyy@gmail.com">vpodgornyy@gmail.com</a>
+            </li>
+            <li class="list-group-item border-0">
+              <a href="https://github.com/Bighamster" target="_blank">
+                <i class="fa fa-3x fa-github text-muted" aria-hidden="true"></i>
+              </a>
+              <a href="https://www.facebook.com/profile.php?id=100005027839074" target="_blank">
+                <i class="fa fa-3x fa-facebook-official text-muted" aria-hidden="true"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-4 text-right">
+      <img src="/assets/images/me.jpg" alt="">
+    </div>
+  </div>
+
+{{end}}
+
+{{ define "footer" }} {{ partial "empty.html" . }} {{ end }}

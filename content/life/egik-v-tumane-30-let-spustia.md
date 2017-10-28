@@ -4,7 +4,7 @@ date: 2017-10-23T11:17:59+03:00
 draft: true
 source_name: mobilshark
 categories: ["tale"]
-toc: false
+
 ---
 
 {{< figure src="/assets/images/egik-v-tumane.jpg" class="float-left pr-3">}}

@@ -4,7 +4,7 @@ date: 2017-10-26T21:41:02+03:00
 draft: true
 categories: ["poem"]
 source_name: "Эдуард Асадов"
-toc: false
+
 disqus: false
 ---
 <!--more-->

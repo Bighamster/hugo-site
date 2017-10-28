@@ -4,7 +4,7 @@ date: 2017-10-26T23:11:10+03:00
 draft: true
 categories: ["tale"]
 source_name: "Макс Фрай"
-toc: false
+
 disqus: false
 ---
 

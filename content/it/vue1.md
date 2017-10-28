@@ -5,6 +5,6 @@ draft: true
 categories: ["vue.js"]
 source_url: "https://habrahabr.ru/company/ruvds/blog/340926/"
 source_name: "Хабрахабр"
-toc: false
+
 disqus: false
 ---

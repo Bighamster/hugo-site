@@ -2,7 +2,7 @@
 {{ $headers := findRE "<h[1-6].*?>(.|\n])+?</h[1-6]>" .Content }}
 <!-- at least one header to link to -->
 {{ $has_headers := ge (len $headers) 1 }}
-<!-- a post can explicitly disable Table of Contents with toc: false -->
+<!-- a post can explicitly disable Table of Contents with  -->
 {{ $show_toc := and (isset .Params "toc") (eq .Params.toc true) }}
 {{ if and $has_headers $show_toc }}
   <div class="table-of-contents toc">
