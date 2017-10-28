@@ -1,0 +1,17 @@
+
+.my_dark {
+  background-color: rgb(10, 25, 34) !important;
+}
+
+h1 {
+  font-size: 1.75em;
+  margin: 0.67em 0;
+}
+
+p {
+  text-align: justify;
+}
+
+.table-of-contents ul {
+  padding-left: 20px;
+}

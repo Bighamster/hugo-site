@@ -1,7 +1,7 @@
 ---
 title: "Шпаргалка по Markdown"
 date: 2017-10-07T20:35:30+03:00
-draft: true
+draft: false
 categories: ["helper"]
 source_url: "https://github.com/sandino/Markdown-Cheatsheet/blob/master/README.md"
 source_name: "sandino"

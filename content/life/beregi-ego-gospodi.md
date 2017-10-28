@@ -1,7 +1,7 @@
 ---
 title: "Береги его, Господи, мудака! "
 date: 2017-10-26T23:52:54+03:00
-draft: true
+draft: false
 categories: ["tale"]
 source_name: "не знаю"
 

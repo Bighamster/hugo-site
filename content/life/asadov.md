@@ -1,7 +1,7 @@
 ---
 title: "Как много тех, с кем можно лечь в постель"
 date: 2017-10-26T21:41:02+03:00
-draft: true
+draft: false
 categories: ["poem"]
 source_name: "Эдуард Асадов"
 

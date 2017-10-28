@@ -1,7 +1,7 @@
 ---
 title: "Hugo"
 date: 2017-10-23T12:15:30+03:00
-draft: true
+draft: false
 categories: ["helper"]
 source_url: "https://gohugo.io/getting-started/installing/"
 source_name: "gohugo.io"

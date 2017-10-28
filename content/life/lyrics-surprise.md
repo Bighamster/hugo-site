@@ -1,7 +1,7 @@
 ---
 title: "Сюрприз, сюрприз, Да здравствует сюрприз."
 date: 2017-10-26T23:23:45+03:00
-draft: true
+draft: false
 categories: ["lyrics"]
 
 disqus: false

@@ -1,7 +1,7 @@
 ---
 title: "ОБРАЩЕНИЕ К ОРУЩИМ. И НЕМНОГО ПРО МОДУ."
 date: 2017-10-26T22:29:27+03:00
-draft: true
+draft: false
 categories: ["tale"]
 source_url: "https://pesen-net.livejournal.com/84457.html"
 source_name: "Слава Сэ"

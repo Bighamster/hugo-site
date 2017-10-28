@@ -1,7 +1,7 @@
 ---
 title: "Снял он обувь"
 date: 2017-10-26T21:53:48+03:00
-draft: true
+draft: false
 categories: ["poem"]
 source_url: "https://www.stihi.ru/2012/03/11/7408"
 source_name: "Астра Аделина"

@@ -1,7 +1,7 @@
 ---
 title: "Чмок & Дай пять бро!"
 date: 2017-10-27T08:46:01+03:00
-draft: true
+draft: false
 categories: ["other"]
 
 disqus: false

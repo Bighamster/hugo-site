@@ -1,7 +1,7 @@
 ---
 title: "Through dark and light I fight to be ... so close"
 date: 2017-10-27T00:37:11+03:00
-draft: true
+draft: false
 categories: ["lyrics"]
 source_url: "http://www.youtube.com/watch?v=2XXd_KPShjE"
 source_name: "Ólafur Arnalds"

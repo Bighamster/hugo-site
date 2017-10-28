@@ -1,7 +1,7 @@
 ---
 title: "Blockhead"
 date: 2017-10-27T07:49:31+03:00
-draft: true
+draft: false
 categories: ["lyrics"]
 source_url: "https://www.youtube.com/watch?v=LkOUAXRUST0"
 source_name: "Peter Nalitch"

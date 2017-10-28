@@ -1,7 +1,7 @@
 ---
 title: "12 правил выбора правильной жены"
 date: 2017-10-27T08:04:28+03:00
-draft: true
+draft: false
 categories: ["tale"]
 source_url: "http://nnm.me/blogs/agasfer1/12-pravil-vybora-pravilnoy-zheny/"
 source_name: "NoName"

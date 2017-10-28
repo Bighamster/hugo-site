@@ -1,7 +1,7 @@
 ---
 title: "Рецепт от гайморита"
 date: 2017-10-26T22:13:56+03:00
-draft: true
+draft: false
 categories: ["receipt"]
 source_name: "от Ксении  Крыловой"
 

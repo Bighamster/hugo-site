@@ -1,7 +1,7 @@
 ---
 title: "Смешная история про собачку Клёпу"
 date: 2017-10-26T22:02:16+03:00
-draft: true
+draft: false
 categories: ["tale"]
 source_name: "не знаю"
 

@@ -1,7 +1,7 @@
 ---
 title: "Французская защита (вариант Винавера 4.е5, кроме ходов 7.Фg4 и 7.h4)"
 date: 2017-10-24
-draft: true
+draft: false
 categories: ["french-defense","yar-sanich"]
 source_url: "https://www.youtube.com/user/Yarsanych983/videos?sort=dd&view=0&flow=grid"
 source_name: "Яр Саныч"

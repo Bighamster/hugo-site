@@ -1,7 +1,7 @@
 ---
 title:
 date: 2017-10-20
-draft: true
+draft: false
 ---
 
 <a href="http://chess4you.ru/" target="_blank">

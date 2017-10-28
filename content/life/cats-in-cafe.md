@@ -1,7 +1,7 @@
 ---
 title: "Котики в кафе"
 date: 2017-10-27T08:54:51+03:00
-draft: true
+draft: false
 categories: ["other"]
 source_url: https://www.youtube.com/watch?v=0b6nLfjPs1U
 

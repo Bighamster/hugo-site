@@ -1,7 +1,7 @@
 ---
 title: "Про женщину Николая"
 date: 2017-10-26T22:18:57+03:00
-draft: true
+draft: false
 categories: ["poem"]
 source_name: "не знаю"
 

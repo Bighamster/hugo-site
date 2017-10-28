@@ -1,7 +1,7 @@
 ---
 title: "Tombe la Neige"
 date: 2017-10-27T00:03:15+03:00
-draft: true
+draft: false
 categories: ["lyrics"]
 source_url: "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC%D0%BE,_%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B5"
 source_name: "Salvatore Adamo"

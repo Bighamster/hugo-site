@@ -1,7 +1,7 @@
 ---
 title: "Женщина лет 80"
 date: 2017-10-26T23:14:52+03:00
-draft: true
+draft: false
 categories: ["tale"]
 source_name: "не знаю"
 

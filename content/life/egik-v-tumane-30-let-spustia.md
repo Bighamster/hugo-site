@@ -1,7 +1,7 @@
 ---
 title: "Ёжик в тумане. Тридцать лет спустя."
 date: 2017-10-23T11:17:59+03:00
-draft: true
+draft: false
 source_name: mobilshark
 categories: ["tale"]
 
