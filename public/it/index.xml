@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 28 Oct 2017 12:16:08 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 16:47:03 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/it/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Siteheart</title>
+      <link>http://bighamster.ru/it/siteheart/</link>
+      <pubDate>Mon, 30 Oct 2017 16:47:03 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/siteheart/</guid>
+      <description>&lt;p&gt;SiteHeart это автоматический чат-робот, который консультирует посетителей и обходится в 33 раза дешевле услуг оператора.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Чек-лист из 68 пунктов для продвижения сайта в ТОП10 Яндекса</title>
+      <link>http://bighamster.ru/it/seo-yandex/</link>
+      <pubDate>Mon, 30 Oct 2017 16:03:59 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/seo-yandex/</guid>
+      <description>&lt;p&gt;На всякий случай
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Шпаргалка по пакетному менеджеру NPM</title>
@@ -69,7 +89,7 @@
       <guid>http://bighamster.ru/it/my-first-post/</guid>
       <description>&lt;figure &gt;
     
-        &lt;img src=&#34;http://bighamster.ru/assets/images/cat_in_prison.jpg&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/assets/pics/cat_in_prison.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;

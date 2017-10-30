@@ -20,6 +20,8 @@
 
     
 
+    <link href="data:image/x-icon;base64,AAABAAEAEBAAAAAAAABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEDAAACBgCa9P4Aj4OhAPfz8ABItvsAD1OcABWL+gBni6gAdqHFAAAKFQCZsMQAg+38ALbCzAACLK8ARp7qAP77/wD9/v8AM1JsAIaJhwACFh4ABEaRANXe4AANMVMAI3/OAAAAAQABGzYAAAUHAPn28QCyv80AABAfAAEzSAApWoUAG0llAJzC4AADAAIADDddALrS6wADQcIAAAUIADya4AAABgsAAyc3APr58gBEfrEA+/r+AHnN8AAGOJ8AAQ4sAB1kkgDHv84ADTFVAAw1WACqu8wAoez7ABCP9wA9YoMA+fj5AAALEgDg6O4APIDBAAAOGwAIKE0AWH2dAOnv8QDl8fcA8O/oAN3b2gAEY+EAlPn/AAACAQD18vEAAC+GAPP1+gAACBMAvLy+AIq22gD98j8A/fz0AAALHADS+f4AAA4cAAAPHwACMqoAnrjOAAczSwDm8fgAABQuAAkxTgBLa4QA0t/nAAAWlgAAEz0AnqOiAAIXNwCxrdEAAAcIAPn8/gAAByMALSRUABN50wDBwr8AARN8AAARJgDR2uIADrj/ABNPcgBAkdIAATtkAILa9gDDzdcA9fTwAHmZswAFITIAAAQJAE208gAARG0AE1KNAEZ2rwCGmq0A+vz2AAAQJAD///8Am5ieAKyGlQBfufgAGWCcAPbngwDU3eMAABUzAAIUMAADNGIAAAEBABMOJwBc0P4ATHKSAPb19ACzrNkAAj9xABNaggAACA0A/PTxAAUGBwAABxMAAXD5AAYpOQAACxYABDCVANL4/gABExMA6OnsAAAVGQAHYrUA/v79AAARHwAAECUABWK+AAgwRQAAEyUAABUiAAAWJQBje5IAARg0AGOBmwAXUXEA8fL1AN3f4QAAAQIA9vPvAAA/aQAeZ6kAfeT7AAFGzgAABhoAAiNMAChrrAD//fsASdL9ALLL3QADff0AJna7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfWDUlglIAAAAAAAAAAACTP0A2Hgk0CwAAAAAAAKF6OVtwqQVDPIicOwAAAKBopLOJRF4UTCwmcVOfAABTolUtHXtIZntPPU14UACbExd2sHk6ZIYzsbWUQVoLow4Mq2xCjopgfRIQZQqXgxtvgX8pfhJ7EZoDdJmnpl8+ImkHnTiHYi5GapFUSiFLAJBoFnyPJ0W0ZyRXra4CAAAAYV0jgHcZCARON2OoAAAAlnJ1STAGUZWyD1yqmAAAAChZkm2eL6wNbosgGBUAAAAcjGtWRxqoAYWopTIrAAAAAI2EcwAAAAAAADGvKgAAAAAAAAAAAAAAAAAAAAAAAPgfAADwDwAAwAMAAIABAACAAQAAAAAAAAAAAAAAAAAAAAAAAIABAADAAwAAgAMAAIADAACAAwAAx+MAAP//AAA=" rel="icon" type="image/x-icon" />
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
@@ -36,15 +38,26 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
 
+    
+      
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9652528-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-9652528-3');
+</script>
+
+    
+
     <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
-
     <link rel="stylesheet" href="/assets/css/common.css">
-    <link rel="stylesheet" href="/assets/css/pagination.css">
-
+    <script src="/assets/js/common.js"></script>
   </head>
   <body>
     <header>
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark my_dark">
+  <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark my_header">
     <div class="container">
       <a class="navbar-brand active" href="/">BH</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsBH" aria-controls="navbarsBH" aria-expanded="false" aria-label="Toggle navigation">
@@ -119,7 +132,7 @@
 
 <figure class="float-right pl-2">
     
-        <img src="/assets/images/alice_and_basilio.jpg" />
+        <img src="/assets/pics/alice_and_basilio.jpg" />
     
     
 </figure>

@@ -8,7 +8,7 @@ source_name: "кино: Веселое сновидение"
 disqus: false
 ---
 
-{{< figure src="/assets/images/shulepova.jpg" class="float-left pr-3">}}
+{{< figure src="/assets/pics/shulepova.jpg" class="float-left pr-3">}}
 
 <pre>
 Добрый лес. Беспокойный день.  

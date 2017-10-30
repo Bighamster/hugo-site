@@ -1,6 +1,13 @@
 
-.my_dark {
+.my_header {
   background-color: rgb(10, 25, 34) !important;
+  /*background-color: #0075be !important;*/
+  /*border-bottom: 9px solid #d8d8d8;*/
+}
+
+body {
+  padding-top: 50px;
+  /*background-color: #0075be;*/
 }
 
 h1 {

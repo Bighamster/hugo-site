@@ -10,7 +10,7 @@ disqus: false
 ---
 <!--more-->
 
-{{< figure src="/assets/images/mi-perespali-sluchaino.jpg" class="float-right pl-2">}}
+{{< figure src="/assets/pics/mi-perespali-sluchaino.jpg" class="float-right pl-2">}}
 
 <pre>
 Мы переспали случайно. Утром

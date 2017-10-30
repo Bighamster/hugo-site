@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bighamster.ru/it/siteheart/</loc>
+    <lastmod>2017-10-30T16:47:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/seo-yandex/</loc>
+    <lastmod>2017-10-30T16:03:59+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/it/npm-helper/</loc>
     <lastmod>2017-10-28T12:16:08+03:00</lastmod>
   </url>
@@ -239,7 +249,7 @@
   
   <url>
     <loc>http://bighamster.ru/</loc>
-    <lastmod>2017-10-28T12:16:08+03:00</lastmod>
+    <lastmod>2017-10-30T16:47:03+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -287,7 +297,7 @@
   
   <url>
     <loc>http://bighamster.ru/it/</loc>
-    <lastmod>2017-10-28T12:16:08+03:00</lastmod>
+    <lastmod>2017-10-30T16:47:03+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -317,7 +327,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/other/</loc>
-    <lastmod>2017-10-27T09:44:11+03:00</lastmod>
+    <lastmod>2017-10-30T16:47:03+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -340,6 +350,12 @@
   </url>
   
   <url>
+    <loc>http://bighamster.ru/categories/seo/</loc>
+    <lastmod>2017-10-30T16:03:59+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/categories/skandinavskaya/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -353,6 +369,12 @@
   <url>
     <loc>http://bighamster.ru/categories/tale/</loc>
     <lastmod>2017-10-27T08:04:28+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/categories/try/</loc>
+    <lastmod>2017-10-30T16:47:03+03:00</lastmod>
     <priority>0</priority>
   </url>
   

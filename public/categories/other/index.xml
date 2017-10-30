@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Oct 2017 09:44:11 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 16:47:03 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/other/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Siteheart</title>
+      <link>http://bighamster.ru/it/siteheart/</link>
+      <pubDate>Mon, 30 Oct 2017 16:47:03 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/siteheart/</guid>
+      <description>&lt;p&gt;SiteHeart это автоматический чат-робот, который консультирует посетителей и обходится в 33 раза дешевле услуг оператора.
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Такие дела (тоска)</title>
@@ -20,7 +30,7 @@
       <guid>http://bighamster.ru/life/cat-on-tube/</guid>
       <description>&lt;figure &gt;
     
-        &lt;img src=&#34;http://bighamster.ru/assets/images/cat-on-tube.jpg&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/assets/pics/cat-on-tube.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -37,7 +47,7 @@
       <guid>http://bighamster.ru/life/english-tenses/</guid>
       <description>&lt;figure &gt;
     
-        &lt;img src=&#34;http://bighamster.ru/assets/images/english-tenses.jpg&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/assets/pics/english-tenses.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -76,7 +86,7 @@
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://bighamster.ru/assets/images/kiss.gif&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/assets/pics/kiss.gif&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -86,7 +96,7 @@
     
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://bighamster.ru/assets/images/give-me-five.gif&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/assets/pics/give-me-five.gif&#34; /&gt;
     
     
 &lt;/figure&gt;

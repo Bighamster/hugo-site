@@ -6,7 +6,7 @@ categories: []
 disqus: false
 ---
 
-{{< figure src="/assets/images/cat_in_prison.jpg">}}
+{{< figure src="/assets/pics/cat_in_prison.jpg">}}
 
 <!--more-->
 
