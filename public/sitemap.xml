@@ -113,7 +113,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/medicina/gaimorit-cure/</loc>
+    <loc>http://bighamster.ru/health/gaimorit-cure/</loc>
     <lastmod>2017-10-26T22:13:56+03:00</lastmod>
   </url>
   
@@ -284,6 +284,12 @@
   </url>
   
   <url>
+    <loc>http://bighamster.ru/health/</loc>
+    <lastmod>2017-10-26T22:13:56+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/categories/helper/</loc>
     <lastmod>2017-10-28T12:16:08+03:00</lastmod>
     <priority>0</priority>
@@ -316,12 +322,6 @@
   <url>
     <loc>http://bighamster.ru/categories/lyrics/</loc>
     <lastmod>2017-10-27T07:49:31+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://bighamster.ru/medicina/</loc>
-    <lastmod>2017-10-26T22:13:56+03:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -9,7 +9,7 @@ source_url: "http://marinarusakova.biz/vremena-v-anglijskom-yazyke-dlya-chajniko
 disqus: false
 ---
 
-{{< figure src="/assets/pics/english-tenses.jpg" class="">}}
+{{< figure src="/pics/english-tenses.jpg" class="">}}
 
 <!--more-->
 

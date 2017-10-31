@@ -7,8 +7,8 @@ categories: ["other"]
 disqus: false
 ---
 
-{{< figure src="/assets/pics/cat-on-tube.jpg">}}
+{{< figure src="/pics/cat-on-tube.jpg">}}
 
 <!--more-->
 
-{{< figure src="/assets/pics/toska.jpg">}}    
+{{< figure src="/pics/toska.jpg">}}    
