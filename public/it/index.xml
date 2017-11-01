@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 30 Oct 2017 16:47:03 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2017 12:33:14 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/it/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>API Яндекс.Карт</title>
+      <link>http://bighamster.ru/it/yandex-map/</link>
+      <pubDate>Wed, 01 Nov 2017 12:33:14 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/yandex-map/</guid>
+      <description>&lt;p&gt;Простой пример подключения yandex-map на сайт
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Siteheart</title>
