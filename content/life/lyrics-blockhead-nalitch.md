@@ -5,8 +5,6 @@ draft: false
 categories: ["lyrics"]
 source_url: "https://www.youtube.com/watch?v=LkOUAXRUST0"
 source_name: "Peter Nalitch"
-
-disqus: false
 ---
 
 <div class="row">

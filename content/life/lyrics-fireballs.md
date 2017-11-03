@@ -5,8 +5,6 @@ draft: false
 categories: ["lyrics"]
 source_url: "https://www.youtube.com/watch?v=PSioIR25jMc"
 source_name: "Morena"
-
-disqus: false
 ---
 
 <div class="row">

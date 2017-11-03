@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bighamster.ru/life/flashback/</loc>
+    <lastmod>2017-11-03T07:29:18+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/it/realfavicongenerator/</loc>
     <lastmod>2017-11-02T22:18:35+03:00</lastmod>
   </url>
@@ -349,7 +354,7 @@
   
   <url>
     <loc>http://bighamster.ru/</loc>
-    <lastmod>2017-11-02T22:18:35+03:00</lastmod>
+    <lastmod>2017-11-03T07:29:18+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -368,6 +373,12 @@
   <url>
     <loc>http://bighamster.ru/categories/chess-other/</loc>
     <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/categories/flashback/</loc>
+    <lastmod>2017-11-03T07:29:18+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -427,7 +438,7 @@
   
   <url>
     <loc>http://bighamster.ru/life/</loc>
-    <lastmod>2017-11-02T00:37:54+03:00</lastmod>
+    <lastmod>2017-11-03T07:29:18+03:00</lastmod>
     <priority>0</priority>
   </url>
   

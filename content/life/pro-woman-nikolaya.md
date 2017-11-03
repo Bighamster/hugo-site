@@ -4,7 +4,6 @@ date: 2017-10-26T22:18:57+03:00
 draft: false
 categories: ["poem"]
 source_name: "не знаю"
-
 disqus: true
 ---
 Вот новая женщина у Николая.  

@@ -5,7 +5,6 @@ draft: false
 categories: ["tale"]
 source_url: "http://nnm.me/blogs/agasfer1/12-pravil-vybora-pravilnoy-zheny/"
 source_name: "NoName"
-
 disqus: true
 ---
 **Как выбрать правильную жену**

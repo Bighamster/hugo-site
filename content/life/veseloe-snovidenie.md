@@ -4,8 +4,6 @@ date: 2017-10-26T23:30:48+03:00
 draft: false
 categories: ["lyrics"]
 source_name: "кино: Веселое сновидение"
-
-disqus: false
 ---
 
 {{< figure src="/pics/shulepova.jpg" class="float-left pr-3">}}

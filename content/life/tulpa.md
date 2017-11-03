@@ -5,8 +5,6 @@ draft: false
 categories: ["other"]
 source_url: "http://tulpa.ru/"
 source_name: "tulpa.ru"
-toc: false
-disqus: false
 ---
 Интересно как-нибудь попробовать.
 <!--more-->

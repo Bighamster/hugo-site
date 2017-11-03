@@ -4,8 +4,6 @@ date: 2017-10-26T23:11:10+03:00
 draft: false
 categories: ["tale"]
 source_name: "Макс Фрай"
-
-disqus: false
 ---
 
 Я вообще-то очень добрый. Я хочу в саду сидеть, чтобы упитанные,  

@@ -5,11 +5,9 @@ draft: false
 categories: ["poem"]
 source_url: https://www.youtube.com/watch?v=uEbEdw8OW4M
 ---
-<div class="container">
-  <div class="row">
-    <div class="col-6">
-      {{< youtube uEbEdw8OW4M >}}
-    </div>
+<div class="row">
+  <div class="col-6">
+    {{< youtube uEbEdw8OW4M >}}
   </div>
 </div>
 <!--more-->

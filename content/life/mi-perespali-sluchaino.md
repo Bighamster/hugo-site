@@ -5,8 +5,6 @@ draft: false
 categories: ["poem"]
 source_url: "https://vk.com/sir_archet"
 source_name: "Арчет"
-
-disqus: false
 ---
 <!--more-->
 

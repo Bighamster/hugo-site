@@ -5,8 +5,6 @@ draft: false
 categories: ["lyrics"]
 source_url: "http://www.youtube.com/watch?v=2XXd_KPShjE"
 source_name: "Ólafur Arnalds"
-
-disqus: false
 ---
 
 <div class="row">
