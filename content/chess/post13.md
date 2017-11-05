@@ -11,11 +11,11 @@ source_name: "Яр Саныч"
 <!--more-->
 <div class="container">
   <div class="row">
-    <div class="col-6">
+    <div class="col-sm-6">
       {{< youtube xK5CrSMmDF0 >}}
       <strong>Часть 1</strong>
     </div>
-    <div class="col-6">
+    <div class="col-sm-6">
       {{< youtube mqn-X-FOp54 >}}
       <strong>Часть 2</strong>
     </div>

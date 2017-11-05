@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leningrad on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/leningrad/</link>
+    <description>Recent content in Leningrad on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 18:41:11 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/leningrad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ленинград</title>
+      <link>http://bighamster.ru/music/leningrad/</link>
+      <pubDate>Sun, 05 Nov 2017 18:41:11 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/music/leningrad/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/h7xDfqSAdh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Сумка&lt;/strong&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/et281UHNoOU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Экспонат&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

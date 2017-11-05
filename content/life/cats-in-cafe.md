@@ -2,11 +2,11 @@
 title: "Котики в кафе"
 date: 2017-10-27T08:54:51+03:00
 draft: false
-categories: ["other"]
+categories: ["life-other"]
 source_url: https://www.youtube.com/watch?v=0b6nLfjPs1U
 ---
 <div class="row">
-  <div class="col-6">
+  <div class="col-sm-6">
     {{< youtube gRwyu7Zh4m0 >}}
   </div>
 </div>

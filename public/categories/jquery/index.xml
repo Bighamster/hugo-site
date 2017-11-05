@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jquery on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/jquery/</link>
+    <description>Recent content in Jquery on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 17:57:04 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/jquery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Правила хорошего тона при написании плагина на jQuery</title>
+      <link>http://bighamster.ru/it/jquery-rules/</link>
+      <pubDate>Sun, 05 Nov 2017 17:57:04 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/jquery-rules/</guid>
+      <description>&lt;p&gt;Писать расширения на jQuery довольно просто, но если хотите узнать как написать их так, чтобы потом их было просто поддерживать и расширять, добро пожаловать под кат. &lt;a href=&#34;https://habrahabr.ru/post/277603/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

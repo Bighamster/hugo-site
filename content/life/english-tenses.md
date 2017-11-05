@@ -2,7 +2,7 @@
 title: "Времена глаголов в английском языке"
 date: 2017-10-27T09:04:01+03:00
 draft: false
-categories: ["other"]
+categories: ["life-other"]
 source_name: "RusakovaKids"
 source_url: "http://marinarusakova.biz/vremena-v-anglijskom-yazyke-dlya-chajnikov-samaya-naglyadnaya-tablitsa-s-primerami/"
 

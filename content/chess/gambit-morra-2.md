@@ -9,7 +9,7 @@ source_name: "Chess Debutes"
 <!--more-->
 <div class="container">
   <div class="row">
-    <div class="col-6">
+    <div class="col-sm-6">
       {{< youtube itn31Q3uX7I >}}
     </div>
   </div>

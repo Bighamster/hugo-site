@@ -2,7 +2,7 @@
 title: "Генератор favicon (-ов)"
 date: 2017-11-02T22:18:35+03:00
 draft: false
-categories: ["other"]
+categories: ["it-other"]
 source_url: https://realfavicongenerator.net
 source_name: "Realfavicongenerator"
 disqus: true

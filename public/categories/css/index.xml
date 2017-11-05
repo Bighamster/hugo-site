@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/css/</link>
+    <description>Recent content in Css on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 17:03:57 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Подборка полезных утилит SCSS</title>
+      <link>http://bighamster.ru/it/css-utilities/</link>
+      <pubDate>Sun, 05 Nov 2017 17:03:57 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css-utilities/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Triangle&lt;/strong&gt; - примесь triangle (которую дизайнеры Sagi предпочитают называть «chupchick»), добавляет к всплывающей подсказке треугольник. И tooltips становится похожим на диалоговое окно.&lt;br /&gt;
+&lt;strong&gt;Currency&lt;/strong&gt; - отображает текущие курсы валют.
+&lt;a href=&#34;https://habrahabr.ru/company/ua-hosting/blog/276509/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CSS Refresher</title>
+      <link>http://bighamster.ru/it/css/</link>
+      <pubDate>Sun, 05 Nov 2017 09:47:11 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css/</guid>
+      <description>&lt;p&gt;Это большая коллекция практических советов и заметок по вёрстке. Своеобразная памятка для тех, кто каждодневно использует CSS. Освещаются самые разные темы, от деталей поведения плавающих элементов до использования SVG и спрайтов.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,17 +12,17 @@ source_name: "Яр Саныч"
 <!--more-->
 <div class="container">
   <div class="row">
-    <div class="col-6">
+    <div class="col-sm-6">
       {{< youtube -VILbPhOAaI >}}
       <strong>Часть 1</strong>
     </div>
-    <div class="col-6">
+    <div class="col-sm-6">
       {{< youtube t2DrDh2ZKxY >}}
       <strong>Часть 2</strong>
     </div>
   </div>
   <div class="row">
-    <div class="col-6">
+    <div class="col-sm-6">
       {{< youtube -T8j0uwgb3s >}}
       <strong>Часть 3</strong>
     </div>

@@ -7,10 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 28 Oct 2017 12:16:08 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 18:22:14 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/helper/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Карманное руководство по написанию SVG</title>
+      <link>http://bighamster.ru/it/svg-helper/</link>
+      <pubDate>Sun, 05 Nov 2017 18:22:14 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/svg-helper/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/svg-guide.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-vvedenie.html&#34;&gt;Введение&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-1-organizaciya-dokumenta.html&#34;&gt;Глава 1. Организация документа&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-2.html&#34;&gt;Глава 2. Базовые фигуры и контуры&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-3.html&#34;&gt;Глава 3. Рабочая область&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-4.html&#34;&gt;Глава 4. Заливки и обводки&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/articles/glava-5-element-text.html&#34;&gt;Глава 5. Элемент &amp;lt;text&amp;gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-6.html&#34;&gt;Глава 6. Продвинутые функции: градиенты, паттерны и т.д.&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-6.html#conclusion&#34;&gt;Заключение&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Шпаргалка по пакетному менеджеру NPM</title>

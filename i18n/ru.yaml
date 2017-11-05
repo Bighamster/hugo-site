@@ -1,16 +1,37 @@
-
+- id: chelentano
+  translation: Адриано Челентано
+- id: music-other
+  translation: Другие
+- id: pierce
+  translation: Cat Pierce
+- id: morena
+  translation: Morena
+- id: arnalds
+  translation: Ólafur Arnalds
+- id: voice
+  translation: Голос
+- id: visbor
+  translation: Варвара Визбор
+- id: adamo
+  translation: Salvatore Adamo
+- id: nalitch
+  translation: Peter Nalitch
+- id: leningrad
+  translation: Ленинград
+- id: excursions
+  translation: Экскурсии
+- id: egypt
+  translation: Египед
+- id: consciousness
+  translation: Сознание
 - id: flashback
   translation: Воспоминания
 - id: gambit-morra
   translation: Гамбит Морра
-- id: lyrics
-  translation: Песни
 - id: receipt
   translation: Рецепт
 - id: poem
   translation: Стихи
-- id: other
-  translation: Разное
 - id: helper
   translation: Хелперы
 - id: development
@@ -39,3 +60,7 @@
   translation: Каталонское начало
 - id: chess-other
   translation: Другие партии
+- id: life-other
+  translation: Разное
+- id: it-other
+  translation: Разное

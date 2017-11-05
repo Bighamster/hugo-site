@@ -6,7 +6,6 @@
   <small class="text-muted">{{ .Date.Format $.Site.Params.DateFormat }}</small>
 </div>
 
-<p class="">{{ .Summary }}</p>
+<div class="">{{ .Summary }}</div>
 
-
-{{ partial "summary-author.html" . }}
+<div>{{ partial "summary-author.html" . }}</div>

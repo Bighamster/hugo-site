@@ -4,8 +4,6 @@ date: 2017-10-26T23:52:54+03:00
 draft: false
 categories: ["tale"]
 source_name: "не знаю"
-
-disqus: false
 ---
 Ты не бойся, я уйду неслышно-  
 Ты не станешь от меня усталым.  

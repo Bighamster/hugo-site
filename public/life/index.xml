@@ -7,19 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 03 Nov 2017 07:29:18 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 18:11:59 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Письмо 15-летней дочери</title>
+      <link>http://bighamster.ru/life/letter-to-daughter/</link>
+      <pubDate>Sun, 05 Nov 2017 18:11:59 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/life/letter-to-daughter/</guid>
+      <description>&lt;p&gt;Послушай, Крошка.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Через 3 года я могу выгнать тебя из дома. Страшно звучит, да? Но тем не менее. В 18 у тебя будет 2 варианта действий: ты поступаешь в ВУЗ, и я тебя поддерживаю, как могу, до окончания, или до нахождения работы. Либо ты кладешь на ВУЗ болт (и я никогда не осужу тебя за это) и идешь работать. И обеспечиваешь свои потребности сама. Содержать не учащуюся девочку 18+ лет от роду я не буду, потому что я считаю это неправильным. У тебя есть 3 года, чтобы выбрать.. Да, мы уже придумали перепланировку к
+вартиры. В твоей комнате будет наша спальня.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Деденево (ст.Турист)</title>
-      <link>http://bighamster.ru/life/flashback/</link>
+      <link>http://bighamster.ru/life/dedenevo/</link>
       <pubDate>Fri, 03 Nov 2017 07:29:18 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/flashback/</guid>
+      <guid>http://bighamster.ru/life/dedenevo/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;figure &gt;
     
@@ -29,7 +43,7 @@
 &lt;/figure&gt;
 
   &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;figure &gt;
     
@@ -43,57 +57,13 @@
     </item>
     
     <item>
-      <title>Goran Bregović. Mahalageasca</title>
-      <link>http://bighamster.ru/life/kalashnikov/</link>
-      <pubDate>Thu, 02 Nov 2017 00:37:54 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/life/kalashnikov/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/9OxiRdgpOqs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Metal Version</title>
-      <link>http://bighamster.ru/life/metal-version/</link>
-      <pubDate>Thu, 02 Nov 2017 00:26:51 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/life/metal-version/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/KyTIui1zyt4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-    &lt;strong&gt;Буратино&lt;/strong&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/K_1pEQulmJs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-    &lt;strong&gt;Прекрасное далеко&lt;/strong&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
       <title>Что происходит на свете?</title>
       <link>http://bighamster.ru/life/what-happens/</link>
       <pubDate>Thu, 02 Nov 2017 00:23:57 +0300</pubDate>
       
       <guid>http://bighamster.ru/life/what-happens/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/ESSupBehqqw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -111,7 +81,7 @@
       
       <guid>http://bighamster.ru/life/just-for-fun/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/CShL4texXI0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -119,7 +89,7 @@
 
     &lt;strong&gt;&lt;/strong&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/CIEzTfwTTTM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -139,7 +109,7 @@
       
       <guid>http://bighamster.ru/life/delaite-vid/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/UUYlsGCAQy8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -157,38 +127,19 @@
       
       <guid>http://bighamster.ru/life/all-about-religion/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/LMT1tajuyls&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
   &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/V1yAb8wT3tY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Голос</title>
-      <link>http://bighamster.ru/life/voice-show/</link>
-      <pubDate>Wed, 01 Nov 2017 23:19:31 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/life/voice-show/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/nJzEj3Nyfco&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-    &lt;strong&gt;Александра Сиркашева, Диана Пихун, Иван Лесной &amp;lsquo;Sousleciel de Paris&amp;rsquo;&lt;/strong&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;</description>
@@ -201,7 +152,7 @@
       
       <guid>http://bighamster.ru/life/merkel/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/bJYqfMhXJbs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -219,39 +170,12 @@
       
       <guid>http://bighamster.ru/life/kasting-reutov/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/J1tbWf_uJ8s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ты моё дыхание</title>
-      <link>http://bighamster.ru/life/varvara-visbor/</link>
-      <pubDate>Wed, 01 Nov 2017 23:19:31 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/life/varvara-visbor/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/gY9C3mAJpfo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-    &lt;strong&gt;Варвара Визбор&lt;/strong&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/v532kbrHhn4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-    &lt;strong&gt;Ада Якушева&lt;/strong&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;</description>
@@ -264,7 +188,7 @@
       
       <guid>http://bighamster.ru/life/oksana-fandera/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/uEbEdw8OW4M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -282,7 +206,7 @@
       
       <guid>http://bighamster.ru/life/muzikov-nado-lubit/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/YXK1u0a9mp4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -344,7 +268,7 @@
       
       <guid>http://bighamster.ru/life/cats-in-cafe/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/gRwyu7Zh4m0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -362,7 +286,7 @@
       
       <guid>http://bighamster.ru/life/kiss/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;figure &gt;
     
@@ -372,7 +296,7 @@
 &lt;/figure&gt;
 
   &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;figure &gt;
     
@@ -406,101 +330,6 @@
 
 &lt;p&gt;Ты можешь жениться, а можешь не жениться. Если собираешься жениться, читай дальше. Обсуждать, нужно ли жениться вообще, мы не будем. Поговорим о том, как выбрать нормальную жену.
 Выбор правильной жены – вопрос чрезвычайно важный. Брак подразумевает пожизненные последствия, продумывать все нужно тщательно и наперед. В противном случае – будет плохо.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Blockhead</title>
-      <link>http://bighamster.ru/life/lyrics-blockhead-nalitch/</link>
-      <pubDate>Fri, 27 Oct 2017 07:49:31 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/life/lyrics-blockhead-nalitch/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/LkOUAXRUST0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Fireballs</title>
-      <link>http://bighamster.ru/life/lyrics-fireballs/</link>
-      <pubDate>Fri, 27 Oct 2017 00:37:11 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/life/lyrics-fireballs/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/PSioIR25jMc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Through dark and light I fight to be ... so close</title>
-      <link>http://bighamster.ru/life/thru-dark-and-light/</link>
-      <pubDate>Fri, 27 Oct 2017 00:37:11 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/life/thru-dark-and-light/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/2XXd_KPShjE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>You Belong To Me</title>
-      <link>http://bighamster.ru/life/lyrics-you-belong-to-me/</link>
-      <pubDate>Fri, 27 Oct 2017 00:37:11 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/life/lyrics-you-belong-to-me/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/IR1Psd1wz5w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tombe la Neige</title>
-      <link>http://bighamster.ru/life/tombe-la-neige/</link>
-      <pubDate>Fri, 27 Oct 2017 00:03:15 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/life/tombe-la-neige/</guid>
-      <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
-    
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/K-DKXuWuoYM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -541,33 +370,50 @@
 &lt;/figure&gt;
 
 
-&lt;pre&gt;
-Добрый лес. Беспокойный день.  
-Дальний путь, и мотив знакомый.  
+&lt;p&gt;Добрый лес. Беспокойный день.&lt;br /&gt;
+Дальний путь, и мотив знакомый.&lt;/p&gt;
 
-Знакомый…  
+&lt;p&gt;Знакомый…&lt;/p&gt;
 
-Я хочу что - бы мой настоящий друг  
-оставался со мною в любой беде  
-Что - бы были лесные цветы вокруг,  
-а дорога спешила к дому…  
-&lt;/pre&gt;
+&lt;p&gt;Я хочу что - бы мой настоящий друг&lt;br /&gt;
+оставался со мною в любой беде&lt;br /&gt;
+Что - бы были лесные цветы вокруг,&lt;br /&gt;
+а дорога спешила к дому…&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Сюрприз, сюрприз, Да здравствует сюрприз.</title>
-      <link>http://bighamster.ru/life/lyrics-surprise/</link>
+      <link>http://bighamster.ru/life/surprise/</link>
       <pubDate>Thu, 26 Oct 2017 23:23:45 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/lyrics-surprise/</guid>
-      <description>&lt;pre&gt;
-Представляете какое положение,
-Всё, что будет с вами, знаете заранее.
-Ни к чему тогда волнения, сомнения,
-Всё на свете предусмотрит расписание.
-&lt;/pre&gt;</description>
+      <guid>http://bighamster.ru/life/surprise/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/-g_aqPpvq2w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    Представляете какое положение,
+    Всё, что будет с вами, знаете заранее.
+    Ни к чему тогда волнения, сомнения,
+    Всё на свете предусмотрит расписание.
+
+    А мы бросаем скуке вызов,
+    Потому что, потому,
+    Жить на свете без сюрпризов
+    Невозможно никому.
+    Пусть удачи, неудачи,
+    Пусть полёты вверх и вниз,
+    Только так, а не иначе,
+    Только так, а не иначе,
+    Да здравствует сюрприз.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -671,7 +517,11 @@
       <pubDate>Thu, 26 Oct 2017 21:41:02 +0300</pubDate>
       
       <guid>http://bighamster.ru/life/asadov/</guid>
-      <description></description>
+      <description>&lt;p&gt;Как много тех, с кем можно лечь в постель,&lt;br /&gt;
+Как мало тех, с кем хочется проснуться…&lt;br /&gt;
+И утром, расставаясь обернуться,&lt;br /&gt;
+И помахать рукой, и улыбнуться,&lt;br /&gt;
+И целый день, волнуясь, ждать вестей.&lt;/p&gt;</description>
     </item>
     
     <item>

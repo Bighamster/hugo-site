@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>It Other on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/it-other/</link>
+    <description>Recent content in It Other on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 00:50:48 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/it-other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turntable.js</title>
+      <link>http://bighamster.ru/it/turnable/</link>
+      <pubDate>Sun, 05 Nov 2017 00:50:48 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/turnable/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/turnable.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Если у вас есть 10-15 фоток чего-нибудь последовательно снятого, то этот плагин сымитирует &amp;ldquo;вращение&amp;rdquo; объекта.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Генератор favicon (-ов)</title>
+      <link>http://bighamster.ru/it/realfavicongenerator/</link>
+      <pubDate>Thu, 02 Nov 2017 22:18:35 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/realfavicongenerator/</guid>
+      <description>&lt;p&gt;Отличный сервис, чтобы раз и навсегда забыть про проблему favicon. Отправляем картинку и получаем настройки под все возможные платформы.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>API Яндекс.Карт</title>
+      <link>http://bighamster.ru/it/yandex-map/</link>
+      <pubDate>Wed, 01 Nov 2017 12:33:14 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/yandex-map/</guid>
+      <description>&lt;p&gt;Простой пример подключения yandex-map на сайт
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Siteheart</title>
+      <link>http://bighamster.ru/it/siteheart/</link>
+      <pubDate>Mon, 30 Oct 2017 16:47:03 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/siteheart/</guid>
+      <description>&lt;p&gt;SiteHeart это автоматический чат-робот, который консультирует посетителей и обходится в 33 раза дешевле услуг оператора.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Аренда выделенного сервера</title>
+      <link>http://bighamster.ru/it/soyoustart/</link>
+      <pubDate>Tue, 24 Oct 2017 14:21:00 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/soyoustart/</guid>
+      <description>Очень неплохие dedicated-сервера с отличным пингом (если брать во Франции) у soyoustart.com</description>
+    </item>
+    
+  </channel>
+</rss>

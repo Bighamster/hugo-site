@@ -6,7 +6,7 @@ categories: ["poem"]
 source_url: https://www.youtube.com/watch?v=uEbEdw8OW4M
 ---
 <div class="row">
-  <div class="col-6">
+  <div class="col-sm-6">
     {{< youtube uEbEdw8OW4M >}}
   </div>
 </div>

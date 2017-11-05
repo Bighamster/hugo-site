@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/ruby/</link>
+    <description>Recent content in Ruby on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 12:57:10 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Как работает диспетчеризация методов в Ruby</title>
+      <link>http://bighamster.ru/it/ruby-methods/</link>
+      <pubDate>Sun, 05 Nov 2017 12:57:10 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/ruby-methods/</guid>
+      <description>&lt;p&gt;По причине того, что я в действительности не читал источники, эта статься объяснит происходящее в руби с точки зрения логики, а не с точки зрения что реально происходит. Это просто модель, с помощью которой вы сможете понять некоторые вещи.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

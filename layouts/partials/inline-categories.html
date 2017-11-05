@@ -1,0 +1,10 @@
+{{ if isset .Params "categories" }}
+  <small class="text-muted list-inline">
+    {{ range $index, $cat := .Params.categories }}
+      <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="list-inline-item">
+        {{ $name := i18n . }}
+        {{ if $name }} {{ $name }} {{ else }} {{ humanize . }} {{ end }}
+      </a>
+    {{ end }}
+  </small>
+{{ end }}

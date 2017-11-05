@@ -7,10 +7,186 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 02 Nov 2017 22:18:35 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 18:34:22 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/it/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>InteractJS</title>
+      <link>http://bighamster.ru/it/interactjs/</link>
+      <pubDate>Sun, 05 Nov 2017 18:34:22 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/interactjs/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/interact.svg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Карманное руководство по написанию SVG</title>
+      <link>http://bighamster.ru/it/svg-helper/</link>
+      <pubDate>Sun, 05 Nov 2017 18:22:14 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/svg-helper/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/svg-guide.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-vvedenie.html&#34;&gt;Введение&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-1-organizaciya-dokumenta.html&#34;&gt;Глава 1. Организация документа&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-2.html&#34;&gt;Глава 2. Базовые фигуры и контуры&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-3.html&#34;&gt;Глава 3. Рабочая область&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-4.html&#34;&gt;Глава 4. Заливки и обводки&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/articles/glava-5-element-text.html&#34;&gt;Глава 5. Элемент &amp;lt;text&amp;gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-6.html&#34;&gt;Глава 6. Продвинутые функции: градиенты, паттерны и т.д.&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-6.html#conclusion&#34;&gt;Заключение&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Правила хорошего тона при написании плагина на jQuery</title>
+      <link>http://bighamster.ru/it/jquery-rules/</link>
+      <pubDate>Sun, 05 Nov 2017 17:57:04 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/jquery-rules/</guid>
+      <description>&lt;p&gt;Писать расширения на jQuery довольно просто, но если хотите узнать как написать их так, чтобы потом их было просто поддерживать и расширять, добро пожаловать под кат. &lt;a href=&#34;https://habrahabr.ru/post/277603/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Подборка полезных утилит SCSS</title>
+      <link>http://bighamster.ru/it/css-utilities/</link>
+      <pubDate>Sun, 05 Nov 2017 17:03:57 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css-utilities/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Triangle&lt;/strong&gt; - примесь triangle (которую дизайнеры Sagi предпочитают называть «chupchick»), добавляет к всплывающей подсказке треугольник. И tooltips становится похожим на диалоговое окно.&lt;br /&gt;
+&lt;strong&gt;Currency&lt;/strong&gt; - отображает текущие курсы валют.
+&lt;a href=&#34;https://habrahabr.ru/company/ua-hosting/blog/276509/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Магия JavaScript: arguments</title>
+      <link>http://bighamster.ru/it/js-arguments/</link>
+      <pubDate>Sun, 05 Nov 2017 16:59:43 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/js-arguments/</guid>
+      <description>&lt;p&gt;arguments — очень специфическая штука, о которой новички и даже любители знают только то, что это «вроде массив, но какой-то неправильный». На самом деле, у него есть ряд интересных особенностей. Предлагаю в топике пофантазировать на тему TypeHinting, аргументов по-умолчанию и всякого другого.
+&lt;a href=&#34;https://habrahabr.ru/post/117868/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Как работает диспетчеризация методов в Ruby</title>
+      <link>http://bighamster.ru/it/ruby-methods/</link>
+      <pubDate>Sun, 05 Nov 2017 12:57:10 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/ruby-methods/</guid>
+      <description>&lt;p&gt;По причине того, что я в действительности не читал источники, эта статься объяснит происходящее в руби с точки зрения логики, а не с точки зрения что реально происходит. Это просто модель, с помощью которой вы сможете понять некоторые вещи.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CSS Refresher</title>
+      <link>http://bighamster.ru/it/css/</link>
+      <pubDate>Sun, 05 Nov 2017 09:47:11 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css/</guid>
+      <description>&lt;p&gt;Это большая коллекция практических советов и заметок по вёрстке. Своеобразная памятка для тех, кто каждодневно использует CSS. Освещаются самые разные темы, от деталей поведения плавающих элементов до использования SVG и спрайтов.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Turntable.js</title>
+      <link>http://bighamster.ru/it/turnable/</link>
+      <pubDate>Sun, 05 Nov 2017 00:50:48 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/turnable/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/turnable.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Если у вас есть 10-15 фоток чего-нибудь последовательно снятого, то этот плагин сымитирует &amp;ldquo;вращение&amp;rdquo; объекта.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Масштабирование базы данных через шардирование и партиционирование</title>
+      <link>http://bighamster.ru/it/scalability2/</link>
+      <pubDate>Sun, 05 Nov 2017 00:33:24 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/scalability2/</guid>
+      <description>&lt;p&gt;Всем привет! Меня зовут Денис Иванов, и я расскажу о масштабировании баз данных через шардирование и партиционирование. После этого доклада у всех должно появиться желание что-то попартицировать, пошардировать, вы поймете, что это очень просто, оно никак жрать не просит, работает, и все замечательно.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://habrahabr.ru/company/oleg-bunin/blog/309330/&#34;&gt;Далее&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Музыкальная теория для гиков</title>
+      <link>http://bighamster.ru/it/music-theory/</link>
+      <pubDate>Sat, 04 Nov 2017 23:52:32 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/music-theory/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/music-theory.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Кто-то считает музыку уделом избранных талантов, кто-то — набором физических закономерностей. Автор материала делает попытку объяснить знакомые каждому музыкальные термины, такие как тон, интервал, амплитуда, нота, октава, партитура, аккорд и так далее с помощью расчетов и технических обоснований.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://geektimes.ru/company/wirex/blog/281072/&#34;&gt;Перевод оригинального текста.&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация и масштабирование Web приложений</title>
+      <link>http://bighamster.ru/it/scalability/</link>
+      <pubDate>Sat, 04 Nov 2017 23:25:28 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/scalability/</guid>
+      <description>&lt;p&gt;Очень полезный сайт со статьями объясняющими проблемы масштабирования web-приложений.
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Генератор favicon (-ов)</title>

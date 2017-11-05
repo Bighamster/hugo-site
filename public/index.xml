@@ -7,19 +7,336 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 03 Nov 2017 07:29:18 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 18:41:11 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Ленинград</title>
+      <link>http://bighamster.ru/music/leningrad/</link>
+      <pubDate>Sun, 05 Nov 2017 18:41:11 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/music/leningrad/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/h7xDfqSAdh0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Сумка&lt;/strong&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/et281UHNoOU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Экспонат&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>InteractJS</title>
+      <link>http://bighamster.ru/it/interactjs/</link>
+      <pubDate>Sun, 05 Nov 2017 18:34:22 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/interactjs/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/interact.svg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Карманное руководство по написанию SVG</title>
+      <link>http://bighamster.ru/it/svg-helper/</link>
+      <pubDate>Sun, 05 Nov 2017 18:22:14 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/svg-helper/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/svg-guide.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-vvedenie.html&#34;&gt;Введение&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-1-organizaciya-dokumenta.html&#34;&gt;Глава 1. Организация документа&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-2.html&#34;&gt;Глава 2. Базовые фигуры и контуры&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-3.html&#34;&gt;Глава 3. Рабочая область&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-4.html&#34;&gt;Глава 4. Заливки и обводки&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/articles/glava-5-element-text.html&#34;&gt;Глава 5. Элемент &amp;lt;text&amp;gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/svg/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-6.html&#34;&gt;Глава 6. Продвинутые функции: градиенты, паттерны и т.д.&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-glava-6.html#conclusion&#34;&gt;Заключение&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Письмо 15-летней дочери</title>
+      <link>http://bighamster.ru/life/letter-to-daughter/</link>
+      <pubDate>Sun, 05 Nov 2017 18:11:59 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/life/letter-to-daughter/</guid>
+      <description>&lt;p&gt;Послушай, Крошка.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Через 3 года я могу выгнать тебя из дома. Страшно звучит, да? Но тем не менее. В 18 у тебя будет 2 варианта действий: ты поступаешь в ВУЗ, и я тебя поддерживаю, как могу, до окончания, или до нахождения работы. Либо ты кладешь на ВУЗ болт (и я никогда не осужу тебя за это) и идешь работать. И обеспечиваешь свои потребности сама. Содержать не учащуюся девочку 18+ лет от роду я не буду, потому что я считаю это неправильным. У тебя есть 3 года, чтобы выбрать.. Да, мы уже придумали перепланировку к
+вартиры. В твоей комнате будет наша спальня.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Правила хорошего тона при написании плагина на jQuery</title>
+      <link>http://bighamster.ru/it/jquery-rules/</link>
+      <pubDate>Sun, 05 Nov 2017 17:57:04 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/jquery-rules/</guid>
+      <description>&lt;p&gt;Писать расширения на jQuery довольно просто, но если хотите узнать как написать их так, чтобы потом их было просто поддерживать и расширять, добро пожаловать под кат. &lt;a href=&#34;https://habrahabr.ru/post/277603/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Застывшее время. Научные подходы к датированию</title>
+      <link>http://bighamster.ru/history/dating1/</link>
+      <pubDate>Sun, 05 Nov 2017 17:11:04 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/history/dating1/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/history-dating.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Сегодняшний рассказ будет о методологии науки, в частности о том, каким образом мы можем устанавливать возраст археологических находок, какие основные методы при этом используются и какие физические принципы и процессы лежат в их основе. Прелесть научных методов датировок состоит в том, что они взаимодополняемы и взаимопроверяемы, то есть с помощью одного метода мы можем проверить корректность другого и наоборот, при необходимости внося в него поправки. Также эти «часы» перекрывают огромный временной диапазон – около 9 порядков (на самом деле больше, но для исторических целей «быстрые» часы бесполезны, масштабы эволюционного времени захватывают семь или восемь порядков).
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Подборка полезных утилит SCSS</title>
+      <link>http://bighamster.ru/it/css-utilities/</link>
+      <pubDate>Sun, 05 Nov 2017 17:03:57 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css-utilities/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Triangle&lt;/strong&gt; - примесь triangle (которую дизайнеры Sagi предпочитают называть «chupchick»), добавляет к всплывающей подсказке треугольник. И tooltips становится похожим на диалоговое окно.&lt;br /&gt;
+&lt;strong&gt;Currency&lt;/strong&gt; - отображает текущие курсы валют.
+&lt;a href=&#34;https://habrahabr.ru/company/ua-hosting/blog/276509/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Магия JavaScript: arguments</title>
+      <link>http://bighamster.ru/it/js-arguments/</link>
+      <pubDate>Sun, 05 Nov 2017 16:59:43 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/js-arguments/</guid>
+      <description>&lt;p&gt;arguments — очень специфическая штука, о которой новички и даже любители знают только то, что это «вроде массив, но какой-то неправильный». На самом деле, у него есть ряд интересных особенностей. Предлагаю в топике пофантазировать на тему TypeHinting, аргументов по-умолчанию и всякого другого.
+&lt;a href=&#34;https://habrahabr.ru/post/117868/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Андриано Челентано</title>
+      <link>http://bighamster.ru/music/chelentano/</link>
+      <pubDate>Sun, 05 Nov 2017 16:12:58 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/music/chelentano/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/MY9EIQAo5dE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Confessa&lt;/strong&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/zIIcV4eSSYk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Soli&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Как работает диспетчеризация методов в Ruby</title>
+      <link>http://bighamster.ru/it/ruby-methods/</link>
+      <pubDate>Sun, 05 Nov 2017 12:57:10 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/ruby-methods/</guid>
+      <description>&lt;p&gt;По причине того, что я в действительности не читал источники, эта статься объяснит происходящее в руби с точки зрения логики, а не с точки зрения что реально происходит. Это просто модель, с помощью которой вы сможете понять некоторые вещи.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CSS Refresher</title>
+      <link>http://bighamster.ru/it/css/</link>
+      <pubDate>Sun, 05 Nov 2017 09:47:11 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css/</guid>
+      <description>&lt;p&gt;Это большая коллекция практических советов и заметок по вёрстке. Своеобразная памятка для тех, кто каждодневно использует CSS. Освещаются самые разные темы, от деталей поведения плавающих элементов до использования SVG и спрайтов.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Turntable.js</title>
+      <link>http://bighamster.ru/it/turnable/</link>
+      <pubDate>Sun, 05 Nov 2017 00:50:48 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/turnable/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/turnable.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Если у вас есть 10-15 фоток чего-нибудь последовательно снятого, то этот плагин сымитирует &amp;ldquo;вращение&amp;rdquo; объекта.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Масштабирование базы данных через шардирование и партиционирование</title>
+      <link>http://bighamster.ru/it/scalability2/</link>
+      <pubDate>Sun, 05 Nov 2017 00:33:24 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/scalability2/</guid>
+      <description>&lt;p&gt;Всем привет! Меня зовут Денис Иванов, и я расскажу о масштабировании баз данных через шардирование и партиционирование. После этого доклада у всех должно появиться желание что-то попартицировать, пошардировать, вы поймете, что это очень просто, оно никак жрать не просит, работает, и все замечательно.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://habrahabr.ru/company/oleg-bunin/blog/309330/&#34;&gt;Далее&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Музыкальная теория для гиков</title>
+      <link>http://bighamster.ru/it/music-theory/</link>
+      <pubDate>Sat, 04 Nov 2017 23:52:32 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/music-theory/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/music-theory.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Кто-то считает музыку уделом избранных талантов, кто-то — набором физических закономерностей. Автор материала делает попытку объяснить знакомые каждому музыкальные термины, такие как тон, интервал, амплитуда, нота, октава, партитура, аккорд и так далее с помощью расчетов и технических обоснований.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://geektimes.ru/company/wirex/blog/281072/&#34;&gt;Перевод оригинального текста.&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Оптимизация и масштабирование Web приложений</title>
+      <link>http://bighamster.ru/it/scalability/</link>
+      <pubDate>Sat, 04 Nov 2017 23:25:28 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/scalability/</guid>
+      <description>&lt;p&gt;Очень полезный сайт со статьями объясняющими проблемы масштабирования web-приложений.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Логика сознания</title>
+      <link>http://bighamster.ru/psych/1/</link>
+      <pubDate>Sat, 04 Nov 2017 22:22:53 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/psych/1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://habrahabr.ru/post/308268/&#34;&gt;Вступление&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/308370/&#34;&gt;Часть 1. Волны в клеточном автомате&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/308878/&#34;&gt;Часть 2. Дендритные волны&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/308972/&#34;&gt;Часть 3. Голографическая память в клеточном автомате&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/309366/&#34;&gt;Часть 4. Секрет памяти мозга&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/309626/&#34;&gt;Часть 5. Смысловой подход к анализу информации&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/310214/&#34;&gt;Часть 6. Кора мозга как пространство вычисления смыслов&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/310960/&#34;&gt;Часть 7. Самоорганизация пространства контекстов&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/312060/&#34;&gt;Пояснение «на пальцах»&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/312740/&#34;&gt;Часть 8. Пространственные карты коры мозга&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/317712/&#34;&gt;Часть 9. Искусственные нейронные сети и миниколонки реальной коры&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/320866/&#34;&gt;Часть 10. Задача обобщения&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/321256/&#34;&gt;Часть 11. Естественное кодирование зрительной и звуковой информации&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/326334/&#34;&gt;Часть 12. Поиск закономерностей. Комбинаторное пространство&lt;/a&gt;&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ирина Геннадьевна Кожарская</title>
+      <link>http://bighamster.ru/history/1/</link>
+      <pubDate>Sat, 04 Nov 2017 22:19:13 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/history/1/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/kogarskaya.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Знакомые очень рекомендовали этого экскурсовода по истории древнего Египта&lt;/p&gt;
+
+&lt;p&gt;Кандидат исторических наук.
+Закончила отделение египтологии кафедры истории древнего мира.&lt;br /&gt;
+Провожу экскурсии по всему Египту.&lt;br /&gt;
+Мой телефон +2 01223748233&lt;br /&gt;
+День рождения 8 марта 1958 г.&lt;br /&gt;
+Я из Хургада (Египет)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Деденево (ст.Турист)</title>
-      <link>http://bighamster.ru/life/flashback/</link>
+      <link>http://bighamster.ru/life/dedenevo/</link>
       <pubDate>Fri, 03 Nov 2017 07:29:18 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/flashback/</guid>
+      <guid>http://bighamster.ru/life/dedenevo/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;figure &gt;
     
@@ -29,7 +346,7 @@
 &lt;/figure&gt;
 
   &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;figure &gt;
     
@@ -54,12 +371,12 @@
     
     <item>
       <title>Goran Bregović. Mahalageasca</title>
-      <link>http://bighamster.ru/life/kalashnikov/</link>
+      <link>http://bighamster.ru/music/kalashnikov/</link>
       <pubDate>Thu, 02 Nov 2017 00:37:54 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/kalashnikov/</guid>
+      <guid>http://bighamster.ru/music/kalashnikov/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/9OxiRdgpOqs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -72,12 +389,12 @@
     
     <item>
       <title>Metal Version</title>
-      <link>http://bighamster.ru/life/metal-version/</link>
+      <link>http://bighamster.ru/music/metal-version/</link>
       <pubDate>Thu, 02 Nov 2017 00:26:51 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/metal-version/</guid>
+      <guid>http://bighamster.ru/music/metal-version/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/KyTIui1zyt4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -85,7 +402,7 @@
 
     &lt;strong&gt;Буратино&lt;/strong&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/K_1pEQulmJs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -103,7 +420,7 @@
       
       <guid>http://bighamster.ru/life/what-happens/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/ESSupBehqqw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -121,7 +438,7 @@
       
       <guid>http://bighamster.ru/life/just-for-fun/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/CShL4texXI0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -129,7 +446,7 @@
 
     &lt;strong&gt;&lt;/strong&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/CIEzTfwTTTM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -149,7 +466,7 @@
       
       <guid>http://bighamster.ru/life/delaite-vid/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/UUYlsGCAQy8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -167,14 +484,14 @@
       
       <guid>http://bighamster.ru/life/all-about-religion/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/LMT1tajuyls&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
   &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/V1yAb8wT3tY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -187,12 +504,12 @@
     
     <item>
       <title>Голос</title>
-      <link>http://bighamster.ru/life/voice-show/</link>
+      <link>http://bighamster.ru/music/voice-show/</link>
       <pubDate>Wed, 01 Nov 2017 23:19:31 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/voice-show/</guid>
+      <guid>http://bighamster.ru/music/voice-show/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/nJzEj3Nyfco&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -211,7 +528,7 @@
       
       <guid>http://bighamster.ru/life/merkel/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/bJYqfMhXJbs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -229,7 +546,7 @@
       
       <guid>http://bighamster.ru/life/kasting-reutov/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/J1tbWf_uJ8s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -242,12 +559,12 @@
     
     <item>
       <title>Ты моё дыхание</title>
-      <link>http://bighamster.ru/life/varvara-visbor/</link>
+      <link>http://bighamster.ru/music/varvara-visbor/</link>
       <pubDate>Wed, 01 Nov 2017 23:19:31 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/varvara-visbor/</guid>
+      <guid>http://bighamster.ru/music/varvara-visbor/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/gY9C3mAJpfo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -255,7 +572,7 @@
 
     &lt;strong&gt;Варвара Визбор&lt;/strong&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/v532kbrHhn4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -274,7 +591,7 @@
       
       <guid>http://bighamster.ru/life/oksana-fandera/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/uEbEdw8OW4M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -292,7 +609,7 @@
       
       <guid>http://bighamster.ru/life/muzikov-nado-lubit/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/YXK1u0a9mp4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -311,7 +628,7 @@
       <guid>http://bighamster.ru/fun/anek1/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;container&#34;&gt;
   &lt;div class=&#34;row&#34;&gt;
-    &lt;div class=&#34;col-6&#34;&gt;
+    &lt;div class=&#34;col-sm-6&#34;&gt;
       
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/pei_7-teVtY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -449,7 +766,7 @@
       
       <guid>http://bighamster.ru/life/cats-in-cafe/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/gRwyu7Zh4m0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -467,7 +784,7 @@
       
       <guid>http://bighamster.ru/life/kiss/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;figure &gt;
     
@@ -477,7 +794,7 @@
 &lt;/figure&gt;
 
   &lt;/div&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;figure &gt;
     
@@ -517,12 +834,12 @@
     
     <item>
       <title>Blockhead</title>
-      <link>http://bighamster.ru/life/lyrics-blockhead-nalitch/</link>
+      <link>http://bighamster.ru/music/nalitch-blockhead/</link>
       <pubDate>Fri, 27 Oct 2017 07:49:31 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/lyrics-blockhead-nalitch/</guid>
+      <guid>http://bighamster.ru/music/nalitch-blockhead/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/LkOUAXRUST0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -536,12 +853,12 @@
     
     <item>
       <title>Fireballs</title>
-      <link>http://bighamster.ru/life/lyrics-fireballs/</link>
+      <link>http://bighamster.ru/music/morena/</link>
       <pubDate>Fri, 27 Oct 2017 00:37:11 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/lyrics-fireballs/</guid>
+      <guid>http://bighamster.ru/music/morena/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/PSioIR25jMc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -555,12 +872,12 @@
     
     <item>
       <title>Through dark and light I fight to be ... so close</title>
-      <link>http://bighamster.ru/life/thru-dark-and-light/</link>
+      <link>http://bighamster.ru/music/arnalds/</link>
       <pubDate>Fri, 27 Oct 2017 00:37:11 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/thru-dark-and-light/</guid>
+      <guid>http://bighamster.ru/music/arnalds/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/2XXd_KPShjE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -574,12 +891,12 @@
     
     <item>
       <title>You Belong To Me</title>
-      <link>http://bighamster.ru/life/lyrics-you-belong-to-me/</link>
+      <link>http://bighamster.ru/music/cat-pierce/</link>
       <pubDate>Fri, 27 Oct 2017 00:37:11 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/lyrics-you-belong-to-me/</guid>
+      <guid>http://bighamster.ru/music/cat-pierce/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/IR1Psd1wz5w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -593,12 +910,12 @@
     
     <item>
       <title>Tombe la Neige</title>
-      <link>http://bighamster.ru/life/tombe-la-neige/</link>
+      <link>http://bighamster.ru/music/adamo/</link>
       <pubDate>Fri, 27 Oct 2017 00:03:15 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/tombe-la-neige/</guid>
+      <guid>http://bighamster.ru/music/adamo/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-6&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/K-DKXuWuoYM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -646,33 +963,50 @@
 &lt;/figure&gt;
 
 
-&lt;pre&gt;
-Добрый лес. Беспокойный день.  
-Дальний путь, и мотив знакомый.  
+&lt;p&gt;Добрый лес. Беспокойный день.&lt;br /&gt;
+Дальний путь, и мотив знакомый.&lt;/p&gt;
 
-Знакомый…  
+&lt;p&gt;Знакомый…&lt;/p&gt;
 
-Я хочу что - бы мой настоящий друг  
-оставался со мною в любой беде  
-Что - бы были лесные цветы вокруг,  
-а дорога спешила к дому…  
-&lt;/pre&gt;
+&lt;p&gt;Я хочу что - бы мой настоящий друг&lt;br /&gt;
+оставался со мною в любой беде&lt;br /&gt;
+Что - бы были лесные цветы вокруг,&lt;br /&gt;
+а дорога спешила к дому…&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Сюрприз, сюрприз, Да здравствует сюрприз.</title>
-      <link>http://bighamster.ru/life/lyrics-surprise/</link>
+      <link>http://bighamster.ru/life/surprise/</link>
       <pubDate>Thu, 26 Oct 2017 23:23:45 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/lyrics-surprise/</guid>
-      <description>&lt;pre&gt;
-Представляете какое положение,
-Всё, что будет с вами, знаете заранее.
-Ни к чему тогда волнения, сомнения,
-Всё на свете предусмотрит расписание.
-&lt;/pre&gt;</description>
+      <guid>http://bighamster.ru/life/surprise/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/-g_aqPpvq2w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    Представляете какое положение,
+    Всё, что будет с вами, знаете заранее.
+    Ни к чему тогда волнения, сомнения,
+    Всё на свете предусмотрит расписание.
+
+    А мы бросаем скуке вызов,
+    Потому что, потому,
+    Жить на свете без сюрпризов
+    Невозможно никому.
+    Пусть удачи, неудачи,
+    Пусть полёты вверх и вниз,
+    Только так, а не иначе,
+    Только так, а не иначе,
+    Да здравствует сюрприз.
+  &lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -785,7 +1119,11 @@
       <pubDate>Thu, 26 Oct 2017 21:41:02 +0300</pubDate>
       
       <guid>http://bighamster.ru/life/asadov/</guid>
-      <description></description>
+      <description>&lt;p&gt;Как много тех, с кем можно лечь в постель,&lt;br /&gt;
+Как мало тех, с кем хочется проснуться…&lt;br /&gt;
+И утром, расставаясь обернуться,&lt;br /&gt;
+И помахать рукой, и улыбнуться,&lt;br /&gt;
+И целый день, волнуясь, ждать вестей.&lt;/p&gt;</description>
     </item>
     
     <item>

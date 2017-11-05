@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2017 00:03:15 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adamo</title>
+      <link>http://bighamster.ru/categories/adamo/</link>
+      <pubDate>Fri, 27 Oct 2017 00:03:15 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/adamo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arnalds</title>
+      <link>http://bighamster.ru/categories/arnalds/</link>
+      <pubDate>Fri, 27 Oct 2017 00:37:11 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/arnalds/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Catalan Beginning</title>
@@ -22,11 +40,65 @@
     </item>
     
     <item>
+      <title>Chelentano</title>
+      <link>http://bighamster.ru/categories/chelentano/</link>
+      <pubDate>Sun, 05 Nov 2017 16:12:58 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/chelentano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chess Other</title>
       <link>http://bighamster.ru/categories/chess-other/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://bighamster.ru/categories/chess-other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consciousness</title>
+      <link>http://bighamster.ru/categories/consciousness/</link>
+      <pubDate>Sat, 04 Nov 2017 22:22:53 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/consciousness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>http://bighamster.ru/categories/css/</link>
+      <pubDate>Sun, 05 Nov 2017 17:03:57 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dating</title>
+      <link>http://bighamster.ru/categories/dating/</link>
+      <pubDate>Sun, 05 Nov 2017 17:11:04 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/dating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egypt</title>
+      <link>http://bighamster.ru/categories/egypt/</link>
+      <pubDate>Sat, 04 Nov 2017 22:19:13 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/egypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excursions</title>
+      <link>http://bighamster.ru/categories/excursions/</link>
+      <pubDate>Sat, 04 Nov 2017 22:19:13 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/excursions/</guid>
       <description></description>
     </item>
     
@@ -69,7 +141,7 @@
     <item>
       <title>Helper</title>
       <link>http://bighamster.ru/categories/helper/</link>
-      <pubDate>Sat, 28 Oct 2017 12:16:08 +0300</pubDate>
+      <pubDate>Sun, 05 Nov 2017 18:22:14 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/helper/</guid>
       <description></description>
@@ -85,6 +157,33 @@
     </item>
     
     <item>
+      <title>It Other</title>
+      <link>http://bighamster.ru/categories/it-other/</link>
+      <pubDate>Sun, 05 Nov 2017 00:50:48 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/it-other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jquery</title>
+      <link>http://bighamster.ru/categories/jquery/</link>
+      <pubDate>Sun, 05 Nov 2017 17:57:04 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Js</title>
+      <link>http://bighamster.ru/categories/js/</link>
+      <pubDate>Sun, 05 Nov 2017 18:34:22 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Karokan</title>
       <link>http://bighamster.ru/categories/karokan/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
@@ -94,20 +193,83 @@
     </item>
     
     <item>
+      <title>Leningrad</title>
+      <link>http://bighamster.ru/categories/leningrad/</link>
+      <pubDate>Sun, 05 Nov 2017 18:41:11 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/leningrad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life Other</title>
+      <link>http://bighamster.ru/categories/life-other/</link>
+      <pubDate>Sun, 05 Nov 2017 18:11:59 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/life-other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lyrics</title>
       <link>http://bighamster.ru/categories/lyrics/</link>
-      <pubDate>Fri, 27 Oct 2017 07:49:31 +0300</pubDate>
+      <pubDate>Thu, 26 Oct 2017 23:30:48 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/lyrics/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Morena</title>
+      <link>http://bighamster.ru/categories/morena/</link>
+      <pubDate>Fri, 27 Oct 2017 00:37:11 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/morena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://bighamster.ru/categories/music/</link>
+      <pubDate>Sat, 04 Nov 2017 23:52:32 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Other</title>
+      <link>http://bighamster.ru/categories/music-other/</link>
+      <pubDate>Thu, 02 Nov 2017 00:37:54 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/music-other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nalitch</title>
+      <link>http://bighamster.ru/categories/nalitch/</link>
+      <pubDate>Fri, 27 Oct 2017 07:49:31 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/nalitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Other</title>
       <link>http://bighamster.ru/categories/other/</link>
-      <pubDate>Thu, 02 Nov 2017 22:18:35 +0300</pubDate>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://bighamster.ru/categories/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pierce</title>
+      <link>http://bighamster.ru/categories/pierce/</link>
+      <pubDate>Fri, 27 Oct 2017 00:37:11 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/pierce/</guid>
       <description></description>
     </item>
     
@@ -139,6 +301,24 @@
     </item>
     
     <item>
+      <title>Ruby</title>
+      <link>http://bighamster.ru/categories/ruby/</link>
+      <pubDate>Sun, 05 Nov 2017 12:57:10 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalability</title>
+      <link>http://bighamster.ru/categories/scalability/</link>
+      <pubDate>Sun, 05 Nov 2017 00:33:24 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/scalability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Seo</title>
       <link>http://bighamster.ru/categories/seo/</link>
       <pubDate>Mon, 30 Oct 2017 16:03:59 +0300</pubDate>
@@ -153,6 +333,15 @@
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://bighamster.ru/categories/skandinavskaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Svg</title>
+      <link>http://bighamster.ru/categories/svg/</link>
+      <pubDate>Sun, 05 Nov 2017 18:22:14 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/svg/</guid>
       <description></description>
     </item>
     
@@ -189,6 +378,24 @@
       <pubDate>Wed, 01 Nov 2017 22:23:26 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visbor</title>
+      <link>http://bighamster.ru/categories/visbor/</link>
+      <pubDate>Wed, 01 Nov 2017 23:19:31 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/visbor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice</title>
+      <link>http://bighamster.ru/categories/voice/</link>
+      <pubDate>Wed, 01 Nov 2017 23:19:31 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/voice/</guid>
       <description></description>
     </item>
     

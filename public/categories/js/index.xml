@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Js on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/js/</link>
+    <description>Recent content in Js on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 18:34:22 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/js/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>InteractJS</title>
+      <link>http://bighamster.ru/it/interactjs/</link>
+      <pubDate>Sun, 05 Nov 2017 18:34:22 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/interactjs/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/interact.svg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Магия JavaScript: arguments</title>
+      <link>http://bighamster.ru/it/js-arguments/</link>
+      <pubDate>Sun, 05 Nov 2017 16:59:43 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/js-arguments/</guid>
+      <description>&lt;p&gt;arguments — очень специфическая штука, о которой новички и даже любители знают только то, что это «вроде массив, но какой-то неправильный». На самом деле, у него есть ряд интересных особенностей. Предлагаю в топике пофантазировать на тему TypeHinting, аргументов по-умолчанию и всякого другого.
+&lt;a href=&#34;https://habrahabr.ru/post/117868/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

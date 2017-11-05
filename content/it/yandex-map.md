@@ -2,7 +2,7 @@
 title: "API Яндекс.Карт"
 date: 2017-11-01T12:33:14+03:00
 draft: false
-categories: ["other"]
+categories: ["it-other"]
 source_url: https://tech.yandex.ru/maps/
 source_name: "Yandex"
 ---

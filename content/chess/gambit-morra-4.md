@@ -9,7 +9,7 @@ source_name: "Дмитрий Гриценко"
 <!--more-->
 <div class="container">
   <div class="row">
-    <div class="col-6">
+    <div class="col-sm-6">
       {{< youtube HIvRTbakDws >}}
     </div>
   </div>

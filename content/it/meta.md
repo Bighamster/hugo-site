@@ -2,7 +2,7 @@
 title: "Про Meta-тэги"
 date: 2017-10-31T11:54:30+03:00
 draft: true
-categories: ["other"]
+categories: ["it-other"]
 ---
 Здесь собрано описание разных полезных meta-тэгов
 <!--more-->

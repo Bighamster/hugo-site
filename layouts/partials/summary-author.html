@@ -1,12 +1,10 @@
-<div class="clearfix"></div>
-<p>
-  {{ if and (isset .Params "source_url") }}
-    {{ if isset .Params "source_name" }}
-      <small class="text-muted">Отсюда: <a href="{{ .Params.source_url }}" target="_blank">{{ .Params.source_name }}</a></small>
-    {{ else }}
-      <small class="text-muted">Отсюда: <a href="{{ .Params.source_url }}" target="_blank">{{ .Params.source_url }}</a></small>
-    {{ end }}
-  {{ else if isset .Params "source_name" }}
-    <small class="text-muted">Автор: <strong>{{ .Params.source_name }}</strong></small>
+
+{{ if and (isset .Params "source_url") }}
+  {{ if isset .Params "source_name" }}
+    <small class="text-muted">Отсюда: <a href="{{ .Params.source_url }}" target="_blank">{{ .Params.source_name }}</a></small>
+  {{ else }}
+    <small class="text-muted">Отсюда: <a href="{{ .Params.source_url }}" target="_blank">{{ .Params.source_url }}</a></small>
   {{ end }}
-</p>
+{{ else if isset .Params "source_name" }}
+  <small class="text-muted">Автор: <strong>{{ .Params.source_name }}</strong></small>
+{{ end }}
