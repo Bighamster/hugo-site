@@ -1,24 +1,27 @@
 {{ define "main" }}
 
-  <p class="mt-4">
-    <h3>>
-      {{ $name := i18n .Data.Term }}
-      {{ if $name }} {{ $name }} {{ else }} {{ humanize .Data.Term }} {{ end }}
-    </h3>
-  </p>
+  <div class="container">
 
-  {{ .Content }}
+    <p class="mt-4">
+      <h3>>
+        {{ $name := i18n .Data.Term }}
+        {{ if $name }} {{ $name }} {{ else }} {{ humanize .Data.Term }} {{ end }}
+      </h3>
+    </p>
 
-  {{ $paginator := .Paginate .Pages }}
+    {{ .Content }}
 
-  <div class="row">
-    <div class="col-12 pl-0 pr-0">
-      <div class="list-group">
-        {{ range $paginator.Pages }}
-          <div class="list-group-item flex-column align-items-start border-0">
-            {{ partial "summary.html" . }}
-          </div>
-        {{ end }}
+    {{ $paginator := .Paginate .Pages }}
+
+    <div class="row">
+      <div class="col-12 pl-0 pr-0">
+        <div class="list-group">
+          {{ range $paginator.Pages }}
+            <div class="list-group-item flex-column align-items-start border-0">
+              {{ partial "summary.html" . }}
+            </div>
+          {{ end }}
+        </div>
       </div>
     </div>
   </div>

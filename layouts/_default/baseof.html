@@ -53,9 +53,7 @@
   </head>
   <body>
     {{ block "header" . }}{{ partial "menu.html" . }}{{ end }}
-    <div class="container">
-      {{ block "main"   . }} Default baseof-main {{end}}
-    </div>
+    {{ block "main"   . }} Default baseof-main {{end}}
     {{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
   </body>
 </html>

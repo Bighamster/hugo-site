@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pry Other on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/pry-other/</link>
+    <description>Recent content in Pry Other on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 06 Nov 2017 15:57:20 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/pry-other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Видеолекции Физтеха</title>
+      <link>http://bighamster.ru/pry/mfti/</link>
+      <pubDate>Mon, 06 Nov 2017 15:57:20 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/mfti/</guid>
+      <description>&lt;p&gt;&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    &lt;a href=&#34;http://lectoriy.mipt.ru/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/mfti.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Что если?</title>
+      <link>http://bighamster.ru/pry/what-if/</link>
+      <pubDate>Mon, 06 Nov 2017 13:00:36 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/what-if/</guid>
+      <description>&lt;p&gt;Отвечают на наши гипотетические вопросы с точки зрения физики
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

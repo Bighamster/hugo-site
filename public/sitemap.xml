@@ -3,6 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bighamster.ru/it/css-scroll/</loc>
+    <lastmod>2017-11-06T18:21:10+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/css-blogger/</loc>
+    <lastmod>2017-11-06T18:18:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/bootstrap-plugins/</loc>
+    <lastmod>2017-11-06T18:01:29+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/button-factory/</loc>
+    <lastmod>2017-11-06T17:54:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/browser-internals/</loc>
+    <lastmod>2017-11-06T17:28:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/helper-git/</loc>
+    <lastmod>2017-11-06T17:09:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/mongo-db/</loc>
+    <lastmod>2017-11-06T16:59:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/strfti/</loc>
+    <lastmod>2017-11-06T16:40:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/configure/</loc>
+    <lastmod>2017-11-06T16:37:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/mfti/</loc>
+    <lastmod>2017-11-06T15:57:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/life/shestakov/</loc>
+    <lastmod>2017-11-06T15:53:55+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/life/taro/</loc>
+    <lastmod>2017-11-06T15:49:45+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/sounds/</loc>
+    <lastmod>2017-11-06T13:09:28+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/what-if/</loc>
+    <lastmod>2017-11-06T13:00:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/savelev/</loc>
+    <lastmod>2017-11-06T12:24:23+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/life/juggling/</loc>
+    <lastmod>2017-11-06T12:17:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/life/old-moscow/</loc>
+    <lastmod>2017-11-06T11:34:02+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/music/leningrad/</loc>
     <lastmod>2017-11-05T18:41:11+03:00</lastmod>
   </url>
@@ -13,7 +98,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/it/svg-helper/</loc>
+    <loc>http://bighamster.ru/it/helper-svg/</loc>
     <lastmod>2017-11-05T18:22:14+03:00</lastmod>
   </url>
   
@@ -28,7 +113,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/history/dating1/</loc>
+    <loc>http://bighamster.ru/pry/dating1/</loc>
     <lastmod>2017-11-05T17:11:04+03:00</lastmod>
   </url>
   
@@ -58,7 +143,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/history/</loc>
+    <loc>http://bighamster.ru/pry/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,12 +168,12 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/psych/1/</loc>
+    <loc>http://bighamster.ru/pry/1/</loc>
     <lastmod>2017-11-04T22:22:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bighamster.ru/history/1/</loc>
+    <loc>http://bighamster.ru/pry/kogarskaya/</loc>
     <lastmod>2017-11-04T22:19:13+03:00</lastmod>
   </url>
   
@@ -208,7 +293,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/it/npm-helper/</loc>
+    <loc>http://bighamster.ru/it/helper-npm/</loc>
     <lastmod>2017-10-28T12:16:08+03:00</lastmod>
   </url>
   
@@ -408,7 +493,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/it/hugo-helper/</loc>
+    <loc>http://bighamster.ru/it/helper-hugo/</loc>
     <lastmod>2017-10-23T12:15:30+03:00</lastmod>
   </url>
   
@@ -428,7 +513,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/it/md-helper/</loc>
+    <loc>http://bighamster.ru/it/helper-md/</loc>
     <lastmod>2017-10-07T20:35:30+03:00</lastmod>
   </url>
   
@@ -456,7 +541,13 @@
   
   <url>
     <loc>http://bighamster.ru/</loc>
-    <lastmod>2017-11-05T18:41:11+03:00</lastmod>
+    <lastmod>2017-11-06T18:21:10+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/categories/bootstrap/</loc>
+    <lastmod>2017-11-06T18:01:29+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -492,7 +583,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/css/</loc>
-    <lastmod>2017-11-05T17:03:57+03:00</lastmod>
+    <lastmod>2017-11-06T18:21:10+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -516,7 +607,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/flashback/</loc>
-    <lastmod>2017-11-03T07:29:18+03:00</lastmod>
+    <lastmod>2017-11-06T11:34:02+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -552,7 +643,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/helper/</loc>
-    <lastmod>2017-11-05T18:22:14+03:00</lastmod>
+    <lastmod>2017-11-06T17:09:38+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -564,13 +655,13 @@
   
   <url>
     <loc>http://bighamster.ru/categories/it-other/</loc>
-    <lastmod>2017-11-05T00:50:48+03:00</lastmod>
+    <lastmod>2017-11-06T17:28:54+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://bighamster.ru/it/</loc>
-    <lastmod>2017-11-05T18:34:22+03:00</lastmod>
+    <lastmod>2017-11-06T18:21:10+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -600,19 +691,19 @@
   
   <url>
     <loc>http://bighamster.ru/categories/life-other/</loc>
-    <lastmod>2017-11-05T18:11:59+03:00</lastmod>
+    <lastmod>2017-11-06T15:53:55+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://bighamster.ru/life/</loc>
-    <lastmod>2017-11-05T18:11:59+03:00</lastmod>
+    <lastmod>2017-11-06T15:53:55+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bighamster.ru/categories/lyrics/</loc>
-    <lastmod>2017-10-26T23:30:48+03:00</lastmod>
+    <loc>http://bighamster.ru/categories/mongo-db/</loc>
+    <lastmod>2017-11-06T16:59:36+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -665,8 +756,14 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/psych/</loc>
-    <lastmod>2017-11-04T22:22:53+03:00</lastmod>
+    <loc>http://bighamster.ru/categories/pry-other/</loc>
+    <lastmod>2017-11-06T15:57:20+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/categories/psych/</loc>
+    <lastmod>2017-11-06T12:24:23+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -684,7 +781,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/ruby/</loc>
-    <lastmod>2017-11-05T12:57:10+03:00</lastmod>
+    <lastmod>2017-11-06T16:40:38+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -720,6 +817,12 @@
   <url>
     <loc>http://bighamster.ru/categories/tale/</loc>
     <lastmod>2017-10-27T08:04:28+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/categories/taro/</loc>
+    <lastmod>2017-11-06T15:49:45+03:00</lastmod>
     <priority>0</priority>
   </url>
   

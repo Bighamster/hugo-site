@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootstrap on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/bootstrap/</link>
+    <description>Recent content in Bootstrap on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 06 Nov 2017 18:01:29 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>50&#43; лучших дополнений к Bootstrap</title>
+      <link>http://bighamster.ru/it/bootstrap-plugins/</link>
+      <pubDate>Mon, 06 Nov 2017 18:01:29 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/bootstrap-plugins/</guid>
+      <description>&lt;p&gt;Fuel UX&lt;br /&gt;
+X-editable&lt;br /&gt;
+Jasny&lt;br /&gt;
+Bootstrap Form Helper&lt;br /&gt;
+Leapstrap&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

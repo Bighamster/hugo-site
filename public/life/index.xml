@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 05 Nov 2017 18:11:59 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 15:53:55 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Авторский сайт Евгения Шестакова</title>
+      <link>http://bighamster.ru/life/shestakov/</link>
+      <pubDate>Mon, 06 Nov 2017 15:53:55 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/life/shestakov/</guid>
+      <description>&lt;p&gt;&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    &lt;a href=&#34;http://shest.tomsknet.ru/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/shestakov.gif&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Все о картах Таро</title>
+      <link>http://bighamster.ru/life/taro/</link>
+      <pubDate>Mon, 06 Nov 2017 15:49:45 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/life/taro/</guid>
+      <description>&lt;p&gt;Более-менее сносное толкование карт
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Если вдруг надо научиться жонглировать</title>
+      <link>http://bighamster.ru/life/juggling/</link>
+      <pubDate>Mon, 06 Nov 2017 12:17:17 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/life/juggling/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Фотографии старой Москвы</title>
+      <link>http://bighamster.ru/life/old-moscow/</link>
+      <pubDate>Mon, 06 Nov 2017 11:34:02 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/life/old-moscow/</guid>
+      <description>&lt;p&gt;Офигенный проект! &lt;a href=&#34;https://pastvu.com/&#34; target=&#34;_blank&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Письмо 15-летней дочери</title>
@@ -34,20 +79,18 @@
       <guid>http://bighamster.ru/life/dedenevo/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;col-sm-6&#34;&gt;
+    &lt;figure class=&#34;&#34;&gt;
     
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://bighamster.ru/pics/dedenevo0.jpg&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/dedenevo0.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
 
   &lt;/div&gt;
   &lt;div class=&#34;col-sm-6&#34;&gt;
+    &lt;figure class=&#34;&#34;&gt;
     
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://bighamster.ru/pics/dedenevo1.jpg&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/dedenevo1.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -235,7 +278,7 @@
       <guid>http://bighamster.ru/life/cat-on-tube/</guid>
       <description>&lt;figure &gt;
     
-        &lt;img src=&#34;http://bighamster.ru/pics/cat-on-tube.jpg&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/cat-on-tube.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -250,9 +293,9 @@
       <pubDate>Fri, 27 Oct 2017 09:04:01 +0300</pubDate>
       
       <guid>http://bighamster.ru/life/english-tenses/</guid>
-      <description>&lt;figure &gt;
+      <description>&lt;figure class=&#34;&#34;&gt;
     
-        &lt;img src=&#34;http://bighamster.ru/pics/english-tenses.jpg&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/english-tenses.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -287,20 +330,18 @@
       <guid>http://bighamster.ru/life/kiss/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;col-sm-6&#34;&gt;
+    &lt;figure class=&#34;&#34;&gt;
     
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://bighamster.ru/pics/kiss.gif&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/kiss.gif&#34;  /&gt;
     
     
 &lt;/figure&gt;
 
   &lt;/div&gt;
   &lt;div class=&#34;col-sm-6&#34;&gt;
+    &lt;figure class=&#34;&#34;&gt;
     
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://bighamster.ru/pics/give-me-five.gif&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/give-me-five.gif&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -364,7 +405,7 @@
       <guid>http://bighamster.ru/life/veseloe-snovidenie/</guid>
       <description>&lt;figure class=&#34;float-left pr-3&#34;&gt;
     
-        &lt;img src=&#34;http://bighamster.ru/pics/shulepova.jpg&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/shulepova.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -532,7 +573,7 @@
       <guid>http://bighamster.ru/life/egik-v-tumane-30-let-spustia/</guid>
       <description>&lt;figure class=&#34;float-left pr-3&#34;&gt;
     
-        &lt;img src=&#34;http://bighamster.ru/pics/egik-v-tumane.jpg&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/egik-v-tumane.jpg&#34;  /&gt;
     
     
 &lt;/figure&gt;

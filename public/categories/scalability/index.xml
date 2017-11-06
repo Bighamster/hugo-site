@@ -20,7 +20,7 @@
       <guid>http://bighamster.ru/it/scalability2/</guid>
       <description>&lt;p&gt;Всем привет! Меня зовут Денис Иванов, и я расскажу о масштабировании баз данных через шардирование и партиционирование. После этого доклада у всех должно появиться желание что-то попартицировать, пошардировать, вы поймете, что это очень просто, оно никак жрать не просит, работает, и все замечательно.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://habrahabr.ru/company/oleg-bunin/blog/309330/&#34;&gt;Далее&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://habrahabr.ru/company/oleg-bunin/blog/309330/&#34; target=&#34;_blank&#34;&gt;Далее&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     

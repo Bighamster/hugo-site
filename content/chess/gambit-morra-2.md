@@ -7,10 +7,8 @@ source_url: https://www.youtube.com/watch?v=itn31Q3uX7I
 source_name: "Chess Debutes"
 ---
 <!--more-->
-<div class="container">
-  <div class="row">
-    <div class="col-sm-6">
-      {{< youtube itn31Q3uX7I >}}
-    </div>
+<div class="row">
+  <div class="col-sm-6">
+    {{< youtube itn31Q3uX7I >}}
   </div>
 </div>

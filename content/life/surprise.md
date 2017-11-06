@@ -2,7 +2,7 @@
 title: "Сюрприз, сюрприз, Да здравствует сюрприз."
 date: 2017-10-26T23:23:45+03:00
 draft: false
-categories: ["lyrics"]
+categories: ["poem"]
 ---
 <div class="row">
   <div class="col-sm-6">

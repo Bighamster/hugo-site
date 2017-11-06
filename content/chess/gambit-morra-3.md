@@ -7,10 +7,8 @@ source_url: https://www.youtube.com/watch?v=zE-r9pykNx8
 source_name: "Дмитрий Гриценко"
 ---
 <!--more-->
-<div class="container">
-  <div class="row">
-    <div class="col-sm-6">
-      {{< youtube zE-r9pykNx8 >}}
-    </div>
+<div class="row">
+  <div class="col-sm-6">
+    {{< youtube zE-r9pykNx8 >}}
   </div>
 </div>

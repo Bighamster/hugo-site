@@ -1,11 +1,10 @@
-
-<div class="d-flex w-100 justify-content-between">
-  <a href="{{ .URL }}">
-    <h5 class="mb-1">{{ .Title }}</h5>
-  </a>
-  <small class="text-muted">{{ .Date.Format $.Site.Params.DateFormat }}</small>
+<div class="list-group">
+  <div class="list-group-item border-0">
+    <div class="d-flex justify-content-between">
+      <a href="{{ .URL }}"><h5 class="mb-1">{{ .Title }}</h5></a>
+      <small class="text-muted">{{ .Date.Format $.Site.Params.DateFormat }}</small>
+    </div>
+  </div>
+  <div class="list-group-item border-0 pt-0 pb-0"> {{ .Summary }} </div>
+  <div class="list-group-item border-0 pt-0"> {{ partial "summary-author.html" . }} </div>
 </div>
-
-<div class="">{{ .Summary }}</div>
-
-<div>{{ partial "summary-author.html" . }}</div>

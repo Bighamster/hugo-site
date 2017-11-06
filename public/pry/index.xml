@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/pry/</link>
+    <description>Recent content on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/pry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Видеолекции Физтеха</title>
+      <link>http://bighamster.ru/pry/mfti/</link>
+      <pubDate>Mon, 06 Nov 2017 15:57:20 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/mfti/</guid>
+      <description>&lt;p&gt;&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    &lt;a href=&#34;http://lectoriy.mipt.ru/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/mfti.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Что если?</title>
+      <link>http://bighamster.ru/pry/what-if/</link>
+      <pubDate>Mon, 06 Nov 2017 13:00:36 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/what-if/</guid>
+      <description>&lt;p&gt;Отвечают на наши гипотетические вопросы с точки зрения физики
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Персональный сайт Савельева С.В.</title>
+      <link>http://bighamster.ru/pry/savelev/</link>
+      <pubDate>Mon, 06 Nov 2017 12:24:23 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/savelev/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    &lt;a href=&#34;http://s-v-saveliev.ru/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/savelev.jpg&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;«…Политика и другие социально-иерархические отношения в бизнесе, искусстве, технике и науке построены по принципам биологической доминантности. Доминантность — врожденная инстинктивная форма поведения свойственная всем животным, формирующим общества. Целью доминантности является захват позиции социального лидера и, как следствие, получение пищевых и репродуктивных преимуществ».
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Застывшее время. Научные подходы к датированию</title>
+      <link>http://bighamster.ru/pry/dating1/</link>
+      <pubDate>Sun, 05 Nov 2017 17:11:04 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/dating1/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    &lt;a href=&#34;https://geektimes.ru/post/270540/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/history-dating.jpg&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Сегодняшний рассказ будет о методологии науки, в частности о том, каким образом мы можем устанавливать возраст археологических находок, какие основные методы при этом используются и какие физические принципы и процессы лежат в их основе. Прелесть научных методов датировок состоит в том, что они взаимодополняемы и взаимопроверяемы, то есть с помощью одного метода мы можем проверить корректность другого и наоборот, при необходимости внося в него поправки. Также эти «часы» перекрывают огромный временной диапазон – около 9 порядков (на самом деле больше, но для исторических целей «быстрые» часы бесполезны, масштабы эволюционного времени захватывают семь или восемь порядков).
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Логика сознания</title>
+      <link>http://bighamster.ru/pry/1/</link>
+      <pubDate>Sat, 04 Nov 2017 22:22:53 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://habrahabr.ru/post/308268/&#34; target=&#34;_blank&#34;&gt;Вступление&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/308370/&#34; target=&#34;_blank&#34;&gt;Часть 1. Волны в клеточном автомате&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/308878/&#34; target=&#34;_blank&#34;&gt;Часть 2. Дендритные волны&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/308972/&#34; target=&#34;_blank&#34;&gt;Часть 3. Голографическая память в клеточном автомате&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/309366/&#34; target=&#34;_blank&#34;&gt;Часть 4. Секрет памяти мозга&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/309626/&#34; target=&#34;_blank&#34;&gt;Часть 5. Смысловой подход к анализу информации&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/310214/&#34; target=&#34;_blank&#34;&gt;Часть 6. Кора мозга как пространство вычисления смыслов&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/310960/&#34; target=&#34;_blank&#34;&gt;Часть 7. Самоорганизация пространства контекстов&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/312060/&#34; target=&#34;_blank&#34;&gt;Пояснение «на пальцах»&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/312740/&#34; target=&#34;_blank&#34;&gt;Часть 8. Пространственные карты коры мозга&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/317712/&#34; target=&#34;_blank&#34;&gt;Часть 9. Искусственные нейронные сети и миниколонки реальной коры&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/320866/&#34; target=&#34;_blank&#34;&gt;Часть 10. Задача обобщения&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/321256/&#34; target=&#34;_blank&#34;&gt;Часть 11. Естественное кодирование зрительной и звуковой информации&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/326334/&#34; target=&#34;_blank&#34;&gt;Часть 12. Поиск закономерностей. Комбинаторное пространство&lt;/a&gt;&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ирина Геннадьевна Кожарская</title>
+      <link>http://bighamster.ru/pry/kogarskaya/</link>
+      <pubDate>Sat, 04 Nov 2017 22:19:13 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/kogarskaya/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/kogarskaya.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Знакомые очень рекомендовали этого экскурсовода по истории древнего Египта&lt;/p&gt;
+
+&lt;p&gt;Кандидат исторических наук.
+Закончила отделение египтологии кафедры истории древнего мира.&lt;br /&gt;
+Провожу экскурсии по всему Египту.&lt;br /&gt;
+Мой телефон +2 01223748233&lt;br /&gt;
+День рождения 8 марта 1958 г.&lt;br /&gt;
+Я из Хургада (Египет)&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

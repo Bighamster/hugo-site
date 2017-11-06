@@ -5,11 +5,10 @@ draft: false
 categories: ["video"]
 source_url: https://www.youtube.com/watch?v=pei_7-teVtY
 ---
-<div class="container">
-  <div class="row">
-    <div class="col-sm-6">
-      {{< youtube pei_7-teVtY >}}
-    </div>
+
+<div class="row">
+  <div class="col-sm-6">
+    {{< youtube pei_7-teVtY >}}
   </div>
 </div>
 <!--more-->

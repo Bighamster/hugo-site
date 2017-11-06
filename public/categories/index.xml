@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Bootstrap</title>
+      <link>http://bighamster.ru/categories/bootstrap/</link>
+      <pubDate>Mon, 06 Nov 2017 18:01:29 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Catalan Beginning</title>
       <link>http://bighamster.ru/categories/catalan-beginning/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
@@ -69,7 +78,7 @@
     <item>
       <title>Css</title>
       <link>http://bighamster.ru/categories/css/</link>
-      <pubDate>Sun, 05 Nov 2017 17:03:57 +0300</pubDate>
+      <pubDate>Mon, 06 Nov 2017 18:21:10 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/css/</guid>
       <description></description>
@@ -105,7 +114,7 @@
     <item>
       <title>Flashback</title>
       <link>http://bighamster.ru/categories/flashback/</link>
-      <pubDate>Fri, 03 Nov 2017 07:29:18 +0300</pubDate>
+      <pubDate>Mon, 06 Nov 2017 11:34:02 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/flashback/</guid>
       <description></description>
@@ -141,7 +150,7 @@
     <item>
       <title>Helper</title>
       <link>http://bighamster.ru/categories/helper/</link>
-      <pubDate>Sun, 05 Nov 2017 18:22:14 +0300</pubDate>
+      <pubDate>Mon, 06 Nov 2017 17:09:38 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/helper/</guid>
       <description></description>
@@ -159,7 +168,7 @@
     <item>
       <title>It Other</title>
       <link>http://bighamster.ru/categories/it-other/</link>
-      <pubDate>Sun, 05 Nov 2017 00:50:48 +0300</pubDate>
+      <pubDate>Mon, 06 Nov 2017 17:28:54 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/it-other/</guid>
       <description></description>
@@ -204,18 +213,18 @@
     <item>
       <title>Life Other</title>
       <link>http://bighamster.ru/categories/life-other/</link>
-      <pubDate>Sun, 05 Nov 2017 18:11:59 +0300</pubDate>
+      <pubDate>Mon, 06 Nov 2017 15:53:55 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/life-other/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lyrics</title>
-      <link>http://bighamster.ru/categories/lyrics/</link>
-      <pubDate>Thu, 26 Oct 2017 23:30:48 +0300</pubDate>
+      <title>Mongo Db</title>
+      <link>http://bighamster.ru/categories/mongo-db/</link>
+      <pubDate>Mon, 06 Nov 2017 16:59:36 +0300</pubDate>
       
-      <guid>http://bighamster.ru/categories/lyrics/</guid>
+      <guid>http://bighamster.ru/categories/mongo-db/</guid>
       <description></description>
     </item>
     
@@ -283,6 +292,24 @@
     </item>
     
     <item>
+      <title>Pry Other</title>
+      <link>http://bighamster.ru/categories/pry-other/</link>
+      <pubDate>Mon, 06 Nov 2017 15:57:20 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/pry-other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psych</title>
+      <link>http://bighamster.ru/categories/psych/</link>
+      <pubDate>Mon, 06 Nov 2017 12:24:23 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/psych/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Receipt</title>
       <link>http://bighamster.ru/categories/receipt/</link>
       <pubDate>Thu, 26 Oct 2017 22:13:56 +0300</pubDate>
@@ -303,7 +330,7 @@
     <item>
       <title>Ruby</title>
       <link>http://bighamster.ru/categories/ruby/</link>
-      <pubDate>Sun, 05 Nov 2017 12:57:10 +0300</pubDate>
+      <pubDate>Mon, 06 Nov 2017 16:40:38 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/ruby/</guid>
       <description></description>
@@ -351,6 +378,15 @@
       <pubDate>Fri, 27 Oct 2017 08:04:28 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/tale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taro</title>
+      <link>http://bighamster.ru/categories/taro/</link>
+      <pubDate>Mon, 06 Nov 2017 15:49:45 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/taro/</guid>
       <description></description>
     </item>
     

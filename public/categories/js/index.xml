@@ -18,9 +18,9 @@
       <pubDate>Sun, 05 Nov 2017 18:34:22 +0300</pubDate>
       
       <guid>http://bighamster.ru/it/interactjs/</guid>
-      <description>&lt;figure &gt;
+      <description>&lt;figure class=&#34;&#34;&gt;
     
-        &lt;img src=&#34;http://bighamster.ru/pics/interact.svg&#34; /&gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/interact.svg&#34;  /&gt;
     
     
 &lt;/figure&gt;
@@ -38,7 +38,7 @@
       
       <guid>http://bighamster.ru/it/js-arguments/</guid>
       <description>&lt;p&gt;arguments — очень специфическая штука, о которой новички и даже любители знают только то, что это «вроде массив, но какой-то неправильный». На самом деле, у него есть ряд интересных особенностей. Предлагаю в топике пофантазировать на тему TypeHinting, аргументов по-умолчанию и всякого другого.
-&lt;a href=&#34;https://habrahabr.ru/post/117868/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;a href=&#34;https://habrahabr.ru/post/117868/&#34; target=&#34;_blank&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     

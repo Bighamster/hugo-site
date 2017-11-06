@@ -8,6 +8,9 @@ source_name: ""
 toc: false
 disqus: false
 ---
+
+{{< figure src="/pics/" link="" target="_blank" class="float-left pr-2">}}
+
 <div class="row">
   <div class="col-sm-6">
     {{< youtube ??? >}}

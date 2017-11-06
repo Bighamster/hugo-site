@@ -2,7 +2,7 @@
 title: "Веселое сновидение или смех сквозь слезы"
 date: 2017-10-26T23:30:48+03:00
 draft: false
-categories: ["lyrics"]
+categories: ["poem"]
 source_name: "кино: Веселое сновидение"
 ---
 

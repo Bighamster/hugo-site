@@ -7,10 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 05 Nov 2017 17:03:57 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 18:21:10 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/css/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Скролл-эффекты</title>
+      <link>http://bighamster.ru/it/css-scroll/</link>
+      <pubDate>Mon, 06 Nov 2017 18:21:10 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css-scroll/</guid>
+      <description>&lt;figure class=&#34;float-left pr-5&#34;&gt;
+    &lt;a href=&#34;http://html5.by/blog/scroll-effects/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/scroll.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Скролл-эффекты. Разновидности, тонкости, проблемы, решения. Что такое Scroolly?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Parallax (Параллакс)&lt;/li&gt;
+&lt;li&gt;Back to top (Вернуться вверх)&lt;/li&gt;
+&lt;li&gt;Sticky (Прилипание)&lt;/li&gt;
+&lt;li&gt;Reversed sticky (Реверсное прилипание)&lt;/li&gt;
+&lt;li&gt;Progress bar (Индикатор прокрутки)&lt;/li&gt;
+&lt;li&gt;Accordion (Аккордеон)&lt;/li&gt;
+&lt;li&gt;Menu Spy (Сопровождающее меню)&lt;/li&gt;
+&lt;li&gt;Staging (Сцена)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Много полезного по верске</title>
+      <link>http://bighamster.ru/it/css-blogger/</link>
+      <pubDate>Mon, 06 Nov 2017 18:18:08 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css-blogger/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    &lt;a href=&#34;http://shpargalkablog.ru/p/html-css-javascript.html&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/css-blogger.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Подборка полезных утилит SCSS</title>
@@ -20,7 +67,7 @@
       <guid>http://bighamster.ru/it/css-utilities/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Triangle&lt;/strong&gt; - примесь triangle (которую дизайнеры Sagi предпочитают называть «chupchick»), добавляет к всплывающей подсказке треугольник. И tooltips становится похожим на диалоговое окно.&lt;br /&gt;
 &lt;strong&gt;Currency&lt;/strong&gt; - отображает текущие курсы валют.
-&lt;a href=&#34;https://habrahabr.ru/company/ua-hosting/blog/276509/&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;a href=&#34;https://habrahabr.ru/company/ua-hosting/blog/276509/&#34; target=&#34;_blank&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     

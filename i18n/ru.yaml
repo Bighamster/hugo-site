@@ -1,7 +1,11 @@
+- id: mongo-db
+  translation: MongoDB
+- id: dating
+  translation: Датировки
+- id: psych
+  translation: Психология
 - id: chelentano
   translation: Адриано Челентано
-- id: music-other
-  translation: Другие
 - id: pierce
   translation: Cat Pierce
 - id: morena
@@ -64,3 +68,7 @@
   translation: Разное
 - id: it-other
   translation: Разное
+- id: music-other
+  translation: Другие
+- id: pry-other
+  translation: Прочее
