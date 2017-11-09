@@ -1,3 +1,7 @@
+- id: taro
+  translation: ТАРО
+- id: gift
+  translation: Подарки
 - id: mongo-db
   translation: MongoDB
 - id: dating
