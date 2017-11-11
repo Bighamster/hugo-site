@@ -109,23 +109,23 @@
     <article class="pt-3 pl-0 pr-0">
       <header>
         <div class="d-flex w-100 justify-content-between">
-          <h3>Генератор favicon (-ов)</h2>
-          <small class="text-muted">November 2, 2017</small>
+          <h3>Задачи, которые любят давать на собеседовании</h2>
+          <small class="text-muted">November 11, 2017</small>
         </div>
 
         
 
   
-    <small class="text-muted">Отсюда: <a href="https://realfavicongenerator.net" target="_blank">Realfavicongenerator</a></small>
+    <small class="text-muted">Отсюда: <a href="www.leetcode.com" target="_blank">Leetcode</a></small>
   
 
 
         
   <small class="text-muted list-inline">
     
-      <a href="/categories/it-other" class="list-inline-item">
+      <a href="/categories/task" class="list-inline-item">
         
-         Разное 
+         Task 
       </a>
     
   </small>
@@ -144,8 +144,35 @@
 
 
 
-      <p>Отличный сервис, чтобы раз и навсегда забыть про проблему favicon. Отправляем картинку и получаем настройки под все возможные платформы.
+      <p>Решаю задачи с leetcode.com на Ruby
 </p>
+
+<p><strong>#171</strong></p>
+
+<p>Given a column title as appear in an Excel sheet, return its corresponding column number.</p>
+
+<p>For example:</p>
+
+<pre><code>A -&gt; 1
+B -&gt; 2
+C -&gt; 3
+...
+Z -&gt; 26
+AA -&gt; 27
+AB -&gt; 28
+</code></pre>
+
+<p>Solution:</p>
+
+<pre><code class="language-ruby"># @param {String} s
+# @return {Integer}
+def title_to_number(s)
+  s.reverse.split('').map.with_index{|e,i| 26**i*(e.ord - 'A'.ord + 1)}.sum
+end
+
+puts title_to_number('ABC') # =&gt; 731
+
+</code></pre>
 
     </article>
   </div>
@@ -154,7 +181,7 @@
 
   
     <div class="container">
-  <div id="disqus_thread" data-page-url="http://bighamster.ru/it/realfavicongenerator/" data-page-identifier="#"></div>
+  <div id="disqus_thread" data-page-url="http://bighamster.ru/it/leetcode/" data-page-identifier="#"></div>
 </div>
 
 <script type="text/javascript">

@@ -14,6 +14,7 @@ disqus: false
 <div class="row">
   <div class="col-sm-6">
     {{< youtube ??? >}}
+    <strong></strong>
   </div>
 </div>
 <!--more-->

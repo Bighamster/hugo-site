@@ -7,10 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 10 Nov 2017 00:48:44 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2017 22:11:53 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Великолепный Ричард Фейман</title>
+      <link>http://bighamster.ru/pry/feinman/</link>
+      <pubDate>Sat, 11 Nov 2017 22:11:53 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/feinman/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/aCleXNqFC2g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Поезда&lt;/strong&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/ssm7DqOYfPc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Огонь&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Характер физического закона</title>
+      <link>http://bighamster.ru/pry/feinman2/</link>
+      <pubDate>Sat, 11 Nov 2017 22:11:53 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/feinman2/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/4WMrKVST0Hk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Лекция #1. Пример физического закона — закон тяготения&lt;/strong&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/J8ikhxUf91Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Лекция #2. Связь математики и физики&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Задачи, которые любят давать на собеседовании</title>
+      <link>http://bighamster.ru/it/leetcode/</link>
+      <pubDate>Sat, 11 Nov 2017 14:02:03 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/leetcode/</guid>
+      <description>&lt;p&gt;Решаю задачи с leetcode.com на Ruby
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ГринКард</title>
