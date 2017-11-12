@@ -1,0 +1,8 @@
+<div>
+  <a href="#" data-toggle="{{ .Get "id" }}" class="dd-switcher">
+    <strong>{{ .Get "title" }}</strong>
+  </a>
+  <div data-toggled="{{ .Get "id" }}" class="d-none mt-2">
+    {{ .Inner }}
+  </div>
+</div>

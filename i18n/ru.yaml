@@ -1,3 +1,15 @@
+- id: task
+  translation: Логические задачи
+- id: try
+  translation: Попробовать
+- id: seo
+  translation: SEO
+- id: jquery
+  translation: jQuery
+- id: js
+  translation: Javascript
+- id: css
+  translation: CSS
 - id: taro
   translation: ТАРО
 - id: gift
