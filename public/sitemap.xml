@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bighamster.ru/life/piter-cats/</loc>
+    <lastmod>2017-11-18T23:13:40+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/o-chem-molchat-piramidi/</loc>
+    <lastmod>2017-11-18T18:04:20+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/egypt-signs/</loc>
+    <lastmod>2017-11-18T17:21:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/yperboreia/</loc>
+    <lastmod>2017-11-18T17:14:32+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/tartar-2/</loc>
+    <lastmod>2017-11-18T16:38:12+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/ruins-inki/</loc>
+    <lastmod>2017-11-18T16:16:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/moscow1867/</loc>
+    <lastmod>2017-11-18T15:11:03+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/faraon/</loc>
+    <lastmod>2017-11-18T14:56:33+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/tartar-1/</loc>
+    <lastmod>2017-11-18T13:41:45+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/1812-2/</loc>
+    <lastmod>2017-11-18T11:49:07+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/maps/</loc>
+    <lastmod>2017-11-18T11:32:35+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/1812-1/</loc>
+    <lastmod>2017-11-18T10:58:51+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/health/tea-herbalife/</loc>
+    <lastmod>2017-11-18T10:28:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/health/arkoxia/</loc>
+    <lastmod>2017-11-18T10:05:35+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/life/balashiha/</loc>
     <lastmod>2017-11-12T19:38:17+03:00</lastmod>
   </url>
@@ -606,7 +676,7 @@
   
   <url>
     <loc>http://bighamster.ru/</loc>
-    <lastmod>2017-11-12T19:38:17+03:00</lastmod>
+    <lastmod>2017-11-18T23:13:40+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -653,6 +723,12 @@
   </url>
   
   <url>
+    <loc>http://bighamster.ru/categories/cure/</loc>
+    <lastmod>2017-11-18T10:05:35+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/categories/dating/</loc>
     <lastmod>2017-11-05T17:11:04+03:00</lastmod>
     <priority>0</priority>
@@ -660,7 +736,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/egypt/</loc>
-    <lastmod>2017-11-04T22:19:13+03:00</lastmod>
+    <lastmod>2017-11-18T18:04:20+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -708,13 +784,19 @@
   
   <url>
     <loc>http://bighamster.ru/categories/gift/</loc>
-    <lastmod>2017-11-10T00:02:54+03:00</lastmod>
+    <lastmod>2017-11-18T23:13:40+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/categories/health-other/</loc>
+    <lastmod>2017-11-18T10:28:05+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://bighamster.ru/health/</loc>
-    <lastmod>2017-10-26T22:13:56+03:00</lastmod>
+    <lastmod>2017-11-18T10:28:05+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -780,7 +862,13 @@
   
   <url>
     <loc>http://bighamster.ru/life/</loc>
-    <lastmod>2017-11-12T19:38:17+03:00</lastmod>
+    <lastmod>2017-11-18T23:13:40+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/categories/map/</loc>
+    <lastmod>2017-11-18T11:32:35+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -827,6 +915,12 @@
   </url>
   
   <url>
+    <loc>http://bighamster.ru/categories/peru/</loc>
+    <lastmod>2017-11-18T16:16:48+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/categories/physics/</loc>
     <lastmod>2017-11-11T22:11:53+03:00</lastmod>
     <priority>0</priority>
@@ -846,7 +940,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/pry-other/</loc>
-    <lastmod>2017-11-10T00:13:08+03:00</lastmod>
+    <lastmod>2017-11-18T17:21:14+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -916,6 +1010,12 @@
   </url>
   
   <url>
+    <loc>http://bighamster.ru/categories/tartar/</loc>
+    <lastmod>2017-11-18T16:38:12+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/categories/task/</loc>
     <lastmod>2017-11-11T14:02:03+03:00</lastmod>
     <priority>0</priority>
@@ -954,6 +1054,12 @@
   <url>
     <loc>http://bighamster.ru/categories/vue.js/</loc>
     <lastmod>2017-10-26T21:12:14+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/categories/war1812/</loc>
+    <lastmod>2017-11-18T11:49:07+03:00</lastmod>
     <priority>0</priority>
   </url>
   

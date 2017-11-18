@@ -1,3 +1,17 @@
+- id: peru
+  translation: Перу
+- id: tartar
+  translation: Тартария
+- id: feinman
+  translation: Ричард Фейнман
+- id: war1812
+  translation: "1812"
+- id: map
+  translation: Карты
+- id: health-other
+  translation: Прочее
+- id: cure
+  translation: Лекарства
 - id: task
   translation: Логические задачи
 - id: try
@@ -49,7 +63,7 @@
 - id: gambit-morra
   translation: Гамбит Морра
 - id: receipt
-  translation: Рецепт
+  translation: Рецепты
 - id: poem
   translation: Стихи
 - id: helper

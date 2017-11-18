@@ -11,3 +11,7 @@ draft: false
 <a href="http://antropogenez.ru/" target="_blank">
   <img src="/pics/antropogenez.gif" width="150" height="80" alt="АНТРОПОГЕНЕЗ.РУ – Портал об эволюции человека"/>
 </a>
+
+<a href="http://www.dopotopa.com/" target="_blank">
+  ДО ПОТОПА
+</a>
