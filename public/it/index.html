@@ -119,6 +119,73 @@
               <div class="list-group">
   <div class="list-group-item border-0">
     <div class="d-flex justify-content-between">
+      <a href="/it/select2/"><h5 class="mb-1 small-caps">Обманываем мультиселект Select2</h5></a>
+      <small class="text-muted">December 2, 2017</small>
+    </div>
+  </div>
+  <div class="list-group-item border-0 pt-0 pb-0"> <p>Известно, что Select2 в режиме <strong>multiple: true</strong>, во время сабмита формы отдаст только первое выбранное значение.
+Чтобы вернуть все значения (разделенные например запятой) можно воспользоваться хуком jQuery:</p>
+
+<div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style=";border-spacing:0;padding:0;margin:0;border:0;width:100%;overflow:auto;display:block;"><tr><td style=";vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 1</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 2</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 3</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 4</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 5</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 6</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 7</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 8</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 9</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">10</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">11</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">12</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">13</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">14</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">15</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">16</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">17</span></code></pre></td>
+<td style=";vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#a6e22e">$</span>.<span style="color:#a6e22e">valHooks</span>[ <span style="color:#e6db74">&#39;select-multiple&#39;</span> ] <span style="color:#f92672">=</span> {
+  <span style="color:#a6e22e">get</span><span style="color:#f92672">:</span>  <span style="color:#66d9ef">function</span>( <span style="color:#a6e22e">elem</span> ) {
+          <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">$this</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">$</span>( <span style="color:#a6e22e">elem</span> );
+
+          <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">$this</span>.<span style="color:#a6e22e">hasClass</span>(<span style="color:#e6db74">&#34;select2-hidden-accessible&#34;</span>)) {
+
+            <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">$</span>.<span style="color:#a6e22e">map</span>(<span style="color:#a6e22e">$this</span>.<span style="color:#a6e22e">select2</span>(<span style="color:#e6db74">&#39;data&#39;</span>), <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">e</span>){ <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">e</span>.<span style="color:#a6e22e">id</span>;}).<span style="color:#a6e22e">join</span>(<span style="color:#e6db74">&#39;,&#39;</span>);
+          } <span style="color:#66d9ef">else</span> {
+
+            <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">$</span>.<span style="color:#a6e22e">valHooks</span>[<span style="color:#e6db74">&#39;select&#39;</span>].<span style="color:#a6e22e">get</span>( <span style="color:#a6e22e">elem</span> );
+          }
+        },
+  <span style="color:#a6e22e">set</span><span style="color:#f92672">:</span>  <span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">elem</span>, <span style="color:#a6e22e">value</span>) {
+
+          <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">$</span>.<span style="color:#a6e22e">valHooks</span>[<span style="color:#e6db74">&#39;select&#39;</span>].<span style="color:#a6e22e">set</span>( <span style="color:#a6e22e">elem</span>, <span style="color:#a6e22e">value</span>);
+        }
+  };</code></pre></td></tr></table>
+</div>
+</div>
+
+<ul>
+<li>Обязательно проксировать оба метода get/set</li>
+</ul>
+
+<p></p> </div>
+  <div class="list-group-item border-0 pt-0"> 
+
+ </div>
+</div>
+
+            </div>
+          
+            <div class="list-group-item border-0">
+              <div class="list-group">
+  <div class="list-group-item border-0">
+    <div class="d-flex justify-content-between">
+      <a href="/it/anti-ddos/"><h5 class="mb-1 small-caps">Доступные методы борьбы с DDoS-атаками для владельцев vds/dedicated серверов с Linux</h5></a>
+      <small class="text-muted">November 29, 2017</small>
+    </div>
+  </div>
+  <div class="list-group-item border-0 pt-0 pb-0"> <p></p> </div>
+  <div class="list-group-item border-0 pt-0"> 
+
+  
+    <small class="text-muted">Отсюда: <a href="https://habrahabr.ru/company/netangels/blog/149302/" target="_blank">https://habrahabr.ru/company/netangels/blog/149302/</a></small>
+  
+
+ </div>
+</div>
+
+            </div>
+          
+            <div class="list-group-item border-0">
+              <div class="list-group">
+  <div class="list-group-item border-0">
+    <div class="d-flex justify-content-between">
       <a href="/it/leetcode/"><h5 class="mb-1 small-caps">Задачи, которые любят давать на собеседовании</h5></a>
       <small class="text-muted">November 11, 2017</small>
     </div>
@@ -559,58 +626,6 @@ git merge --no-ff feature
 
             </div>
           
-            <div class="list-group-item border-0">
-              <div class="list-group">
-  <div class="list-group-item border-0">
-    <div class="d-flex justify-content-between">
-      <a href="/it/turnable/"><h5 class="mb-1 small-caps">Turntable.js</h5></a>
-      <small class="text-muted">November 5, 2017</small>
-    </div>
-  </div>
-  <div class="list-group-item border-0 pt-0 pb-0"> <figure class="float-left pr-2">
-    
-        <img src="/pics/turnable.png"  />
-    
-    
-</figure>
-
-
-<p>Если у вас есть 10-15 фоток чего-нибудь последовательно снятого, то этот плагин сымитирует &ldquo;вращение&rdquo; объекта.
-</p> </div>
-  <div class="list-group-item border-0 pt-0"> 
-
-  
-    <small class="text-muted">Отсюда: <a href="http://polarnotion.github.io/turntable/" target="_blank">http://polarnotion.github.io/turntable/</a></small>
-  
-
- </div>
-</div>
-
-            </div>
-          
-            <div class="list-group-item border-0">
-              <div class="list-group">
-  <div class="list-group-item border-0">
-    <div class="d-flex justify-content-between">
-      <a href="/it/scalability2/"><h5 class="mb-1 small-caps">Масштабирование базы данных через шардирование и партиционирование</h5></a>
-      <small class="text-muted">November 5, 2017</small>
-    </div>
-  </div>
-  <div class="list-group-item border-0 pt-0 pb-0"> <p>Всем привет! Меня зовут Денис Иванов, и я расскажу о масштабировании баз данных через шардирование и партиционирование. После этого доклада у всех должно появиться желание что-то попартицировать, пошардировать, вы поймете, что это очень просто, оно никак жрать не просит, работает, и все замечательно.</p>
-
-<p><a href="https://habrahabr.ru/company/oleg-bunin/blog/309330/" target="_blank">Далее</a>
-</p> </div>
-  <div class="list-group-item border-0 pt-0"> 
-
-  
-    <small class="text-muted">Отсюда: <a href="https://habrahabr.ru/company/oleg-bunin/blog/309330/" target="_blank">Хабрахабр</a></small>
-  
-
- </div>
-</div>
-
-            </div>
-          
         </div>
 
         
@@ -799,7 +814,43 @@ git merge --no-ff feature
       
     
   
+    
+      
+    
+  
+    
+      
+    
+  
 
+  
+    
+    <a href="/categories/ruby" class="d-flex justify-content-between align-items-center">
+      
+       Ruby 
+      <span class="badge badge-primary badge-pill">4</span>
+    </a>
+  
+    
+    <a href="/categories/js" class="d-flex justify-content-between align-items-center">
+      
+       Javascript 
+      <span class="badge badge-primary badge-pill">3</span>
+    </a>
+  
+    
+    <a href="/categories/jquery" class="d-flex justify-content-between align-items-center">
+      
+       jQuery 
+      <span class="badge badge-primary badge-pill">2</span>
+    </a>
+  
+    
+    <a href="/categories/it-other" class="d-flex justify-content-between align-items-center">
+      
+       Разное 
+      <span class="badge badge-primary badge-pill">8</span>
+    </a>
   
     
     <a href="/categories/task" class="d-flex justify-content-between align-items-center">
@@ -823,13 +874,6 @@ git merge --no-ff feature
     </a>
   
     
-    <a href="/categories/it-other" class="d-flex justify-content-between align-items-center">
-      
-       Разное 
-      <span class="badge badge-primary badge-pill">7</span>
-    </a>
-  
-    
     <a href="/categories/helper" class="d-flex justify-content-between align-items-center">
       
        Хелперы 
@@ -844,30 +888,9 @@ git merge --no-ff feature
     </a>
   
     
-    <a href="/categories/ruby" class="d-flex justify-content-between align-items-center">
-      
-       Ruby 
-      <span class="badge badge-primary badge-pill">3</span>
-    </a>
-  
-    
-    <a href="/categories/js" class="d-flex justify-content-between align-items-center">
-      
-       Javascript 
-      <span class="badge badge-primary badge-pill">2</span>
-    </a>
-  
-    
     <a href="/categories/svg" class="d-flex justify-content-between align-items-center">
       
        Svg 
-      <span class="badge badge-primary badge-pill">1</span>
-    </a>
-  
-    
-    <a href="/categories/jquery" class="d-flex justify-content-between align-items-center">
-      
-       jQuery 
       <span class="badge badge-primary badge-pill">1</span>
     </a>
   

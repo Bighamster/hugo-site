@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 Nov 2017 17:28:54 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2017 22:09:16 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/it-other/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Доступные методы борьбы с DDoS-атаками для владельцев vds/dedicated серверов с Linux</title>
+      <link>http://bighamster.ru/it/anti-ddos/</link>
+      <pubDate>Wed, 29 Nov 2017 22:09:16 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/anti-ddos/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Принципы работы современных веб-браузеров</title>
