@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bighamster.ru/health/movalis/</loc>
+    <lastmod>2017-12-08T11:19:23+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/health/pain-1/</loc>
     <lastmod>2017-12-03T12:12:23+03:00</lastmod>
   </url>
@@ -691,7 +696,7 @@
   
   <url>
     <loc>http://bighamster.ru/</loc>
-    <lastmod>2017-12-03T12:12:23+03:00</lastmod>
+    <lastmod>2017-12-08T11:19:23+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -739,7 +744,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/cure/</loc>
-    <lastmod>2017-12-03T12:12:23+03:00</lastmod>
+    <lastmod>2017-12-08T11:19:23+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -811,7 +816,7 @@
   
   <url>
     <loc>http://bighamster.ru/health/</loc>
-    <lastmod>2017-12-03T12:12:23+03:00</lastmod>
+    <lastmod>2017-12-08T11:19:23+03:00</lastmod>
     <priority>0</priority>
   </url>
   
