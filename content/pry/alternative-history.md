@@ -2,7 +2,7 @@
 title: "Лаборатория альтернативной истории"
 date: 2017-11-09T22:58:40+03:00
 draft: false
-categories: ["history"]
+categories: ["pry-other"]
 source_url: http://lah.ru/
 source_name: lah.ru
 ---

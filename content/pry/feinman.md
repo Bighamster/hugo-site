@@ -2,7 +2,7 @@
 title: "Великолепный Ричард Фейман"
 date: 2017-11-11T22:11:53+03:00
 draft: false
-categories: ["physics","feinman"]
+categories: ["feinman"]
 ---
 
 <div class="row">

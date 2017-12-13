@@ -7,10 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Dec 2017 11:19:23 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2017 21:12:52 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Песни любящих сердец</title>
+      <link>http://bighamster.ru/life/anek/</link>
+      <pubDate>Tue, 12 Dec 2017 21:12:52 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/life/anek/</guid>
+      <description>&lt;p&gt;Софья Абрамовна допила чай, выключила телевизор и решила начинать.&lt;/p&gt;
+
+&lt;p&gt;— Сема, что за странные рожи вы корчите в мое трюмо? Вы думаете без них недостаточно страшно?&lt;/p&gt;
+
+&lt;p&gt;Сема отскочил от зеркала и в страхе огляделся.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Про производную, интегрирование и логику</title>
+      <link>http://bighamster.ru/pry/torvald/</link>
+      <pubDate>Sun, 10 Dec 2017 15:42:20 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/pry/torvald/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/G_dA732qFGw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Смысл интеграла и производной.&lt;/strong&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/z5-EEkgnvAY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Удивительные примеры логики&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>От боли в суставах</title>

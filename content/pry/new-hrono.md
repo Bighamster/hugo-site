@@ -2,7 +2,7 @@
 title: "New Hrono"
 date: 2017-11-09T23:14:20+03:00
 draft: false
-categories: ["history"]
+categories: ["pry-other"]
 source_url: http://chronologia.org/
 source_name: Фоменко & Носовский
 ---
