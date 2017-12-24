@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bighamster.ru/pry/15x4/</loc>
+    <lastmod>2017-12-24T17:59:52+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/css-1/</loc>
+    <lastmod>2017-12-24T14:00:58+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/life/anek/</loc>
     <lastmod>2017-12-12T21:12:52+03:00</lastmod>
   </url>
@@ -706,7 +716,7 @@
   
   <url>
     <loc>http://bighamster.ru/</loc>
-    <lastmod>2017-12-12T21:12:52+03:00</lastmod>
+    <lastmod>2017-12-24T17:59:52+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -748,7 +758,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/css/</loc>
-    <lastmod>2017-11-06T18:21:10+03:00</lastmod>
+    <lastmod>2017-12-24T14:00:58+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -850,7 +860,7 @@
   
   <url>
     <loc>http://bighamster.ru/it/</loc>
-    <lastmod>2017-12-02T15:11:38+03:00</lastmod>
+    <lastmod>2017-12-24T14:00:58+03:00</lastmod>
     <priority>0</priority>
   </url>
   

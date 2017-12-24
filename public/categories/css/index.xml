@@ -7,10 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 Nov 2017 18:21:10 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2017 14:00:58 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/css/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Дивчик с &#34;летающими&#34; краями</title>
+      <link>http://bighamster.ru/it/css-1/</link>
+      <pubDate>Sun, 24 Dec 2017 14:00:58 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css-1/</guid>
+      <description>&lt;style&gt;
+  .fly-edge {
+    background-color: #40AFE8;
+    width: 330px;
+  }
+
+  .fly-edge-msg {
+    font: normal normal normal 15px/1.4em Basic,sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+  }
+
+  .fly-edge-shadow {
+    height: 16px;
+    width: 330px;
+    background-image: url(&#39;/images/shadow-1.png&#39;);
+    background-repeat: no-repeat;
+  }
+&lt;/style&gt;
+
+&lt;p&gt;&lt;div class=&#34;fly-edge&#34;&gt;
+  &lt;div style=&#34;min-height: 16px;&#34;&gt;&lt;/div&gt;
+  &lt;div class=&#34;fly-edge-msg&#34;&gt;
+    Дивчик с &amp;ldquo;летающими&amp;rdquo; краями!
+  &lt;/div&gt;
+  &lt;div style=&#34;min-height: 16px;&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;fly-edge-shadow&#34;&gt;&lt;/div&gt;
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Скролл-эффекты</title>
