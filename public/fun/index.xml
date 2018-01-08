@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 01 Nov 2017 22:23:26 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2018 00:31:57 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/fun/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Про бандеровца</title>
+      <link>http://bighamster.ru/fun/anek2/</link>
+      <pubDate>Tue, 09 Jan 2018 00:31:57 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/fun/anek2/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/anek2.jpeg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Наташа Ростова и лошадь</title>
@@ -19,7 +36,7 @@
       
       <guid>http://bighamster.ru/fun/anek1/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-sm-6&#34;&gt;
+  &lt;div class=&#34;col-sm-12&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/pei_7-teVtY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;

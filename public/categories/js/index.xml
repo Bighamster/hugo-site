@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 02 Dec 2017 15:11:38 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2017 00:18:23 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/js/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Исчерпывающий справочник по JavaScript для вашего следующего собеседования. Часть 1</title>
+      <link>http://bighamster.ru/it/js-short/</link>
+      <pubDate>Sat, 30 Dec 2017 00:18:23 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/js-short/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Обманываем мультиселект Select2</title>

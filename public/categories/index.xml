@@ -186,7 +186,7 @@
     <item>
       <title>Helper</title>
       <link>http://bighamster.ru/categories/helper/</link>
-      <pubDate>Mon, 06 Nov 2017 17:09:38 +0300</pubDate>
+      <pubDate>Mon, 08 Jan 2018 23:51:16 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/helper/</guid>
       <description></description>
@@ -222,7 +222,7 @@
     <item>
       <title>Js</title>
       <link>http://bighamster.ru/categories/js/</link>
-      <pubDate>Sat, 02 Dec 2017 15:11:38 +0300</pubDate>
+      <pubDate>Sat, 30 Dec 2017 00:18:23 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/js/</guid>
       <description></description>
@@ -249,9 +249,18 @@
     <item>
       <title>Life Other</title>
       <link>http://bighamster.ru/categories/life-other/</link>
-      <pubDate>Sun, 12 Nov 2017 19:38:17 +0300</pubDate>
+      <pubDate>Tue, 09 Jan 2018 00:23:34 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/life-other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life Others</title>
+      <link>http://bighamster.ru/categories/life-others/</link>
+      <pubDate>Tue, 09 Jan 2018 00:35:32 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/life-others/</guid>
       <description></description>
     </item>
     
@@ -324,6 +333,15 @@
       <pubDate>Sat, 18 Nov 2017 16:16:48 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/peru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pics</title>
+      <link>http://bighamster.ru/categories/pics/</link>
+      <pubDate>Tue, 09 Jan 2018 00:31:57 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/pics/</guid>
       <description></description>
     </item>
     

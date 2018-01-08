@@ -7,7 +7,7 @@ source_url: https://www.youtube.com/watch?v=pei_7-teVtY
 ---
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-12">
     {{< youtube pei_7-teVtY >}}
   </div>
 </div>
