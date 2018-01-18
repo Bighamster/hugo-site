@@ -2,7 +2,7 @@
 title: Нотной грамоте учат неправильно
 date: 2018-01-09T00:35:32+03:00
 draft: false
-categories: ["life-others"]
+categories: ["life-other"]
 source_url: https://geektimes.ru/post/297015/
 source_name: Хабрахабр
 ---

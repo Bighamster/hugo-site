@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 09 Jan 2018 00:35:32 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2018 14:34:44 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Snafu &amp; Fubar</title>
+      <link>http://bighamster.ru/life/snafu/</link>
+      <pubDate>Sun, 14 Jan 2018 14:34:44 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/life/snafu/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;SNAFU&lt;/strong&gt; - situation normal: all fucked up.&lt;br /&gt;
+Англ.: Ситуация нормальная: все через жопу (или все пошло по пизде). То есть, бардак.
+В словаре так и написано: snafu - бардак, путаница, неразбериха.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FUBAR&lt;/strong&gt; - fucked up beyond any repair (вариант: beyond any recognition).&lt;br /&gt;
+Англ.: все сломалось, хуй починишь.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Нотной грамоте учат неправильно</title>

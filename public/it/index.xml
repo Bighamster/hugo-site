@@ -7,10 +7,77 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 Jan 2018 23:51:16 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 21:45:55 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/it/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Свойство background-clip и его применения</title>
+      <link>http://bighamster.ru/it/css-background-clip/</link>
+      <pubDate>Thu, 18 Jan 2018 21:45:55 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css-background-clip/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Полупозрачная рамка</title>
+      <link>http://bighamster.ru/it/css-opacity/</link>
+      <pubDate>Wed, 17 Jan 2018 19:49:57 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/css-opacity/</guid>
+      <description>&lt;style&gt;
+  .inline {
+    display: flex;
+  }
+  .parent {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+    background-image: url(&#39;/pics/brick-wall.jpg&#39;);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .frame {
+    width: 50%;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+  .block-v1 {
+    padding: 30px;
+    background-color: white;
+  }
+  .block-v2 {
+    width: 50%;
+    padding: 30px;
+    border: 20px solid hsla(0,0%, 100%, 0.5);
+    background-color: white;
+    background-clip: padding-box;
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;inline&#34;&gt;
+  &lt;div class=&#34;parent&#34;&gt;
+    &lt;div class=&#34;frame&#34;&gt;
+      &lt;div class=&#34;block-v1&#34;&gt;
+        Version-1: Lorem ipsum dolor sit amet ...
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;div class=&#34;parent&#34;&gt;
+    &lt;div class=&#34;block-v2&#34;&gt;
+      Version-2: Lorem ipsum dolor sit amet &amp;hellip;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Конвертер Видео в GIF (animated)</title>
