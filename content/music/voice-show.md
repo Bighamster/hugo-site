@@ -6,7 +6,7 @@ categories: ["voice"]
 ---
 <div class="row">
   <div class="col-sm-6">
-    {{< youtube nMfUeUM0lXo >}}
+    {{< youtube 0MNMa9rnTyA >}}
     <strong>Александра Сиркашева, Диана Пихун, Иван Лесной 'Sousleciel de Paris'</strong>
   </div>
 </div>

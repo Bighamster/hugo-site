@@ -6,7 +6,7 @@ categories: ["life-other"]
 source_url: https://www.youtube.com/watch?v=YXK1u0a9mp4
 ---
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-12">
     {{< youtube YXK1u0a9mp4 >}}
   </div>
 </div>

@@ -7,10 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 18 Jan 2018 21:45:55 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2018 17:37:50 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Лучшие инструменты для SEO и интернет маркетинга</title>
+      <link>http://bighamster.ru/it/seo-tools/</link>
+      <pubDate>Sun, 28 Jan 2018 17:37:50 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/seo-tools/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    &lt;a href=&#34;&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/seo-tools.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tu Vuo&#39; Fa&#39; L&#39;Americano - Hetty &amp; the Jazzato Band</title>
+      <link>http://bighamster.ru/music/jazzato-band/</link>
+      <pubDate>Sun, 28 Jan 2018 14:29:48 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/music/jazzato-band/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-6&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/J0ogqBcK9ow&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+    &lt;strong&gt;Tu Vuo&amp;rsquo; Fa&amp;rsquo; L&amp;rsquo;Americano&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visualize Database Schema – PostgreSQL DB – Rails 5</title>
+      <link>http://bighamster.ru/it/visualize-db/</link>
+      <pubDate>Wed, 24 Jan 2018 22:09:30 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/visualize-db/</guid>
+      <description>&lt;figure &gt;
+    &lt;a href=&#34;&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/db-visualize.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Свойство background-clip и его применения</title>
@@ -301,10 +354,10 @@ Here you can create, resize, crop, reverse, optimize, and apply some effects to 
     
     <item>
       <title>Песни любящих сердец</title>
-      <link>http://bighamster.ru/life/anek/</link>
+      <link>http://bighamster.ru/fun/anek3/</link>
       <pubDate>Tue, 12 Dec 2017 21:12:52 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/anek/</guid>
+      <guid>http://bighamster.ru/fun/anek3/</guid>
       <description>&lt;p&gt;Софья Абрамовна допила чай, выключила телевизор и решила начинать.&lt;/p&gt;
 
 &lt;p&gt;— Сема, что за странные рожи вы корчите в мое трюмо? Вы думаете без них недостаточно страшно?&lt;/p&gt;
@@ -1549,10 +1602,10 @@ git merge --no-ff feature
     
     <item>
       <title>Что происходит на свете?</title>
-      <link>http://bighamster.ru/life/what-happens/</link>
+      <link>http://bighamster.ru/fun/anek4/</link>
       <pubDate>Thu, 02 Nov 2017 00:23:57 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/what-happens/</guid>
+      <guid>http://bighamster.ru/fun/anek4/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;col-sm-6&#34;&gt;
     
@@ -1646,7 +1699,7 @@ git merge --no-ff feature
   &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/nMfUeUM0lXo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/0MNMa9rnTyA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
     &lt;strong&gt;Александра Сиркашева, Диана Пихун, Иван Лесной &amp;lsquo;Sousleciel de Paris&amp;rsquo;&lt;/strong&gt;
@@ -1675,10 +1728,10 @@ git merge --no-ff feature
     
     <item>
       <title>Реутов ТВ - Кастинг в Реалити Шоу.</title>
-      <link>http://bighamster.ru/life/kasting-reutov/</link>
+      <link>http://bighamster.ru/fun/anek5/</link>
       <pubDate>Wed, 01 Nov 2017 23:19:31 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/kasting-reutov/</guid>
+      <guid>http://bighamster.ru/fun/anek5/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;col-sm-6&#34;&gt;
     
@@ -1725,7 +1778,7 @@ git merge --no-ff feature
       
       <guid>http://bighamster.ru/life/oksana-fandera/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-sm-6&#34;&gt;
+  &lt;div class=&#34;col-sm-12&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/uEbEdw8OW4M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -1743,7 +1796,7 @@ git merge --no-ff feature
       
       <guid>http://bighamster.ru/life/muzikov-nado-lubit/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-sm-6&#34;&gt;
+  &lt;div class=&#34;col-sm-12&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/YXK1u0a9mp4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -2116,10 +2169,10 @@ git merge --no-ff feature
     
     <item>
       <title>Сюрприз, сюрприз, Да здравствует сюрприз.</title>
-      <link>http://bighamster.ru/life/surprise/</link>
+      <link>http://bighamster.ru/music/surprise/</link>
       <pubDate>Thu, 26 Oct 2017 23:23:45 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/surprise/</guid>
+      <guid>http://bighamster.ru/music/surprise/</guid>
       <description>&lt;div class=&#34;row&#34;&gt;
   &lt;div class=&#34;col-sm-6&#34;&gt;
     
@@ -2149,10 +2202,10 @@ git merge --no-ff feature
     
     <item>
       <title>Женщина лет 80</title>
-      <link>http://bighamster.ru/life/woman-80/</link>
+      <link>http://bighamster.ru/fun/woman-80/</link>
       <pubDate>Thu, 26 Oct 2017 23:14:52 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/woman-80/</guid>
+      <guid>http://bighamster.ru/fun/woman-80/</guid>
       <description>&lt;p&gt;Женщина лет 80 в платье «под зебру», с крупными серьгами в ушах и ярким алым маникюром разговаривает по телефону у входа в «Буланжери»:&lt;/p&gt;
 
 &lt;p&gt;— Вера, серьезно, я тебя не понимаю. Что ты ломаешься?&lt;/p&gt;
@@ -2201,10 +2254,10 @@ git merge --no-ff feature
     
     <item>
       <title>Про женщину Николая</title>
-      <link>http://bighamster.ru/life/pro-woman-nikolaya/</link>
+      <link>http://bighamster.ru/fun/pro-woman-nikolaya/</link>
       <pubDate>Thu, 26 Oct 2017 22:18:57 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/pro-woman-nikolaya/</guid>
+      <guid>http://bighamster.ru/fun/pro-woman-nikolaya/</guid>
       <description>&lt;p&gt;Вот новая женщина у Николая.&lt;br /&gt;
 Красивая, умная и молодая,&lt;/p&gt;
 
@@ -2225,10 +2278,10 @@ git merge --no-ff feature
     
     <item>
       <title>Смешная история про собачку Клёпу</title>
-      <link>http://bighamster.ru/life/pro-sobachku-klepu/</link>
+      <link>http://bighamster.ru/fun/pro-sobachku-klepu/</link>
       <pubDate>Thu, 26 Oct 2017 22:02:16 +0300</pubDate>
       
-      <guid>http://bighamster.ru/life/pro-sobachku-klepu/</guid>
+      <guid>http://bighamster.ru/fun/pro-sobachku-klepu/</guid>
       <description>&lt;p&gt;У Миши есть Маша, а у Маши есть Клёпа (Клеопатра блядь)… Клёпа это такая собака вроде, собака из породы знаете таких, сука, жалких карманных невнятностей — маленькая-маленькая, пучиглазая и нервная как все маленькие. Бегает этот дрищ по квартире в трясках и судорогах каких-то, вечно мёрзнет и ссытся.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

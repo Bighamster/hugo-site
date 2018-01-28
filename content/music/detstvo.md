@@ -2,11 +2,7 @@
 title: "Песни из детства"
 date: 2017-12-26T15:19:41+03:00
 draft: false
-categories: []
-source_url: ""
-source_name: ""
-toc: false
-disqus: false
+categories: ["music-other"]
 ---
 
 <div class="row">

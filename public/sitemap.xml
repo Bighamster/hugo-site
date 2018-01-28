@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bighamster.ru/root/</loc>
+    <lastmod>2018-01-28T18:10:52+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/seo-tools/</loc>
+    <lastmod>2018-01-28T17:37:50+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/music/jazzato-band/</loc>
+    <lastmod>2018-01-28T14:29:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/visualize-db/</loc>
+    <lastmod>2018-01-24T22:09:30+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/it/css-background-clip/</loc>
     <lastmod>2018-01-18T21:45:55+03:00</lastmod>
   </url>
@@ -63,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/life/anek/</loc>
+    <loc>http://bighamster.ru/fun/anek3/</loc>
     <lastmod>2017-12-12T21:12:52+03:00</lastmod>
   </url>
   
@@ -423,7 +443,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/life/what-happens/</loc>
+    <loc>http://bighamster.ru/fun/anek4/</loc>
     <lastmod>2017-11-02T00:23:57+03:00</lastmod>
   </url>
   
@@ -453,7 +473,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/life/kasting-reutov/</loc>
+    <loc>http://bighamster.ru/fun/anek5/</loc>
     <lastmod>2017-11-01T23:19:31+03:00</lastmod>
   </url>
   
@@ -588,12 +608,12 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/life/surprise/</loc>
+    <loc>http://bighamster.ru/music/surprise/</loc>
     <lastmod>2017-10-26T23:23:45+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bighamster.ru/life/woman-80/</loc>
+    <loc>http://bighamster.ru/fun/woman-80/</loc>
     <lastmod>2017-10-26T23:14:52+03:00</lastmod>
   </url>
   
@@ -613,7 +633,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/life/pro-woman-nikolaya/</loc>
+    <loc>http://bighamster.ru/fun/pro-woman-nikolaya/</loc>
     <lastmod>2017-10-26T22:18:57+03:00</lastmod>
   </url>
   
@@ -623,7 +643,7 @@
   </url>
   
   <url>
-    <loc>http://bighamster.ru/life/pro-sobachku-klepu/</loc>
+    <loc>http://bighamster.ru/fun/pro-sobachku-klepu/</loc>
     <lastmod>2017-10-26T22:02:16+03:00</lastmod>
   </url>
   
@@ -766,7 +786,7 @@
   
   <url>
     <loc>http://bighamster.ru/</loc>
-    <lastmod>2018-01-18T21:45:55+03:00</lastmod>
+    <lastmod>2018-01-28T17:37:50+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -910,7 +930,7 @@
   
   <url>
     <loc>http://bighamster.ru/it/</loc>
-    <lastmod>2018-01-18T21:45:55+03:00</lastmod>
+    <lastmod>2018-01-28T17:37:50+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -976,13 +996,13 @@
   
   <url>
     <loc>http://bighamster.ru/categories/music-other/</loc>
-    <lastmod>2017-11-02T00:37:54+03:00</lastmod>
+    <lastmod>2018-01-28T14:29:48+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://bighamster.ru/music/</loc>
-    <lastmod>2017-12-26T15:19:41+03:00</lastmod>
+    <lastmod>2018-01-28T14:29:48+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1060,7 +1080,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/seo/</loc>
-    <lastmod>2017-10-30T16:03:59+03:00</lastmod>
+    <lastmod>2018-01-28T17:37:50+03:00</lastmod>
     <priority>0</priority>
   </url>
   

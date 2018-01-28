@@ -1,28 +1,50 @@
 {{ define "main" }}
 
-  {{ $paginator := .Paginate (where .Pages "Section" (or .Section "it")) }}
-  
-  <div class="container">
-    <div class="row mt-3">
-      <div class="col-sm-12 order-sm-2 col-md-9 order-md-1 pl-0 pr-0">
-        <div class="list-group">
-          {{ range $paginator.Pages }}
-            <div class="list-group-item border-0">
-              {{ partial "summary.html" . }}
-            </div>
-          {{ end }}
+  {{ if .Section }}
+
+    {{ $paginator := .Paginate (where .Pages "Section" .Section) }}
+
+    <div class="container">
+      <div class="row mt-3">
+        <div class="col-sm-12 order-sm-2 col-md-9 order-md-1 pl-0 pr-0">
+          <div class="list-group">
+            {{ range $paginator.Pages }}
+              <div class="list-group-item border-0">
+                {{ partial "summary.html" . }}
+              </div>
+            {{ end }}
+          </div>
+
+          {{ partial "pagination.html" . }}
         </div>
 
-        {{ partial "pagination.html" . }}
-      </div>
-
-      <div class="col-sm-12 order-sm-1 col-md-3 order-md-2">
-        {{ partial "panel-categories.html" . }}
-        <div class="mt-3">
-          {{ .Content }}
+        <div class="col-sm-12 order-sm-1 col-md-3 order-md-2">
+          {{ partial "panel-categories.html" . }}
+          <div class="mt-3">
+            {{ .Content }}
+          </div>
         </div>
       </div>
     </div>
-  </div>
 
+  {{ else }}
+
+    {{ $paginator := .Paginate .Site.RegularPages.ByLastmod.Reverse }}
+
+    <div class="container">
+      <div class="row mt-3">
+        <div class="col-sm-12 pl-0 pr-0">
+          <div class="list-group">
+            {{ range $paginator.Pages }}
+              <div class="list-group-item border-0">
+                {{ partial "summary.html" . }}
+              </div>
+            {{ end }}
+          </div>
+
+          {{ partial "pagination.html" . }}
+        </div>
+      </div>
+    </div>
+  {{end}}
 {{end}}
