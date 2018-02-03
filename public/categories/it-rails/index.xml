@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>It Rails on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/it-rails/</link>
+    <description>Recent content in It Rails on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 03 Feb 2018 14:39:26 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/it-rails/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Установка rmagick -v &#39;2.16.0&#39; на Mac</title>
+      <link>http://bighamster.ru/it/rmagick/</link>
+      <pubDate>Sat, 03 Feb 2018 14:39:26 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/rmagick/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;brew unlink imagemagick
+brew install imagemagick@6 &amp;amp;&amp;amp; brew link imagemagick@6 --force
+echo &#39;export PATH=&amp;quot;/usr/local/opt/imagemagick@6/bin:$PATH&amp;quot;&#39; &amp;gt;&amp;gt; ~/.bash_profile
+
+gem install rmagick -v &#39;2.16.0&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

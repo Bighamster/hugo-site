@@ -2,7 +2,7 @@
 title: "Гобеленовые подушки и Питерские коты Румянцева"
 date: 2017-11-18T23:13:40+03:00
 draft: false
-categories: ["gift"]
+categories: ["life-gift"]
 source_url: http://gobelenshop.ru
 source_name: GobelenShop
 ---

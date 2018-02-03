@@ -20,13 +20,13 @@
   translation: SEO
 - id: jquery
   translation: jQuery
-- id: js
+- id: it-javascript
   translation: Javascript
 - id: css
   translation: CSS
 - id: taro
   translation: ТАРО
-- id: gift
+- id: life-gift
   translation: Подарки
 - id: mongo-db
   translation: MongoDB
@@ -102,3 +102,9 @@
   translation: Другие
 - id: pry-other
   translation: Прочее
+- id: pry-until1917
+  translation: "1917"
+- id: it-rails
+  translation: Rails
+- id: it-nginx
+  translation: Nginx

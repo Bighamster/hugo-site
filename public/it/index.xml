@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 28 Jan 2018 17:37:50 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2018 16:30:37 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/it/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Алгоритм выбора location в Nginx</title>
+      <link>http://bighamster.ru/it/nginx-lalocation-choosing/</link>
+      <pubDate>Sat, 03 Feb 2018 16:30:37 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/nginx-lalocation-choosing/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Установка rmagick -v &#39;2.16.0&#39; на Mac</title>
+      <link>http://bighamster.ru/it/rmagick/</link>
+      <pubDate>Sat, 03 Feb 2018 14:39:26 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/rmagick/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;brew unlink imagemagick
+brew install imagemagick@6 &amp;amp;&amp;amp; brew link imagemagick@6 --force
+echo &#39;export PATH=&amp;quot;/usr/local/opt/imagemagick@6/bin:$PATH&amp;quot;&#39; &amp;gt;&amp;gt; ~/.bash_profile
+
+gem install rmagick -v &#39;2.16.0&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Лучшие инструменты для SEO и интернет маркетинга</title>

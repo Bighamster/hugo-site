@@ -166,15 +166,6 @@
     </item>
     
     <item>
-      <title>Gift</title>
-      <link>http://bighamster.ru/categories/gift/</link>
-      <pubDate>Sat, 18 Nov 2017 23:13:40 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/categories/gift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Health Other</title>
       <link>http://bighamster.ru/categories/health-other/</link>
       <pubDate>Sat, 18 Nov 2017 10:28:05 +0300</pubDate>
@@ -202,6 +193,24 @@
     </item>
     
     <item>
+      <title>It Javascript</title>
+      <link>http://bighamster.ru/categories/it-javascript/</link>
+      <pubDate>Sat, 30 Dec 2017 00:18:23 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/it-javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It Nginx</title>
+      <link>http://bighamster.ru/categories/it-nginx/</link>
+      <pubDate>Sat, 03 Feb 2018 16:30:37 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/it-nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>It Other</title>
       <link>http://bighamster.ru/categories/it-other/</link>
       <pubDate>Wed, 29 Nov 2017 22:09:16 +0300</pubDate>
@@ -211,20 +220,20 @@
     </item>
     
     <item>
+      <title>It Rails</title>
+      <link>http://bighamster.ru/categories/it-rails/</link>
+      <pubDate>Sat, 03 Feb 2018 14:39:26 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/it-rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jquery</title>
       <link>http://bighamster.ru/categories/jquery/</link>
       <pubDate>Sat, 02 Dec 2017 15:11:38 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Js</title>
-      <link>http://bighamster.ru/categories/js/</link>
-      <pubDate>Sat, 30 Dec 2017 00:18:23 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/categories/js/</guid>
       <description></description>
     </item>
     
@@ -247,9 +256,18 @@
     </item>
     
     <item>
+      <title>Life Gift</title>
+      <link>http://bighamster.ru/categories/life-gift/</link>
+      <pubDate>Sat, 03 Feb 2018 16:37:43 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/life-gift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Life Other</title>
       <link>http://bighamster.ru/categories/life-other/</link>
-      <pubDate>Sun, 14 Jan 2018 14:34:44 +0300</pubDate>
+      <pubDate>Wed, 31 Jan 2018 13:53:15 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/life-other/</guid>
       <description></description>
@@ -357,9 +375,18 @@
     <item>
       <title>Pry Other</title>
       <link>http://bighamster.ru/categories/pry-other/</link>
-      <pubDate>Sun, 10 Dec 2017 15:42:20 +0300</pubDate>
+      <pubDate>Wed, 31 Jan 2018 16:33:35 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/pry-other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pry Until1917</title>
+      <link>http://bighamster.ru/categories/pry-until1917/</link>
+      <pubDate>Tue, 30 Jan 2018 14:21:03 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/pry-until1917/</guid>
       <description></description>
     </item>
     

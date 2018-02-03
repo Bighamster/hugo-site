@@ -2,7 +2,7 @@
 title: Конфигурируем Ruby модуль
 date: 2017-11-06T16:37:27+03:00
 draft: false
-categories: ["ruby"]
+categories: ["it-javascript"]
 source_url: https://habrahabr.ru/post/242729/
 source_name: Хабрахабр
 ---

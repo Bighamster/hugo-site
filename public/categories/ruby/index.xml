@@ -63,17 +63,6 @@
     </item>
     
     <item>
-      <title>Конфигурируем Ruby модуль</title>
-      <link>http://bighamster.ru/it/configure/</link>
-      <pubDate>Mon, 06 Nov 2017 16:37:27 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/it/configure/</guid>
-      <description>&lt;p&gt;Пример собственного конфигуратора, если вдруг нужен&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Как работает диспетчеризация методов в Ruby</title>
       <link>http://bighamster.ru/it/ruby-methods/</link>
       <pubDate>Sun, 05 Nov 2017 12:57:10 +0300</pubDate>

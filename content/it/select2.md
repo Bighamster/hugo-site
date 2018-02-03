@@ -2,7 +2,7 @@
 title: "Обманываем мультиселект Select2"
 date: 2017-12-02T15:11:38+03:00
 draft: false
-categories: ["ruby","js","jquery"]
+categories: ["ruby","it-javascript","jquery"]
 disqus: true
 ---
 Известно, что Select2 в режиме **multiple: true**, во время сабмита формы отдаст только первое выбранное значение.

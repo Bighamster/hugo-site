@@ -2,7 +2,7 @@
 title: "Магия JavaScript: arguments"
 date: 2017-11-05T16:59:43+03:00
 draft: false
-categories: ["js"]
+categories: ["it-javascript"]
 source_url: https://habrahabr.ru/post/117868/
 source_name: Хабрахабр
 ---
