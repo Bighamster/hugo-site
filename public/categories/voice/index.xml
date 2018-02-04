@@ -6,7 +6,6 @@
     <description>Recent content in Voice on Bighamster&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
     <lastBuildDate>Wed, 01 Nov 2017 23:19:31 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/voice/index.xml" rel="self" type="application/rss+xml" />
@@ -19,7 +18,7 @@
       
       <guid>http://bighamster.ru/music/voice-show/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-sm-6&#34;&gt;
+  &lt;div class=&#34;col-sm-12&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/0MNMa9rnTyA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;

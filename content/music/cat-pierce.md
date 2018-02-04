@@ -8,7 +8,7 @@ source_name: "Cat Pierce"
 ---
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-12">
     {{< youtube IR1Psd1wz5w >}}
   </div>
 </div>

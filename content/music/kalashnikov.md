@@ -5,7 +5,7 @@ draft: false
 categories: ["music-other"]
 ---
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-12">
     {{< youtube I7IpZtsubpk >}}
   </div>
 </div>

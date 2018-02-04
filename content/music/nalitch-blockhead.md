@@ -8,7 +8,7 @@ source_name: "Peter Nalitch"
 ---
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-12">
     {{< youtube LkOUAXRUST0 >}}
   </div>
 </div>

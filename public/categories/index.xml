@@ -6,7 +6,6 @@
     <description>Recent content in Categories on Bighamster&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <copyright>Copyright (C) 2017-2018, Bighamster. All rights reserved.</copyright>
     <lastBuildDate>Fri, 27 Oct 2017 00:03:15 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -78,7 +77,7 @@
     <item>
       <title>Css</title>
       <link>http://bighamster.ru/categories/css/</link>
-      <pubDate>Thu, 18 Jan 2018 21:45:55 +0300</pubDate>
+      <pubDate>Sat, 03 Mar 2018 20:40:30 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/css/</guid>
       <description></description>
@@ -166,6 +165,15 @@
     </item>
     
     <item>
+      <title>Git</title>
+      <link>http://bighamster.ru/categories/git/</link>
+      <pubDate>Mon, 06 Nov 2017 17:09:38 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Health Other</title>
       <link>http://bighamster.ru/categories/health-other/</link>
       <pubDate>Sat, 18 Nov 2017 10:28:05 +0300</pubDate>
@@ -177,7 +185,7 @@
     <item>
       <title>Helper</title>
       <link>http://bighamster.ru/categories/helper/</link>
-      <pubDate>Mon, 08 Jan 2018 23:51:16 +0300</pubDate>
+      <pubDate>Sun, 08 Apr 2018 22:11:28 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/helper/</guid>
       <description></description>
@@ -267,7 +275,7 @@
     <item>
       <title>Life Other</title>
       <link>http://bighamster.ru/categories/life-other/</link>
-      <pubDate>Wed, 31 Jan 2018 13:53:15 +0300</pubDate>
+      <pubDate>Sun, 08 Apr 2018 21:55:21 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/life-other/</guid>
       <description></description>
@@ -348,7 +356,7 @@
     <item>
       <title>Pics</title>
       <link>http://bighamster.ru/categories/pics/</link>
-      <pubDate>Tue, 09 Jan 2018 00:31:57 +0300</pubDate>
+      <pubDate>Sun, 08 Apr 2018 21:55:21 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/pics/</guid>
       <description></description>
@@ -463,6 +471,15 @@
     </item>
     
     <item>
+      <title>Synta6</title>
+      <link>http://bighamster.ru/categories/synta6/</link>
+      <pubDate>Sat, 07 Apr 2018 11:07:30 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/synta6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tale</title>
       <link>http://bighamster.ru/categories/tale/</link>
       <pubDate>Tue, 12 Dec 2017 21:12:52 +0300</pubDate>
@@ -513,6 +530,15 @@
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://bighamster.ru/categories/two-hourses-defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Useful</title>
+      <link>http://bighamster.ru/categories/useful/</link>
+      <pubDate>Fri, 23 Feb 2018 23:03:26 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/useful/</guid>
       <description></description>
     </item>
     

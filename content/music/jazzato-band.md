@@ -6,7 +6,7 @@ categories: ["music-other"]
 ---
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-12">
     {{< youtube J0ogqBcK9ow >}}
     <strong>Tu Vuo' Fa' L'Americano</strong>
   </div>

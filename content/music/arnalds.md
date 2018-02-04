@@ -8,7 +8,7 @@ source_name: "Ólafur Arnalds"
 ---
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-12">
     {{< youtube 2XXd_KPShjE >}}
   </div>
 </div>

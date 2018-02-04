@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Useful on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/useful/</link>
+    <description>Recent content in Useful on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 23 Feb 2018 23:03:26 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/useful/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Useful Codes</title>
+      <link>http://bighamster.ru/it/useful-code/</link>
+      <pubDate>Fri, 23 Feb 2018 23:03:26 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/useful-code/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#
+# Удаление ремоутной ветки
+#
+git push origin :dev3
+#
+# Конвертим erb2slim
+#
+gem install html2slim
+find . -name &#39;*html.erb&#39; | xargs ruby -e &#39;ARGV.each { |i| puts &amp;quot;erb2slim #{i} #{i.sub(/erb$/,&amp;quot;slim&amp;quot;)} --delete&amp;quot;}&#39; | bash
+#
+# Красивый лог-аналайзер
+#
+gem install log_analyzer
+log_analyzer --filter=all --sort=time log/development.log
+#
+# Поиск в логе
+#
+grep -A 2 /locations/autocomplete  development.log | grep -o -P &#39;{&amp;quot;q&amp;quot;=&amp;gt;&amp;quot;\d+&#39; | grep -o -P &#39;\d+&#39; | less -N
+#
+# Рисовалка схемы базы данных
+#
+sudo java -jar ~/Downloads/schemaSpy_5.0.0.jar -t pgsql -db xoma_development -host localhost -dp ~/Downloads/postgresql-42.2.0.jre7.jar -noschema -u bighamster -p Outlawer248 -o ~/Downloads/xoma-db
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

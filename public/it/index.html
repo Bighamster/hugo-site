@@ -13,7 +13,7 @@
     <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
     <meta http-equiv="pragma" content="no-cache" />
 
-    <meta name="generator" content="Hugo 0.30.2" />
+    <meta name="generator" content="Hugo 0.38.1" />
     
       <meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     
@@ -119,6 +119,102 @@
       <div class="row mt-3">
         <div class="col-sm-12 order-sm-2 col-md-9 order-md-1 pl-0 pr-0">
           <div class="list-group">
+            
+              <div class="list-group-item border-0">
+                <div class="list-group">
+  <div class="list-group-item border-0">
+    <div class="d-flex justify-content-between">
+      <a href="/it/crontab-guru/"><h5 class="mb-1 small-caps">Crontab Guru</h5></a>
+      <small class="text-muted">April 8, 2018</small>
+    </div>
+  </div>
+  <div class="list-group-item border-0 pt-0 pb-0"> <figure >
+    <a href=""  target="_blank" >
+        <img src="/pics/crontab-guru.png"  />
+    </a>
+    
+</figure>
+
+
+<p></p> </div>
+  <div class="list-group-item border-0 pt-0"> 
+
+  
+    <small class="text-muted">Отсюда: <a href="https://crontab.guru/" target="_blank">crontab.guru</a></small>
+  
+
+ </div>
+</div>
+
+              </div>
+            
+              <div class="list-group-item border-0">
+                <div class="list-group">
+  <div class="list-group-item border-0">
+    <div class="d-flex justify-content-between">
+      <a href="/it/codemyui/"><h5 class="mb-1 small-caps">Code My UI</h5></a>
+      <small class="text-muted">March 3, 2018</small>
+    </div>
+  </div>
+  <div class="list-group-item border-0 pt-0 pb-0"> <figure >
+    <a href="http://codemyui.com"  target="_blank" >
+        <img src="/pics/codemyui.png"  />
+    </a>
+    
+</figure>
+
+
+<p></p> </div>
+  <div class="list-group-item border-0 pt-0"> 
+
+  
+    <small class="text-muted">Отсюда: <a href="http://codemyui.com" target="_blank">Code My UI</a></small>
+  
+
+ </div>
+</div>
+
+              </div>
+            
+              <div class="list-group-item border-0">
+                <div class="list-group">
+  <div class="list-group-item border-0">
+    <div class="d-flex justify-content-between">
+      <a href="/it/useful-code/"><h5 class="mb-1 small-caps">Useful Codes</h5></a>
+      <small class="text-muted">February 23, 2018</small>
+    </div>
+  </div>
+  <div class="list-group-item border-0 pt-0 pb-0"> <pre><code class="language-bash">#
+# Удаление ремоутной ветки
+#
+git push origin :dev3
+#
+# Конвертим erb2slim
+#
+gem install html2slim
+find . -name '*html.erb' | xargs ruby -e 'ARGV.each { |i| puts &quot;erb2slim #{i} #{i.sub(/erb$/,&quot;slim&quot;)} --delete&quot;}' | bash
+#
+# Красивый лог-аналайзер
+#
+gem install log_analyzer
+log_analyzer --filter=all --sort=time log/development.log
+#
+# Поиск в логе
+#
+grep -A 2 /locations/autocomplete  development.log | grep -o -P '{&quot;q&quot;=&gt;&quot;\d+' | grep -o -P '\d+' | less -N
+#
+# Рисовалка схемы базы данных
+#
+sudo java -jar ~/Downloads/schemaSpy_5.0.0.jar -t pgsql -db xoma_development -host localhost -dp ~/Downloads/postgresql-42.2.0.jre7.jar -noschema -u bighamster -p Outlawer248 -o ~/Downloads/xoma-db
+</code></pre>
+
+<p></p> </div>
+  <div class="list-group-item border-0 pt-0"> 
+
+ </div>
+</div>
+
+              </div>
             
               <div class="list-group-item border-0">
                 <div class="list-group">
@@ -419,9 +515,27 @@ Here you can create, resize, crop, reverse, optimize, and apply some effects to 
 Чтобы вернуть все значения (разделенные например запятой) можно воспользоваться хуком jQuery:</p>
 
 <div class="highlight"><div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
-<table style=";border-spacing:0;padding:0;margin:0;border:0;width:100%;overflow:auto;display:block;"><tr><td style=";vertical-align:top;padding:0;margin:0;border:0;">
-<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 1</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 2</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 3</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 4</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 5</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 6</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 7</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 8</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;"> 9</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">10</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">11</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">12</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">13</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">14</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">15</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">16</span><span style="color:#7c7c79;margin-right:0.4em;padding:00.4em00.4em;display:block;">17</span></code></pre></td>
-<td style=";vertical-align:top;padding:0;margin:0;border:0;">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 1
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 2
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 3
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 4
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 5
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 6
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 7
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 8
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79"> 9
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">10
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">11
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">12
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">13
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">14
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">15
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">16
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">17
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7c7c79">18
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;">
 <pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#a6e22e">$</span>.<span style="color:#a6e22e">valHooks</span>[ <span style="color:#e6db74">&#39;select-multiple&#39;</span> ] <span style="color:#f92672">=</span> {
   <span style="color:#a6e22e">get</span><span style="color:#f92672">:</span>  <span style="color:#66d9ef">function</span>( <span style="color:#a6e22e">elem</span> ) {
           <span style="color:#66d9ef">var</span> <span style="color:#a6e22e">$this</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">$</span>( <span style="color:#a6e22e">elem</span> );
@@ -438,7 +552,8 @@ Here you can create, resize, crop, reverse, optimize, and apply some effects to 
 
           <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">$</span>.<span style="color:#a6e22e">valHooks</span>[<span style="color:#e6db74">&#39;select&#39;</span>].<span style="color:#a6e22e">set</span>( <span style="color:#a6e22e">elem</span>, <span style="color:#a6e22e">value</span>);
         }
-  };</code></pre></td></tr></table>
+  };
+</code></pre></td></tr></table>
 </div>
 </div>
 
@@ -631,68 +746,6 @@ Leapstrap</p>
 
   
     <small class="text-muted">Отсюда: <a href="https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/" target="_blank">html5rocks</a></small>
-  
-
- </div>
-</div>
-
-              </div>
-            
-              <div class="list-group-item border-0">
-                <div class="list-group">
-  <div class="list-group-item border-0">
-    <div class="d-flex justify-content-between">
-      <a href="/it/helper-git/"><h5 class="mb-1 small-caps">Git</h5></a>
-      <small class="text-muted">November 6, 2017</small>
-    </div>
-  </div>
-  <div class="list-group-item border-0 pt-0 pb-0"> <pre><code>git pull --rebase
-git rebase -i @{u}
-git merge --no-ff feature
-</code></pre>
-
-<p></p> </div>
-  <div class="list-group-item border-0 pt-0"> 
-
- </div>
-</div>
-
-              </div>
-            
-              <div class="list-group-item border-0">
-                <div class="list-group">
-  <div class="list-group-item border-0">
-    <div class="d-flex justify-content-between">
-      <a href="/it/mongo-db/"><h5 class="mb-1 small-caps">Онлайн-руководство по MongoDB</h5></a>
-      <small class="text-muted">November 6, 2017</small>
-    </div>
-  </div>
-  <div class="list-group-item border-0 pt-0 pb-0"> <p></p> </div>
-  <div class="list-group-item border-0 pt-0"> 
-
-  
-    <small class="text-muted">Отсюда: <a href="https://metanit.com/nosql/mongodb/" target="_blank">Онлайн-руководство по MongoDB</a></small>
-  
-
- </div>
-</div>
-
-              </div>
-            
-              <div class="list-group-item border-0">
-                <div class="list-group">
-  <div class="list-group-item border-0">
-    <div class="d-flex justify-content-between">
-      <a href="/it/strfti/"><h5 class="mb-1 small-caps">Формат даты-времени в Ruby (strfti)</h5></a>
-      <small class="text-muted">November 6, 2017</small>
-    </div>
-  </div>
-  <div class="list-group-item border-0 pt-0 pb-0"> <p>strftime reference and sandbox, format dates and times in Ruby, Python, C &amp; PHP with strftime
-</p> </div>
-  <div class="list-group-item border-0 pt-0"> 
-
-  
-    <small class="text-muted">Отсюда: <a href="http://www.strfti.me/" target="_blank">strfti.me</a></small>
   
 
  </div>
@@ -936,7 +989,40 @@ git merge --no-ff feature
       
     
   
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
 
+  
+    
+    <a href="/categories/helper" class="d-flex justify-content-between align-items-center">
+      
+       Хелперы 
+      <span class="badge badge-primary badge-pill">6</span>
+    </a>
+  
+    
+    <a href="/categories/css" class="d-flex justify-content-between align-items-center">
+      
+       CSS 
+      <span class="badge badge-primary badge-pill">8</span>
+    </a>
+  
+    
+    <a href="/categories/useful" class="d-flex justify-content-between align-items-center">
+      
+       Useful 
+      <span class="badge badge-primary badge-pill">1</span>
+    </a>
   
     
     <a href="/categories/it-nginx" class="d-flex justify-content-between align-items-center">
@@ -957,20 +1043,6 @@ git merge --no-ff feature
       
        SEO 
       <span class="badge badge-primary badge-pill">2</span>
-    </a>
-  
-    
-    <a href="/categories/css" class="d-flex justify-content-between align-items-center">
-      
-       CSS 
-      <span class="badge badge-primary badge-pill">7</span>
-    </a>
-  
-    
-    <a href="/categories/helper" class="d-flex justify-content-between align-items-center">
-      
-       Хелперы 
-      <span class="badge badge-primary badge-pill">6</span>
     </a>
   
     
@@ -1012,6 +1084,13 @@ git merge --no-ff feature
     <a href="/categories/bootstrap" class="d-flex justify-content-between align-items-center">
       
        Bootstrap 
+      <span class="badge badge-primary badge-pill">1</span>
+    </a>
+  
+    
+    <a href="/categories/git" class="d-flex justify-content-between align-items-center">
+      
+       Git 
       <span class="badge badge-primary badge-pill">1</span>
     </a>
   

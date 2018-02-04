@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/git/</link>
+    <description>Recent content in Git on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 06 Nov 2017 17:09:38 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git</title>
+      <link>http://bighamster.ru/it/helper-git/</link>
+      <pubDate>Mon, 06 Nov 2017 17:09:38 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/helper-git/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;#
+# Удаление ремоутной ветки
+#
+git push origin :dev3
+#
+# Избегайте merge-коммитов, которые возникают при «git pull»**
+#
+git pull --rebase
+git rebase -i @{u}
+git merge --no-ff feature
+#
+# или раз и навсегда
+#
+git config --global --bool pull.rebase true
+#
+# Используйте интерактивный rebase локальных коммитов перед пушем
+#
+git rebase -i
+#
+# Сохраняйте merge-коммит, когда вливаете фичу в master
+# Флаг --no-ff гарантирует создание merge-коммита, даже если технически этого можно избежать.
+# Merge-коммиты полезны, потому что они содержат следующую важную информацию:
+#
+# - откуда пришли изменения (в нашем случае из ветки «feature»)
+# - когда и кем было выполнено слияние
+# - коммиты, относящиеся к этой фиче, остаются сгруппированными
+git merge --no-ff feature
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
