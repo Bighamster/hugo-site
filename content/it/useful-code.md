@@ -2,7 +2,7 @@
 title: "Useful Codes"
 date: 2018-02-23T23:03:26+03:00
 draft: false
-categories: ["useful"]
+categories: ["helper"]
 ---
 
 ```bash

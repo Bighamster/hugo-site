@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Db on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/db/</link>
+    <description>Recent content in Db on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 24 Jan 2018 22:09:30 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/db/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visualize Database Schema – PostgreSQL DB – Rails 5</title>
+      <link>http://bighamster.ru/it/visualize-db/</link>
+      <pubDate>Wed, 24 Jan 2018 22:09:30 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/visualize-db/</guid>
+      <description>&lt;figure &gt;
+    &lt;a href=&#34;&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/db-visualize.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Онлайн-руководство по MongoDB</title>
+      <link>http://bighamster.ru/it/mongo-db/</link>
+      <pubDate>Mon, 06 Nov 2017 16:59:36 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/mongo-db/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

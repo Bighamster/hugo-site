@@ -2,7 +2,7 @@
 title: "Turntable.js"
 date: 2017-11-05T00:50:48+03:00
 draft: false
-categories: ["it-other"]
+categories: ["it-javascript"]
 source_url: http://polarnotion.github.io/turntable/
 ---
 {{< figure src="/pics/turnable.png" class="float-left pr-2">}}

@@ -2,7 +2,7 @@
 title: "Правила хорошего тона при написании плагина на jQuery"
 date: 2017-11-05T17:57:04+03:00
 draft: false
-categories: ["jquery"]
+categories: ["it-javascript"]
 source_url: https://habrahabr.ru/post/277603/
 source_name: Хабрахабр
 ---

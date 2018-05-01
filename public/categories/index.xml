@@ -102,6 +102,15 @@
     </item>
     
     <item>
+      <title>Db</title>
+      <link>http://bighamster.ru/categories/db/</link>
+      <pubDate>Wed, 24 Jan 2018 22:09:30 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Egypt</title>
       <link>http://bighamster.ru/categories/egypt/</link>
       <pubDate>Sat, 18 Nov 2017 18:04:20 +0300</pubDate>
@@ -176,7 +185,7 @@
     <item>
       <title>Health Other</title>
       <link>http://bighamster.ru/categories/health-other/</link>
-      <pubDate>Sat, 18 Nov 2017 10:28:05 +0300</pubDate>
+      <pubDate>Tue, 01 May 2018 19:06:53 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/health-other/</guid>
       <description></description>
@@ -203,7 +212,7 @@
     <item>
       <title>It Javascript</title>
       <link>http://bighamster.ru/categories/it-javascript/</link>
-      <pubDate>Sat, 30 Dec 2017 00:18:23 +0300</pubDate>
+      <pubDate>Tue, 01 May 2018 19:33:23 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/it-javascript/</guid>
       <description></description>
@@ -237,15 +246,6 @@
     </item>
     
     <item>
-      <title>Jquery</title>
-      <link>http://bighamster.ru/categories/jquery/</link>
-      <pubDate>Sat, 02 Dec 2017 15:11:38 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/categories/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Karokan</title>
       <link>http://bighamster.ru/categories/karokan/</link>
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
@@ -275,7 +275,7 @@
     <item>
       <title>Life Other</title>
       <link>http://bighamster.ru/categories/life-other/</link>
-      <pubDate>Sun, 08 Apr 2018 21:55:21 +0300</pubDate>
+      <pubDate>Tue, 01 May 2018 10:07:48 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/life-other/</guid>
       <description></description>
@@ -291,15 +291,6 @@
     </item>
     
     <item>
-      <title>Mongo Db</title>
-      <link>http://bighamster.ru/categories/mongo-db/</link>
-      <pubDate>Mon, 06 Nov 2017 16:59:36 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/categories/mongo-db/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Morena</title>
       <link>http://bighamster.ru/categories/morena/</link>
       <pubDate>Fri, 27 Oct 2017 00:37:11 +0300</pubDate>
@@ -311,7 +302,7 @@
     <item>
       <title>Music</title>
       <link>http://bighamster.ru/categories/music/</link>
-      <pubDate>Sat, 04 Nov 2017 23:52:32 +0300</pubDate>
+      <pubDate>Mon, 06 Nov 2017 13:09:28 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/music/</guid>
       <description></description>
@@ -428,7 +419,7 @@
     <item>
       <title>Ruby</title>
       <link>http://bighamster.ru/categories/ruby/</link>
-      <pubDate>Sat, 02 Dec 2017 15:11:38 +0300</pubDate>
+      <pubDate>Mon, 06 Nov 2017 16:40:38 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/ruby/</guid>
       <description></description>
@@ -444,29 +435,11 @@
     </item>
     
     <item>
-      <title>Seo</title>
-      <link>http://bighamster.ru/categories/seo/</link>
-      <pubDate>Sun, 28 Jan 2018 17:37:50 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/categories/seo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Skandinavskaya</title>
       <link>http://bighamster.ru/categories/skandinavskaya/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://bighamster.ru/categories/skandinavskaya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Svg</title>
-      <link>http://bighamster.ru/categories/svg/</link>
-      <pubDate>Sun, 05 Nov 2017 18:22:14 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/categories/svg/</guid>
       <description></description>
     </item>
     
@@ -530,15 +503,6 @@
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://bighamster.ru/categories/two-hourses-defense/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Useful</title>
-      <link>http://bighamster.ru/categories/useful/</link>
-      <pubDate>Fri, 23 Feb 2018 23:03:26 +0300</pubDate>
-      
-      <guid>http://bighamster.ru/categories/useful/</guid>
       <description></description>
     </item>
     

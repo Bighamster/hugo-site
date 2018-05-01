@@ -2,7 +2,7 @@
 title: "Создаем ЛЮБЫЕ кнопочки"
 date: 2017-11-06T17:54:54+03:00
 draft: false
-categories: []
+categories: ["it-other"]
 source_url: http://dabuttonfactory.com/
 source_name: Button Factory
 ---

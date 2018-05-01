@@ -2,7 +2,7 @@
 title: Visualize Database Schema – PostgreSQL DB – Rails 5
 date: 2018-01-24T22:09:30+03:00
 draft: false
-categories: []
+categories: ["db"]
 source_url: https://blog.kodius.io/2017/01/26/visualize-database-schema-postgresql-db-rails-5/
 source_name: SchemaSpy and Graphviz
 ---

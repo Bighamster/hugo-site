@@ -6,10 +6,46 @@
     <description>Recent content in It Javascript on Bighamster&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 30 Dec 2017 00:18:23 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 19:33:23 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/it-javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CropperJS</title>
+      <link>http://bighamster.ru/it/cropperjs/</link>
+      <pubDate>Tue, 01 May 2018 19:33:23 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/cropperjs/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    &lt;a href=&#34;https://fengyuanchen.github.io/cropperjs/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/cropperjs.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CleaveJS - почти отличный inputmask!</title>
+      <link>http://bighamster.ru/it/cleavejs/</link>
+      <pubDate>Tue, 01 May 2018 19:25:30 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/cleavejs/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    &lt;a href=&#34;http://nosir.github.io/cleave.js/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/cleavejs.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Прекрасная замена jQuery.inputmask. К сожалению не поддерживается ввод DateTime. jQuery-плагина тоже нет, поэтому пришлось написать свой &lt;a href=&#34;https://gist.github.com/Bighamster/34e3ae3a7fd6c1df444357c21bad8102&#34; target=&#34;_blank&#34;&gt;query-cleave.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Исчерпывающий справочник по JavaScript для вашего следующего собеседования. Часть 1</title>
@@ -110,6 +146,16 @@
     </item>
     
     <item>
+      <title>Правила хорошего тона при написании плагина на jQuery</title>
+      <link>http://bighamster.ru/it/jquery-rules/</link>
+      <pubDate>Sun, 05 Nov 2017 17:57:04 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/jquery-rules/</guid>
+      <description>&lt;p&gt;Писать расширения на jQuery довольно просто, но если хотите узнать как написать их так, чтобы потом их было просто поддерживать и расширять, добро пожаловать под кат. &lt;a href=&#34;https://habrahabr.ru/post/277603/&#34; target=&#34;_blank&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Магия JavaScript: arguments</title>
       <link>http://bighamster.ru/it/js-arguments/</link>
       <pubDate>Sun, 05 Nov 2017 16:59:43 +0300</pubDate>
@@ -117,6 +163,24 @@
       <guid>http://bighamster.ru/it/js-arguments/</guid>
       <description>&lt;p&gt;arguments — очень специфическая штука, о которой новички и даже любители знают только то, что это «вроде массив, но какой-то неправильный». На самом деле, у него есть ряд интересных особенностей. Предлагаю в топике пофантазировать на тему TypeHinting, аргументов по-умолчанию и всякого другого.
 &lt;a href=&#34;https://habrahabr.ru/post/117868/&#34; target=&#34;_blank&#34;&gt;Далее&amp;hellip;&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Turntable.js</title>
+      <link>http://bighamster.ru/it/turnable/</link>
+      <pubDate>Sun, 05 Nov 2017 00:50:48 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/turnable/</guid>
+      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
+    
+        &lt;img src=&#34;http://bighamster.ru/pics/turnable.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Если у вас есть 10-15 фоток чего-нибудь последовательно снятого, то этот плагин сымитирует &amp;ldquo;вращение&amp;rdquo; объекта.
 &lt;/p&gt;</description>
     </item>
     

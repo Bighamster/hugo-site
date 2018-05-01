@@ -2,7 +2,7 @@
 title: "Музыкальная теория для гиков"
 date: 2017-11-04T23:52:32+03:00
 draft: false
-categories: ["music"]
+categories: ["it-other"]
 source_url: https://geektimes.ru/company/wirex/blog/281072/
 source_name: Хабрахабр
 ---

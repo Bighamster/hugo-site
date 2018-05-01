@@ -2,7 +2,7 @@
 title: "Карманное руководство по написанию SVG"
 date: 2017-11-05T18:22:14+03:00
 draft: false
-categories: ["helper","svg"]
+categories: ["helper"]
 source_url: http://css-live.ru/articles/karmannoe-rukovodstvo-po-napisaniyu-svg-vvedenie.html
 source_name: http://css-live.ru
 ---
