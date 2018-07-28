@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shorts on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/shorts/</link>
+    <description>Recent content in Shorts on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	<atom:link href="http://bighamster.ru/shorts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://bighamster.ru/shorts/all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bighamster.ru/shorts/all/</guid>
+      <description>Redis
+# redis-server port 7770 db:0 - удаляем ключи по маске redis-cli -p 7770 -n 0 KEYS &#39;cache:*&#39; | xargs redis-cli -p 7770 -n 0 DEL  Отключаем Baloo
+balooctl status balooctl disable rm -rf ~/.local/share/baloo # System Settings -&amp;gt; Search -&amp;gt; File Search -&amp;gt; Disable  Установка Java7 (для старых программ)
+# How to install Java 7 # Download installer http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-sdk-7-jdk-7u21-downloads-1956231.html # Run chmod +x java_ee_sdk-7-jdk7-linux-x64-ml.sh ./java_ee_sdk-7-jdk7-linux-x64-ml.sh sudo chown -R bighamster glassfish4 # Set env export INSTALL4J_JAVA_HOME=&amp;quot;$HOME/glassfish4/jdk7&amp;quot; export JAVA_HOME=&amp;quot;$HOME/glassfish4/jdk7&amp;quot; export JRE_HOME=&amp;quot;$HOME/glassfish4/jdk7&amp;quot; export PATH=$PATH:$JRE_HOME/bin:$JAVA_HOME/bin # Run sudo update-alternatives --install &amp;quot;/usr/bin/java&amp;quot; &amp;quot;java&amp;quot; &amp;quot;/home/bighamster/glassfish4/jdk7/bin/java&amp;quot; 1 sudo update-alternatives --install &amp;quot;/usr/bin/javac&amp;quot; &amp;quot;javac&amp;quot; &amp;quot;/home/bighamster/glassfish4/jdk7/bin/javac&amp;quot; 1 sudo update-alternatives --install &amp;quot;/usr/bin/javaws&amp;quot; &amp;quot;javaws&amp;quot; &amp;quot;/home/bighamster/glassfish4/jdk7/bin/javaws&amp;quot; 1 sudo update-alternatives --set java /home/bighamster/glassfish4/jdk7/bin/java sudo update-alternatives --set javac /home/bighamster/glassfish4/jdk7/bin/javac sudo update-alternatives --set javaws /home/bighamster/glassfish4/jdk7/bin/javaws  Picture stubs http://via.</description>
+    </item>
+    
+  </channel>
+</rss>

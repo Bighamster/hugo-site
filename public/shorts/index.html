@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" id="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=10.0,minimal-ui">
+
+    <title>Bighamster&#39;s notes</title>
+
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <meta name="generator" content="Hugo 0.45.1" />
+    
+      <meta NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    
+
+    
+      <link href="http://bighamster.ru/shorts/index.xml" rel="alternate" type="application/rss+xml" title="Bighamster&#39;s notes" />
+      <link href="http://bighamster.ru/shorts/index.xml" rel="feed" type="application/rss+xml" title="Bighamster&#39;s notes" />
+    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=YAokqxWQkx">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=YAokqxWQkx">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=YAokqxWQkx">
+<link rel="manifest" href="/manifest.json?v=YAokqxWQkx">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=YAokqxWQkx" color="#5bbad5">
+<link rel="shortcut icon" href="/favicon.ico?v=YAokqxWQkx">
+<meta name="theme-color" content="#ffffff">
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai-sublime.min.css">
+    
+    
+    
+    
+    
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    
+      
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9652528-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-9652528-3');
+</script>
+
+    
+
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/common.css">
+    <script src="/js/common.js"></script>
+  </head>
+  <body>
+    <header>
+  <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark my_header">
+    <div class="container">
+      <a class="navbar-brand active" href="/">BH</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsBH" aria-controls="navbarsBH" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsBH">
+        <ul class="navbar-nav">
+          <li class="nav-item ">
+            <a class="nav-link" href="/it">IT</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link" href="/life">Про жизнь</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link" href="/music">Музыка</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link" href="/chess">Шахматы</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link" href="/health">Здоровье</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link" href="/pry">Познание</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link" href="/fun">Юмор</a>
+          </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="/shorts">Shorts</a>
+          </li>
+          <li class="nav-item ">
+            <a class="nav-link" href="/about">About</a>
+          </li>
+        </ul>
+        
+      </div>
+    </div>
+  </nav>
+</header>
+
+    
+
+  
+    <div class="container mt-3">
+      <p>Redis</p>
+
+<pre><code class="language-sh"># redis-server port 7770 db:0 - удаляем ключи по маске
+redis-cli -p 7770 -n 0 KEYS 'cache:*' | xargs redis-cli -p 7770 -n 0 DEL
+</code></pre>
+
+<p>Отключаем Baloo</p>
+
+<pre><code class="language-sh">balooctl status
+balooctl disable
+rm -rf ~/.local/share/baloo
+# System Settings -&gt; Search -&gt; File Search -&gt; Disable
+</code></pre>
+
+<p>Установка Java7 (для старых программ)</p>
+
+<pre><code class="language-sh"> # How to install Java 7
+# Download installer
+http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-sdk-7-jdk-7u21-downloads-1956231.html
+# Run
+chmod +x java_ee_sdk-7-jdk7-linux-x64-ml.sh
+./java_ee_sdk-7-jdk7-linux-x64-ml.sh
+sudo chown -R bighamster glassfish4
+# Set env
+export INSTALL4J_JAVA_HOME=&quot;$HOME/glassfish4/jdk7&quot;
+export JAVA_HOME=&quot;$HOME/glassfish4/jdk7&quot;
+export JRE_HOME=&quot;$HOME/glassfish4/jdk7&quot;
+export PATH=$PATH:$JRE_HOME/bin:$JAVA_HOME/bin
+# Run
+sudo update-alternatives --install &quot;/usr/bin/java&quot; &quot;java&quot; &quot;/home/bighamster/glassfish4/jdk7/bin/java&quot; 1
+sudo update-alternatives --install &quot;/usr/bin/javac&quot; &quot;javac&quot; &quot;/home/bighamster/glassfish4/jdk7/bin/javac&quot; 1
+sudo update-alternatives --install &quot;/usr/bin/javaws&quot; &quot;javaws&quot; &quot;/home/bighamster/glassfish4/jdk7/bin/javaws&quot; 1
+sudo update-alternatives --set java /home/bighamster/glassfish4/jdk7/bin/java
+sudo update-alternatives --set javac /home/bighamster/glassfish4/jdk7/bin/javac
+sudo update-alternatives --set javaws /home/bighamster/glassfish4/jdk7/bin/javaws
+</code></pre>
+
+<p><a href="http://via.placeholder.com/400x200" target="_blank">Picture stubs http://via.placeholder.com/400x200</a></p>
+
+<p>Dump</p>
+
+<pre><code class="language-sh"># GNU
+pg_dump --username=postgres --dbname=drtv_production  --schema=drtv  --column-inserts --no-owner --no-privileges --inserts --file=drtv_dump.sql &amp;&amp; sed -i -e '/^SET\ .\+\;/d' drtv_dump.sql &amp;&amp; sed -i -e '/^CREATE SCHEMA drtv\;/d' drtv_dump.sql &amp;&amp; zip drtv_dump drtv_dump.sql &amp;&amp; less drtv_dump.sql &amp;&amp; du -sh drtv_dump.*
+# Mac version for original sed
+sed -i '' -E '/^SET\ .+;/d' drtv_dump.sql &amp;&amp; &amp;&amp; sed -i '' -E '/^CREATE SCHEMA drtv\;/d' drtv_dump.sql
+# На маке замена дефолтного sed
+brew install gnu-sed --with-default-names
+hash -r
+</code></pre>
+
+<p>RVM</p>
+
+<pre><code class="language-sh"># Инсталяция  RVM - https://rvm.io
+rvm autolibs enable       - включаем автоматическую доустановку пакетов
+rvm env                   - смотрим какие переменные окружения используются
+rvm version
+rvm list gemsets
+rvm --default use 2.5.0
+# Ставим RUBY
+rvm use                   - смотрим путь до текущей версии руби
+rvm list known            - смотрим все доступные к инсталяции версии
+rvm install 2.5.0         - ставим нужную версию руби
+rvm use 2.5.0 --default   - говорим, что надо использовать новую версию и назначаем ее дефолтной
+rvm list gemsets          - смотрим, что текущий гемсет изменился
+bundle install            - из рута проекта, чтобы все библиотеки переустановились
+
+# Если ошибка: ERROR: Gem bundler is not installed, run `gem install bundler` first.
+rvm reload
+</code></pre>
+
+<p>Rails</p>
+
+<pre><code class="language-sh"># EagerLoad
+Rails.application.eager_load!
+# Route helper within console
+app.root_path
+# место определения функции
+warden.method(:authenticate!).source_location
+# Редактируем настройки в Rails 5.2
+EDITOR='atom --wait' rails credentials:edit
+# Посмотреть все пути к assets
+Rails.application.config.assets.paths
+</code></pre>
+
+<p><a href="https://github.com/igorkasyanchuk/log_analyzer" target="_blank">Простой лог-аналайзер</a></p>
+
+<pre><code class="language-sh">gem install log_analyzer
+log_analyzer --filter=all --sort=time log/development.log
+</code></pre>
+
+<p>Git</p>
+
+<pre><code class="language-sh"># смотрим удаленные репозитории
+git remote -v
+# смотрим ремоунтные ветки
+git branch -r
+# смотрим локальные и ремоунтные ветки
+git branch -a
+# детальная информация по удаленной ветке
+git remote show origin
+# удаляем репозиторий
+git remote rm origin
+# подключаем репозиторий
+git remote add origin git@bitbucket.org:[login]/[project].git
+# если сменился удаленный репозитарий, то привязать ветки можно так:
+git branch --set-upstream-to=origin/master master
+
+# удаляем ремоутную ветку
+git push origin :old_dev
+git push origin --delete old_dev
+# удаляем локальную ветку
+git branch -D tmp
+# удалить все ветки, которых нет во внешнем репозитории
+git remote prune origin
+
+# Если даже на какой-либо объект нет явной ссылки, то на протяжении 30 дней
+# на все объекты сохраняется ссылка в reflog.
+# По этому когда производится уборка мусора все коммиты за последний месяц всё равно остаются в репозитории.
+# Чтобы избавиться от таких недоступных комитов, выполним последовательность команд:
+git reflog expire --expire=1.minute refs/heads/master
+git fsck –unreachable
+git gc
+</code></pre>
+
+<p>Конвертим erb2slim</p>
+
+<pre><code class="language-sh">gem install html2slim
+find . -name '*html.erb' | xargs ruby -e 'ARGV.each { |i| puts &quot;erb2slim #{i} #{i.sub(/erb$/,&quot;slim&quot;)} --delete&quot;}' | bash
+</code></pre>
+
+<p><a href="http://schemaspy.sourceforge.net/" target="_blank">Рисовалка схемы базы данных</a> (<a href="/lib/schemaSpy_5.0.0.jar">schemaSpy_5.0.0.jar</a>) (<a href="https://jdbc.postgresql.org/download.html" target="_blank">PostgreSQL driver</a>)</p>
+
+<pre><code class="language-sh">sudo apt install graphviz
+
+sudo java -jar ~/Documents/lb/schemaSpy_5.0.0.jar -t pgsql -db [db_name] -u [login] -p [password] -noschema -host localhost -dp ~/Documents/lib/postgresql-42.2.0.jre7.jar -o ~/Documents/db-schema
+
+curl file:///home/bighamster/Documents/db-schema/relationships.html
+</code></pre>
+
+    </div>
+  
+
+
+    <footer>
+  <nav class="navbar navbar-expand-md d-block">
+    <div class="container justify-content-center">
+      <small class="text-muted">2017-2018 А мир устроен так, что всё возможно в нём, но после ничего исправить нельзя. (с)</small>
+    </div>
+  </nav>
+</footer>
+
+  </body>
+</html>
