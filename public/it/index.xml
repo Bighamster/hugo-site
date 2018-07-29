@@ -6,10 +6,48 @@
     <description>Recent content in Its on Bighamster&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 01 May 2018 19:33:23 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jul 2018 15:29:26 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/it/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Network analyzer</title>
+      <link>http://bighamster.ru/it/wireshark/</link>
+      <pubDate>Sun, 29 Jul 2018 15:29:26 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/wireshark/</guid>
+      <description>&lt;figure &gt;
+    &lt;a href=&#34;https://www.wireshark.org/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/wireshark.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Тестируем настройки почтового домена</title>
+      <link>http://bighamster.ru/it/mx-toolbox/</link>
+      <pubDate>Sun, 29 Jul 2018 09:38:26 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/mx-toolbox/</guid>
+      <description>&lt;figure &gt;
+    &lt;a href=&#34;https://mxtoolbox.com&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/mx-logo.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://boxapp.net/blog/email/podrobno-o-pochte-dlya-domena-i-nastrojke-spf-dkim-dmark-ptr&#34; target=&#34;_blank&#34;&gt;Подробно о почте для домена и настройке SPF/DKIM/DMARK/PTR&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://habr.com/company/mailru/blog/315778/&#34; target=&#34;_blank&#34;&gt;Внедрение DMARC для защиты корпоративного домена от спуфинга&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>CropperJS</title>

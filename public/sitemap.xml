@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bighamster.ru/pry/elements/</loc>
+    <lastmod>2018-07-29T17:58:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/wireshark/</loc>
+    <lastmod>2018-07-29T15:29:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/pry/egypt-all/</loc>
+    <lastmod>2018-07-29T09:54:11+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/it/mx-toolbox/</loc>
+    <lastmod>2018-07-29T09:38:26+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bighamster.ru/health/recovery/</loc>
+    <lastmod>2018-07-29T09:23:04+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bighamster.ru/it/cropperjs/</loc>
     <lastmod>2018-05-01T19:33:23+03:00</lastmod>
   </url>
@@ -870,7 +895,7 @@
   
   <url>
     <loc>http://bighamster.ru/</loc>
-    <lastmod>2018-05-01T19:33:23+03:00</lastmod>
+    <lastmod>2018-07-29T17:58:44+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -936,7 +961,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/egypt/</loc>
-    <lastmod>2017-11-18T18:04:20+03:00</lastmod>
+    <lastmod>2018-07-29T09:54:11+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -990,13 +1015,13 @@
   
   <url>
     <loc>http://bighamster.ru/categories/health-other/</loc>
-    <lastmod>2018-05-01T19:06:53+03:00</lastmod>
+    <lastmod>2018-07-29T09:23:04+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://bighamster.ru/health/</loc>
-    <lastmod>2018-05-01T19:06:53+03:00</lastmod>
+    <lastmod>2018-07-29T09:23:04+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1026,7 +1051,7 @@
   
   <url>
     <loc>http://bighamster.ru/categories/it-other/</loc>
-    <lastmod>2017-11-29T22:09:16+03:00</lastmod>
+    <lastmod>2018-07-29T15:29:26+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1038,7 +1063,7 @@
   
   <url>
     <loc>http://bighamster.ru/it/</loc>
-    <lastmod>2018-05-01T19:33:23+03:00</lastmod>
+    <lastmod>2018-07-29T15:29:26+03:00</lastmod>
     <priority>0</priority>
   </url>
   
