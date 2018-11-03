@@ -6,10 +6,27 @@
     <description>Recent content in Pry Other on Bighamster&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 31 Jan 2018 16:33:35 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 03 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/categories/pry-other/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ALEXEEV</title>
+      <link>http://bighamster.ru/pry/alexeev/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://bighamster.ru/pry/alexeev/</guid>
+      <description>&lt;figure &gt;
+    &lt;a href=&#34;http://alekseev-photo.ru/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/alexeev.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>МИРОВАЯ цифровая библиотека</title>
@@ -197,13 +214,7 @@
       <pubDate>Mon, 06 Nov 2017 15:57:20 +0300</pubDate>
       
       <guid>http://bighamster.ru/pry/mfti/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    &lt;a href=&#34;http://lectoriy.mipt.ru/&#34;  target=&#34;_blank&#34; &gt;
-        &lt;img src=&#34;http://bighamster.ru/pics/mfti.png&#34;  /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/mfti.png&amp;rdquo; link=&amp;ldquo;&lt;a href=&#34;http://lectoriy.mipt.ru/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://lectoriy.mipt.ru/&amp;quot;&lt;/a&gt; target=&amp;rdquo;_blank&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}
 &lt;/p&gt;</description>
     </item>
     

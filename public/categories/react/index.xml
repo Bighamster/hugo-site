@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on Bighamster&#39;s notes</title>
+    <link>http://bighamster.ru/categories/react/</link>
+    <description>Recent content in React on Bighamster&#39;s notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 03 Nov 2018 11:44:48 +0300</lastBuildDate>
+    
+	<atom:link href="http://bighamster.ru/categories/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Полезные статьи про React</title>
+      <link>http://bighamster.ru/it/react/</link>
+      <pubDate>Sat, 03 Nov 2018 11:44:48 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/react/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://habr.com/company/ruvds/blog/428077/&#34; target=&#34;_blank&#34;&gt;React.js: понятное руководство для начинающих&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maxfarseer.gitbooks.io/react-course-ru-v2/content/&#34; target=&#34;_blank&#34;&gt;React.js курс для начинающих&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maxfarseer.gitbooks.io/redux-course-ru-v2/content/&#34; target=&#34;_blank&#34;&gt;React Redux (2-е издание)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

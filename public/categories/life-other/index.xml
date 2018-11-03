@@ -245,13 +245,7 @@
       <pubDate>Mon, 06 Nov 2017 15:53:55 +0300</pubDate>
       
       <guid>http://bighamster.ru/life/shestakov/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    &lt;a href=&#34;http://shest.tomsknet.ru/&#34;  target=&#34;_blank&#34; &gt;
-        &lt;img src=&#34;http://bighamster.ru/pics/shestakov.gif&#34;  /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/shestakov.gif&amp;rdquo; link=&amp;ldquo;&lt;a href=&#34;http://shest.tomsknet.ru/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://shest.tomsknet.ru/&amp;quot;&lt;/a&gt; target=&amp;rdquo;_blank&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}
 &lt;/p&gt;</description>
     </item>
     

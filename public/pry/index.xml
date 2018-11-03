@@ -12,6 +12,23 @@
     
     
     <item>
+      <title>ALEXEEV</title>
+      <link>http://bighamster.ru/pry/alexeev/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://bighamster.ru/pry/alexeev/</guid>
+      <description>&lt;figure &gt;
+    &lt;a href=&#34;http://alekseev-photo.ru/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/alexeev.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Новости науки</title>
       <link>http://bighamster.ru/pry/elements/</link>
       <pubDate>Sun, 29 Jul 2018 17:58:44 +0300</pubDate>
@@ -495,13 +512,7 @@
       <pubDate>Mon, 06 Nov 2017 15:57:20 +0300</pubDate>
       
       <guid>http://bighamster.ru/pry/mfti/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    &lt;a href=&#34;http://lectoriy.mipt.ru/&#34;  target=&#34;_blank&#34; &gt;
-        &lt;img src=&#34;http://bighamster.ru/pics/mfti.png&#34;  /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/mfti.png&amp;rdquo; link=&amp;ldquo;&lt;a href=&#34;http://lectoriy.mipt.ru/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://lectoriy.mipt.ru/&amp;quot;&lt;/a&gt; target=&amp;rdquo;_blank&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}
 &lt;/p&gt;</description>
     </item>
     
@@ -539,13 +550,7 @@
       <pubDate>Sun, 05 Nov 2017 17:11:04 +0300</pubDate>
       
       <guid>http://bighamster.ru/pry/dating1/</guid>
-      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    &lt;a href=&#34;https://geektimes.ru/post/270540/&#34;  target=&#34;_blank&#34; &gt;
-        &lt;img src=&#34;http://bighamster.ru/pics/history-dating.jpg&#34;  /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/history-dating.jpg&amp;rdquo; link=&amp;ldquo;&lt;a href=&#34;https://geektimes.ru/post/270540/&amp;quot;&#34; target=&#34;_blank&#34;&gt;https://geektimes.ru/post/270540/&amp;quot;&lt;/a&gt; target=&amp;rdquo;_blank&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}&lt;/p&gt;
 
 &lt;p&gt;Сегодняшний рассказ будет о методологии науки, в частности о том, каким образом мы можем устанавливать возраст археологических находок, какие основные методы при этом используются и какие физические принципы и процессы лежат в их основе. Прелесть научных методов датировок состоит в том, что они взаимодополняемы и взаимопроверяемы, то есть с помощью одного метода мы можем проверить корректность другого и наоборот, при необходимости внося в него поправки. Также эти «часы» перекрывают огромный временной диапазон – около 9 порядков (на самом деле больше, но для исторических целей «быстрые» часы бесполезны, масштабы эволюционного времени захватывают семь или восемь порядков).
 &lt;/p&gt;</description>
@@ -580,13 +585,7 @@
       <pubDate>Sat, 04 Nov 2017 22:19:13 +0300</pubDate>
       
       <guid>http://bighamster.ru/pry/kogarskaya/</guid>
-      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    
-        &lt;img src=&#34;http://bighamster.ru/pics/kogarskaya.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/kogarskaya.jpg&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}&lt;/p&gt;
 
 &lt;p&gt;Знакомые очень рекомендовали этого экскурсовода по истории древнего Египта&lt;/p&gt;
 

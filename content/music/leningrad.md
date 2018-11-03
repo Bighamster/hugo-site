@@ -10,8 +10,8 @@ categories: ["leningrad"]
     <strong>Сумка</strong>
   </div>
   <div class="col-sm-6">
-    {{< youtube et281UHNoOU >}}
-    <strong>Экспонат</strong>
+    {{< youtube V-2v_Yn4T8o >}}
+    <strong>Народная любовь</strong>
   </div>
 </div>
 <!--more-->
@@ -55,5 +55,9 @@ categories: ["leningrad"]
   <div class="col-sm-6">
     {{< youtube 75JjflWKs98 >}}
     <strong>Ч.П.Х.</strong>
+  </div>
+  <div class="col-sm-6">
+    {{< youtube et281UHNoOU >}}
+    <strong>Экспонат</strong>
   </div>
 </div>

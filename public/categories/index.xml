@@ -327,6 +327,15 @@
     </item>
     
     <item>
+      <title>News</title>
+      <link>http://bighamster.ru/categories/news/</link>
+      <pubDate>Sat, 03 Nov 2018 12:04:08 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Other</title>
       <link>http://bighamster.ru/categories/other/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
@@ -374,7 +383,7 @@
     <item>
       <title>Pry Other</title>
       <link>http://bighamster.ru/categories/pry-other/</link>
-      <pubDate>Wed, 31 Jan 2018 16:33:35 +0300</pubDate>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>http://bighamster.ru/categories/pry-other/</guid>
       <description></description>
@@ -395,6 +404,15 @@
       <pubDate>Mon, 06 Nov 2017 12:24:23 +0300</pubDate>
       
       <guid>http://bighamster.ru/categories/psych/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>http://bighamster.ru/categories/react/</link>
+      <pubDate>Sat, 03 Nov 2018 11:44:48 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/categories/react/</guid>
       <description></description>
     </item>
     
@@ -440,6 +458,15 @@
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://bighamster.ru/categories/skandinavskaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superhero</title>
+      <link>http://bighamster.ru/categories/superhero/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://bighamster.ru/categories/superhero/</guid>
       <description></description>
     </item>
     

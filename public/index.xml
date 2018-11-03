@@ -6,10 +6,77 @@
     <description>Recent content on Bighamster&#39;s notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 29 Jul 2018 17:58:44 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 03 Nov 2018 12:04:08 +0300</lastBuildDate>
     
 	<atom:link href="http://bighamster.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Новостные ресурсы</title>
+      <link>http://bighamster.ru/life/news/</link>
+      <pubDate>Sat, 03 Nov 2018 12:04:08 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/life/news/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://cont.ws/&#34; target=&#34;_blank&#34;&gt;cont.ws&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fondsk.ru/&#34; target=&#34;_blank&#34;&gt;Фонд стратегической культуры&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://anna-news.info/&#34; target=&#34;_blank&#34;&gt;anna-news.info&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Полезные статьи про React</title>
+      <link>http://bighamster.ru/it/react/</link>
+      <pubDate>Sat, 03 Nov 2018 11:44:48 +0300</pubDate>
+      
+      <guid>http://bighamster.ru/it/react/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://habr.com/company/ruvds/blog/428077/&#34; target=&#34;_blank&#34;&gt;React.js: понятное руководство для начинающих&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maxfarseer.gitbooks.io/react-course-ru-v2/content/&#34; target=&#34;_blank&#34;&gt;React.js курс для начинающих&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maxfarseer.gitbooks.io/redux-course-ru-v2/content/&#34; target=&#34;_blank&#34;&gt;React Redux (2-е издание)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ALEXEEV</title>
+      <link>http://bighamster.ru/pry/alexeev/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://bighamster.ru/pry/alexeev/</guid>
+      <description>&lt;figure &gt;
+    &lt;a href=&#34;http://alekseev-photo.ru/&#34;  target=&#34;_blank&#34; &gt;
+        &lt;img src=&#34;http://bighamster.ru/pics/alexeev.png&#34;  /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Супергерои. Чего хотят женщины</title>
+      <link>http://bighamster.ru/music/superhero/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://bighamster.ru/music/superhero/</guid>
+      <description>&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-sm-12&#34;&gt;
+    
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/yfkift5KtqI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+    &lt;strong&gt;Супергерои. Чего хотят женщины&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Новости науки</title>
@@ -294,13 +361,7 @@
       <pubDate>Sat, 03 Mar 2018 20:40:30 +0300</pubDate>
       
       <guid>http://bighamster.ru/it/codemyui/</guid>
-      <description>&lt;figure &gt;
-    &lt;a href=&#34;http://codemyui.com&#34;  target=&#34;_blank&#34; &gt;
-        &lt;img src=&#34;http://bighamster.ru/pics/codemyui.png&#34;  /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/codemyui.png&amp;rdquo; link=&amp;ldquo;&lt;a href=&#34;http://codemyui.com&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://codemyui.com&amp;quot;&lt;/a&gt; target=&amp;rdquo;_blank&amp;rdquo;&amp;gt;}}&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -1613,13 +1674,7 @@ git merge --no-ff feature
       <pubDate>Mon, 06 Nov 2017 15:57:20 +0300</pubDate>
       
       <guid>http://bighamster.ru/pry/mfti/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    &lt;a href=&#34;http://lectoriy.mipt.ru/&#34;  target=&#34;_blank&#34; &gt;
-        &lt;img src=&#34;http://bighamster.ru/pics/mfti.png&#34;  /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/mfti.png&amp;rdquo; link=&amp;ldquo;&lt;a href=&#34;http://lectoriy.mipt.ru/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://lectoriy.mipt.ru/&amp;quot;&lt;/a&gt; target=&amp;rdquo;_blank&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}
 &lt;/p&gt;</description>
     </item>
     
@@ -1629,13 +1684,7 @@ git merge --no-ff feature
       <pubDate>Mon, 06 Nov 2017 15:53:55 +0300</pubDate>
       
       <guid>http://bighamster.ru/life/shestakov/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    &lt;a href=&#34;http://shest.tomsknet.ru/&#34;  target=&#34;_blank&#34; &gt;
-        &lt;img src=&#34;http://bighamster.ru/pics/shestakov.gif&#34;  /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/shestakov.gif&amp;rdquo; link=&amp;ldquo;&lt;a href=&#34;http://shest.tomsknet.ru/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://shest.tomsknet.ru/&amp;quot;&lt;/a&gt; target=&amp;rdquo;_blank&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}
 &lt;/p&gt;</description>
     </item>
     
@@ -1724,10 +1773,10 @@ git merge --no-ff feature
   &lt;div class=&#34;col-sm-6&#34;&gt;
     
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/et281UHNoOU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/V-2v_Yn4T8o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-    &lt;strong&gt;Экспонат&lt;/strong&gt;
+    &lt;strong&gt;Народная любовь&lt;/strong&gt;
   &lt;/div&gt;
 &lt;/div&gt;</description>
     </item>
@@ -1806,13 +1855,7 @@ git merge --no-ff feature
       <pubDate>Sun, 05 Nov 2017 17:11:04 +0300</pubDate>
       
       <guid>http://bighamster.ru/pry/dating1/</guid>
-      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    &lt;a href=&#34;https://geektimes.ru/post/270540/&#34;  target=&#34;_blank&#34; &gt;
-        &lt;img src=&#34;http://bighamster.ru/pics/history-dating.jpg&#34;  /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/history-dating.jpg&amp;rdquo; link=&amp;ldquo;&lt;a href=&#34;https://geektimes.ru/post/270540/&amp;quot;&#34; target=&#34;_blank&#34;&gt;https://geektimes.ru/post/270540/&amp;quot;&lt;/a&gt; target=&amp;rdquo;_blank&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}&lt;/p&gt;
 
 &lt;p&gt;Сегодняшний рассказ будет о методологии науки, в частности о том, каким образом мы можем устанавливать возраст археологических находок, какие основные методы при этом используются и какие физические принципы и процессы лежат в их основе. Прелесть научных методов датировок состоит в том, что они взаимодополняемы и взаимопроверяемы, то есть с помощью одного метода мы можем проверить корректность другого и наоборот, при необходимости внося в него поправки. Также эти «часы» перекрывают огромный временной диапазон – около 9 порядков (на самом деле больше, но для исторических целей «быстрые» часы бесполезны, масштабы эволюционного времени захватывают семь или восемь порядков).
 &lt;/p&gt;</description>
@@ -1896,13 +1939,7 @@ git merge --no-ff feature
       <pubDate>Sun, 05 Nov 2017 00:50:48 +0300</pubDate>
       
       <guid>http://bighamster.ru/it/turnable/</guid>
-      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    
-        &lt;img src=&#34;http://bighamster.ru/pics/turnable.png&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/turnable.png&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}&lt;/p&gt;
 
 &lt;p&gt;Если у вас есть 10-15 фоток чего-нибудь последовательно снятого, то этот плагин сымитирует &amp;ldquo;вращение&amp;rdquo; объекта.
 &lt;/p&gt;</description>
@@ -1979,13 +2016,7 @@ git merge --no-ff feature
       <pubDate>Sat, 04 Nov 2017 22:19:13 +0300</pubDate>
       
       <guid>http://bighamster.ru/pry/kogarskaya/</guid>
-      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    
-        &lt;img src=&#34;http://bighamster.ru/pics/kogarskaya.jpg&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/kogarskaya.jpg&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}&lt;/p&gt;
 
 &lt;p&gt;Знакомые очень рекомендовали этого экскурсовода по истории древнего Египта&lt;/p&gt;
 
@@ -2321,7 +2352,7 @@ git merge --no-ff feature
       <pubDate>Wed, 01 Nov 2017 12:14:05 +0300</pubDate>
       
       <guid>http://bighamster.ru/chess/gambit-morra-4/</guid>
-      <description></description>
+      <description>     </description>
     </item>
     
     <item>
@@ -2330,7 +2361,7 @@ git merge --no-ff feature
       <pubDate>Wed, 01 Nov 2017 12:02:28 +0300</pubDate>
       
       <guid>http://bighamster.ru/chess/gambit-morra-3/</guid>
-      <description></description>
+      <description>     </description>
     </item>
     
     <item>
@@ -2339,7 +2370,7 @@ git merge --no-ff feature
       <pubDate>Wed, 01 Nov 2017 11:44:16 +0300</pubDate>
       
       <guid>http://bighamster.ru/chess/gambit-morra-2/</guid>
-      <description></description>
+      <description>     </description>
     </item>
     
     <item>
@@ -2348,7 +2379,7 @@ git merge --no-ff feature
       <pubDate>Tue, 31 Oct 2017 17:54:16 +0300</pubDate>
       
       <guid>http://bighamster.ru/chess/gambit-morra-1/</guid>
-      <description>Дмитрий Гриценко (Типичные ловушки 1)    Дмитрий Гриценко (Типичные ловушки 2)     Шахматный Феникс (Часть 1)    Шахматный Феникс (Часть 2)     Шахматный Феникс (Часть 3)</description>
+      <description>   Дмитрий Гриценко (Типичные ловушки 1)    Дмитрий Гриценко (Типичные ловушки 2)     Шахматный Феникс (Часть 1)    Шахматный Феникс (Часть 2)     Шахматный Феникс (Часть 3)   </description>
     </item>
     
     <item>
@@ -2708,7 +2739,7 @@ git merge --no-ff feature
       <pubDate>Thu, 26 Oct 2017 22:45:28 +0300</pubDate>
       
       <guid>http://bighamster.ru/life/mi-perespali-sluchaino/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Мы переспали случайно. Утром я что-то делал, звонил кому-то, и, может быть, через полчаса - заметил её глаза. Густые волосы, высокие скулы. Вспомнил, как мы вчера уснули. Что было до этого, прошлым вечером. Как долго мы болтали о вечном. Коса. И мини. Длинные ноги. Манера все время шутить о боге, футболка в обтяжку, молния сзади, стоны на автостраде. - Наверно, хватит уже шататься. Тебе хоть есть уже восемнадцать?</description>
     </item>
     
     <item>
@@ -2863,7 +2894,7 @@ git merge --no-ff feature
       <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://bighamster.ru/chess/post10/</guid>
-      <description></description>
+      <description>     </description>
     </item>
     
     <item>

@@ -172,13 +172,7 @@
       <pubDate>Sun, 05 Nov 2017 00:50:48 +0300</pubDate>
       
       <guid>http://bighamster.ru/it/turnable/</guid>
-      <description>&lt;figure class=&#34;float-left pr-2&#34;&gt;
-    
-        &lt;img src=&#34;http://bighamster.ru/pics/turnable.png&#34;  /&gt;
-    
-    
-&lt;/figure&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; figure src=&amp;ldquo;/pics/turnable.png&amp;rdquo; class=&amp;ldquo;float-left pr-2&amp;rdquo;&amp;gt;}}&lt;/p&gt;
 
 &lt;p&gt;Если у вас есть 10-15 фоток чего-нибудь последовательно снятого, то этот плагин сымитирует &amp;ldquo;вращение&amp;rdquo; объекта.
 &lt;/p&gt;</description>
